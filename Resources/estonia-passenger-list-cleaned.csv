@@ -1,0 +1,990 @@
+Survived,Pclass,Name,Sex,Age
+0,1,"Aadli, Arvid Kalle",male,62
+0,0,"Aaliste, Lea",female,22
+0,0,"Aavaste, Airi",female,21
+0,0,"Aavik, Juri",male,53
+0,1,"Ahlstrom, Britta Elisabet",female,55
+0,1,"Ahlstrom, Gerd Inga Magnhild",female,71
+0,1,"Ahlstrom, Hjalmar",male,60
+0,1,"Ahman, Pille",female,18
+0,0,"Ainsalu, Tormi",male,30
+0,1,"Aldrin, Anna Maria",female,63
+0,1,"Aldrin, Lars Bertil",male,67
+0,1,"Alekseeva, Nelli",female,61
+0,0,"Alender, Urmas",male,40
+0,1,"Alep, Tamara",female,68
+0,0,"Alla, Katrin",female,36
+0,0,"Alla, Line",female,23
+0,1,"Allas, Armido",male,31
+0,1,"Alm, Bengt Solve Ingemar",male,74
+0,1,"Alm, Gun Dagmar Ingegerd",female,68
+0,1,"Almquist, Carl Olof Ingvar",male,56
+0,1,"Anderljung, Hjordis Irene",female,63
+1,0,"Anderson, Paul",male,32
+0,1,"Andersson, Agne Karl Arvid",male,62
+0,1,"Andersson, Anna Lena",female,28
+0,1,"Andersson, Ingrid Viola Amalia",female,72
+0,1,"Andersson, Iris Viktoria",female,75
+0,1,"Andersson, Jill Maria",female,33
+0,1,"Andersson, Kaj Olav Arthur",male,42
+0,1,"Andersson, Karl Erik",male,74
+0,0,"Andersson, Lars Magnus",male,33
+0,1,"Andersson, Monica Ingegerd",female,41
+1,1,"Andersson, Per Albert",male,50
+0,1,"Andersson, Rut Ingegerd",female,65
+0,1,"Andersson, Ruth Inger",female,39
+0,1,"Andersson, Ulla Gunvor Linnea",female,69
+0,1,"Andersson, Vivi Ingeborg Mariann",female,65
+0,1,"Andersson, Ake Hilmer",male,70
+1,1,"Andrejevs, Nikolajs",male,36
+0,0,"Andresson, Arvo",male,40
+0,0,"Annus, Alla",female,38
+0,1,"Annus, Lembit",male,53
+0,0,"Antuk, Evi",female,52
+0,1,"Apelman, Evald Valter",male,69
+0,1,"Apelman, Karin Cecilia",female,63
+1,1,"Arak, Anti",male,21
+0,0,"Arro, Tiina",female,43
+0,1,"Artjuhhov, Aleksei Grigory",male,49
+0,0,"Arula, Ulle",female,27
+1,1,"Aser, Janno",male,21
+1,1,"Askerup, Ewa Margaretha",female,31
+0,1,"Asplund, Ann-Charlotte Carlsdott",female,49
+0,1,"Aspman, Bengt Gunnar",male,73
+0,1,"Aspman, Stina Astrid Matilda",female,68
+0,1,"Atterfors, Dagny Margareta",female,49
+0,1,"Jatterfors, Ingegerd",female,67
+0,1,"Augustin, Herbert",male,68
+0,0,"Aun, Urve",female,45
+0,1,"Ausmees, Raivo",male,32
+0,1,"Ausmees, Tiina",female,31
+0,1,"Auvinen, Raimo Johannes",male,64
+0,1,"Avekukk, Andres",male,20
+0,1,"Axelsson, Tuula Anneli",female,46
+0,0,"Barasinski, Carita Charloth",female,29
+1,1,"Barney, Paul",male,35
+0,1,"Bekkewold, Eva Louise",female,41
+0,0,"Belzetskaja, Heli",female,26
+0,1,"Ben Hamou, Hicham",male,29
+0,1,"Ben Tounsi, Mohamed",male,21
+0,1,"Berendsen, Ravo",male,31
+0,1,"Berg, Lars Olof Anders",male,42
+0,0,"Bergendahl, Jan Christian",male,45
+0,1,"Bergenheim, Bjorn Ola Engelbert",male,51
+0,1,"Bergenheim, Karin Margareta",female,49
+0,1,"Bergkvist, Ellinor Margareta",female,67
+0,1,"Bergkvist, Helge Viktor",male,74
+1,1,"Ergqvist, Karin Linnea",female,31
+1,1,"Ergovist, Ronnie Ingvar",male,41
+0,1,"Bergsmark, Gun Monica",female,53
+0,1,"Berlin, Gunborg Linnea",female,66
+0,1,"Bernans, Janis",male,35
+0,1,"Bernervall, Ann-Marie Yvonne",female,44
+0,1,"Bernovics, Agrita",female,28
+0,1,"Bielis, Alberts-Julijs",male,80
+0,1,"Birsane, Marija",female,36
+0,1,"Birsane, Nikola",male,5
+0,1,"Blixt, Ingrid Birgitta Margareta",female,55
+0,1,"Blomqvist-Spagnolo, Marta Eva-Br",female,45
+1,0,"Blumfelth, Helve",female,33
+0,1,"Bodin, Karl Ove",male,50
+0,0,"Bogdanov, Viktor",male,42
+1,1,"Bogren, Leif Vilhelm",male,54
+0,1,"Boiwe, Gisela",female,41
+0,1,"Borgh, Karl",male,65
+1,1,"Boje, Morten",male,28
+0,1,"Brandstetter, Asta",female,74
+0,1,"Bridet, Sylvie",female,32
+0,1,"Bromander, Mikael Sven-Gunnar",male,23
+0,1,"Bryggman Smedenborn, Solveig Ann",female,57
+0,1,"Brandstrom, Lars",male,64
+0,1,"Burakova, Irina",female,39
+0,1,"Burevik, Catharina Margareta",female,37
+0,1,"Burman, Linda Annika Cecilia",female,17
+0,1,"Bylund, Gunnar Lennart",male,69
+0,0,"Botker, Elviira",female,48
+0,1,"Calamnius, Eva Maria",female,30
+0,1,"Carlsson, Alf Bernt Mauritz",male,60
+0,1,"Carlsson, Lennart Sture Rudolf",male,37
+0,1,"Carlsson, Majvod",female,69
+0,1,"Carlsson, Ake Holger",male,75
+0,1,"Carseus, Marie Louise",female,54
+0,1,"Cernova, Natalja",female,21
+0,1,"Chreisti, Kennet Bertil",male,50
+0,1,"Claesson, Gun Carina",female,27
+0,1,"Claesson, Susanne Elisabet",female,29
+0,1,"Crilen, Marta Agneta",female,49
+0,1,"Cronstrom, Anne-Marie",female,71
+0,1,"Culkstene, Skaidrite",female,49
+0,1,"Dahlin, Bengt Olof Mauritz",male,53
+0,0,"Dahlin, Bjorn Mikael",male,35
+0,1,"Dahlstrom, Ann Catrin",female,50
+0,1,"Daniluk, Sergei",male,25
+0,1,"De Klerk, Tomas Jan",male,32
+1,1,"Duijndan, Stephan",male,21
+0,1,"Duke, Erik Axel Goran",male,42
+0,1,"Eberstein, Maj Rigmor",female,59
+0,1,"Edstam, Astrid Elisabet",female,60
+0,1,"Edur, Ljudmilla",female,56
+0,1,"Egeryd, Bengt Remi",male,50
+0,1,"Eha, Priit",male,25
+1,1,"Ehn, Marianne Ellen Elisabet",female,59
+0,1,"Ehn, Wolter Johan",male,63
+0,1,"Ehrenholm, Gunilla Viola",female,49
+1,1,"Ehrnsten, Per-Erik",male,41
+1,1,"Eklof, Christer Ossian",male,45
+0,1,"Ekman, Lars Gunnar",male,69
+1,1,"Ekstedt, Nils Hakan Vilhelm",male,50
+0,1,"Eksvard, Barbro Gunnel Marianne",female,50
+0,1,"Elofson, Bjorn Magnus",male,56
+0,1,"Engberg, Anngard Irene",female,65
+0,1,"Engberg, Karl Arne",male,69
+0,1,"Jenggron, Arthur Sigvard",male,67
+0,1,"Engstrom, Bernt Erik",male,64
+0,1,"Engstrom, Betty",female,45
+0,1,"Ericsson Begodzki, Annbritt Mon",female,49
+0,1,"Eriksson Brask, Gunilla Maria",female,45
+1,1,"Eriksson, Anders Harald",male,45
+0,1,"Eriksson, Ann-Charlotte",female,37
+0,1,"Eriksson, Britta Maria Teqdora",female,81
+0,1,"Eriksson, Gunni Aina Karolina",female,72
+0,1,"Eriksson, Iris Linnea Marianne",female,57
+1,1,"Eriksson, Karin Birgit Elisabet",female,51
+0,1,"Eriksson, Karin Ingela Elisabeth",female,24
+0,1,"Eriksson, Maj-Britt Irene",female,74
+0,1,"Eriksson, Margit Ingeborg",female,70
+0,1,"Eriksson, Nils Olof Edvin",male,72
+0,1,"Jeriksson, Sonny Dag",male,56
+0,1,"Eriksson, Stina Margareta",female,72
+0,1,"Ernst Wernered, Helena Etelka",female,37
+0,1,"Estonius, Lii",female,64
+0,1,"Fahlander, Anna Inger",female,60
+0,1,"Fahlstrom, Ingemar Rudolf",male,52
+0,1,"Finnanger, Johan Ludvig",male,39
+0,1,"Finnanger, Marie",female,14
+1,1,"Finnanger, Mats",male,12
+0,1,"Floderus, Valborg",female,67
+0,1,"Flodin, Birgit Viola",female,59
+0,1,"Flodstrom, Frans Hanseman",male,55
+1,0,"Florysiak, Jerzy",male,43
+0,1,"Forsen, Elvy Marianne",female,47
+0,1,"Forslund, Anita Margareta",female,46
+0,1,"Forssberg, Nils Olof",male,58
+0,1,"Fransson, Nils Ivan",male,62
+0,1,"Fransson, Sven Ingmar",male,61
+0,1,"Franzen, Sven Evert Arnold",male,72
+0,1,"Fredriksson, Anneli Inger",female,35
+0,0,"Freimann, Raivo",male,21
+0,1,"Frideback, Berit Christina",female,43
+0,1,"Frisk, Eeva Maria",female,53
+0,1,"Frykberg, Marta Olga Inez",female,69
+0,1,"Froseth, Ellen Marie",female,48
+0,1,"Furste, Hans-Peter",male,37
+1,1,"Fagersten, Maria Elisabeth",female,34
+0,1,"Falt, Rose Marie Maud",female,44
+0,1,"Gahnold, Greta Ingeborg",female,72
+0,1,"Garhagen, Elsie Maria",female,76
+1,1,"Gemheden, Erik Gustav Evert",male,22
+0,1,"Genchel, Ester Kerstin",female,44
+0,1,"Gifvars, Inga-Britt",female,57
+0,1,"Gobins, Gunars",male,29
+0,0,"Goj, Henryk",male,49
+1,1,"Grafstrom, Jan Olof",male,43
+1,1,"Gritsious, Igor",male,24
+1,1,"Grkovic, Nebojsa John",male,35
+0,1,"Grossfeldt, Alvo",male,49
+1,1,"Grunde, Thomas Erik Andreas",male,43
+0,1,"Grundstrom, Annika Kristine",female,26
+0,1,"Grundstrom, Erik Lennart",male,55
+0,1,"Gronhage, Arne Viktor",male,76
+0,1,"Gudaitiene, Vitalija",female,40
+0,1,"Gudaityte, Gintare",female,14
+0,1,"Gudbrandsen, Frode",male,42
+0,1,"Gullberg, Kerstin Elisabet",female,50
+0,1,"Gunnar, Kerstin Ingeborg Linnea",female,59
+0,1,"Gustafsson, Anna Elisabeth",female,24
+0,1,"Gustafsson, Bertil Villehard Ale",male,74
+0,1,"Gustafsson, Christel Lisa",female,49
+0,1,"Gustafsson, Johan Olof Peter",male,20
+0,1,"Gustafsson, Katy Margareta",female,57
+0,1,"Gustafsson, Nils Verner",male,74
+0,1,"Gustafsson, Rut Ingrid",female,68
+0,1,"Gustafsson, Stefan Lars Andreas",male,19
+0,1,"Gustavsson, Ann Christine",female,33
+0,1,"Gustavsson, Birgit Elisabet",female,52
+0,1,"Gustavsson, Gosta Emil Lennart",male,75
+0,1,"Gustavsson, Jan Erik",male,22
+0,1,"Gustavsson, Svea Ingeborg Maria",female,69
+0,1,"Gutelind, Ulla-Britt Rose-Marie",female,45
+0,1,"Haas, Anneli",female,24
+0,0,"Habermann, Liia",female,26
+0,1,"Hagelberg, Asa Alfhild",female,47
+0,1,"Haglund, Karin Marianne",female,70
+0,1,"Hagman, Hanses Marta Gunborg",female,71
+0,1,"Hagman, Lars Erik Henrik",male,75
+0,1,"Hagstedt, Maria Ann Linnea",female,26
+0,1,"Hagstrom, Elvy Sofia",female,78
+0,1,"Hain, Armilda Alice",female,80
+1,1,"Hakanpaa, Altti Juhani",male,43
+0,1,"Hallberg, Maj Gunnel Henny",female,62
+0,1,"Hallin, Bob Sture",male,40
+0,1,"Halter, Adam",male,49
+0,1,"Halttunen, Raili Kyllikki",female,55
+0,0,"Hamburg, Mari",female,42
+0,1,"Hammarstrom, Rut Astrid Elisabet",female,48
+0,1,"Hannus, Oskar",male,71
+0,1,"Hansson, Kristina Maria",female,35
+0,1,"Hardeberg, Inga Charlotta Oddsdo",female,43
+0,1,"Haring, Ants",male,36
+0,0,"Heamagi, Juta",female,47
+0,1,"Hedin, Sven Ake Ruben",male,70
+0,1,"Hedman, Asa Karolina",female,18
+0,1,"Hedovist, Maria Cecilia",female,39
+1,1,"Hedrenius, Sara Maria",female,20
+0,0,"Heinonen, Toni Mikael",male,22
+0,1,"Heinsoo, Aili",male,22
+0,0,"Hellerma, Ester",female,39
+0,1,"Hellgren, Berth Thomas",male,27
+1,1,"Hellgren, Kjell Tage Oskar",male,51
+0,1,"Helmane, Inga",female,33
+0,1,"Hendrikson, Helen",female,24
+0,1,"Henriksson, Evert Per-Olof",male,37
+0,1,"Henriksson, Karl Gustav Henry",male,74
+0,1,"Henrysson, Nils Olle Valter",male,52
+0,1,"Henrysson, Rebecka Irene",female,49
+0,0,"Herma, Juhan",male,30
+0,1,"Hermansson, Hakan Ingvar",male,40
+0,1,"Hernborg, Inger Barbro",female,67
+0,1,"Hernborg, Sven Anders Jerker",male,71
+1,1,"Hestnes-Nisancioglo, Kerim",male,19
+1,1,"Hillerstrom, Mats Edvard",male,26
+0,1,"Holmkvist, Doris Elisabet",female,65
+0,1,"Holmqvist, Jan-Olof",male,56
+0,1,"Holmstrom, Olof Gunnar",male,55
+0,1,"Holmstrom, Ase Birgitta",female,56
+0,1,"Holstrom, Sven Ove",male,71
+0,1,"Holtblad, Inez Barbro",female,63
+0,1,"Holtblad, Nils-Goran Axel",male,62
+0,1,"Hong, Kindel",male,58
+0,1,"Honkkanen, Seppo",male,51
+0,1,"Hropova, Lilia",female,32
+0,1,"Hultman, Bo Sigvard Emanuel",male,63
+0,1,"Hultman, Elv! Anna Viola",female,65
+0,1,"Hakansson, Barbro Agneta",female,45
+0,1,"Hakansson, Karin Ann-Helen",female,37
+0,1,"Hallegard, Siv-Britt Gunilla",female,48
+0,1,"Hallnert, Signe Mariana",female,69
+1,1,"Harstedt, Kent Rolf Magnus",male,29
+0,1,"Hogman, Karl Gosta Bertie",male,76
+0,1,"Hojfors Hong, Signe Margot Viola",female,62
+0,1,"Jidla, Ingrid Ethel",female,65
+1,1,"Ihalainen, Jukka Pekka",male,31
+0,0,"Isacsson, Pierre Einar",male,46
+0,1,"Isaksson, Per Olov",male,67
+0,1,"Isaksson, Sven Herman",male,51
+0,1,"Isefjord, Erik Hakan",male,42
+1,1,"Itaranta, Vilho Valtteri",male,60
+0,0,"Ivanov, Anatoli",male,43
+0,1,"Ivanova, Tamara",female,49
+0,0,"Ivask, Liina",female,16
+0,1,"Iwuagwu, Anthony Uchechukwu",male,33
+0,1,"Jagodzinsky, Paul",male,75
+0,1,"Jakobsson, Birgit Maria",female,67
+0,1,"Jakubovska, Dina",female,27
+0,1,"Jakubovskis, Alexsandrs",male,35
+0,1,"Jansen, Carola Emmy Christina",female,29
+0,1,"Jansen, Friedhelm Ernst Karl",male,64
+0,1,"Janzon, Gerd Hillevi Svea",female,68
+0,1,"Jauce, Andra",female,36
+0,1,"Jermakova, Tamara",female,72
+0,1,"Jibreus, Gote Ambrosius",male,76
+0,1,"Joa, Heldor",male,68
+0,1,"Johannsen, Ann-Britt Ingegard",female,63
+0,1,"Johannsen, Gustaf Adolf",male,72
+0,1,"Johansson, Bengt Vilhelm Eugen",male,74
+0,1,"Johansson, Dan Pether Stefan",male,42
+0,1,"Johansson, Gudrun Stigsdotter",female,72
+0,1,"Johansson, Ing-Mari Kristina Eli",female,41
+0,1,"Johansson, Inga Lilly Viola",female,65
+0,1,"Johansson, Ingegerd Linnea",female,67
+0,1,"Johansson, Maja Kristina",female,82
+0,1,"Johansson, Mona Elisabet",female,55
+1,0,"Johansson, Sirje",female,44
+1,1,"Johnsson, Tom Olov",male,33
+1,1,"Jolind, Sten Karl Rudolf",male,64
+0,1,"Jonsson, Bodil Ester Gunilla",female,50
+0,1,"Jonsson, Kerstin Mathilda",female,57
+0,1,"Jonsson, Lars Thony",male,42
+0,1,"Jonsson, Petra Maria",female,30
+1,1,"Juhanson, Ain-Alar",male,18
+0,1,"Juhkam, Kristel",male,19
+0,1,"Jurme, Lia",female,63
+0,0,"Juuro, Ester",female,39
+1,1,"Juuse, Veljo",male,24
+0,1,"Juust, Merle",female,21
+1,1,"Jarvi, Maiga",female,50
+1,0,"Jarvinen, Peter Juhani",male,31
+0,1,"Joner, Inger Margareta",female,47
+0,1,"Jonsson, Agneta",female,53
+0,1,"Jonsson, Bengt Daniel",male,19
+0,1,"Jorgensen, Dick Roger",male,20
+0,1,"Jorgensen, Lars Kristofer",male,13
+0,1,"Jorgensen, Tove Lonfeldt",female,41
+0,1,"Kaaleste, Mihkel",male,36
+0,1,"Kaare, Kaarel",male,53
+1,1,"Kaasik, Marek",male,21
+0,1,"Kacs, Galina",female,27
+0,1,"Kacs, Mihails",male,4
+1,0,"Kadak, Nennes Hannes",female,23
+0,1,"Kain, Eino Olavi",male,71
+0,1,"Kala, Merike",female,33
+0,1,"Kalenius, Inger Elisabet",female,62
+0,0,"Kaljurand, Katlin",female,21
+0,1,"Kaljuste, Ilona",female,21
+1,1,"Kalk, Neeme",male,23
+0,1,"Kallasmaa, Kaido",male,21
+0,1,"Kallioniemi, Barbro Jeanette",female,54
+0,0,"Kalvet, Kulli",female,30
+1,1,"Kalvet, Maiko",male,21
+1,1,"Kampuse, Gundega",female,21
+0,1,"Kandeman, Ulla Birgitta",female,55
+0,0,"Kannussaar, Peeter",male,30
+0,0,"Kanter, Sirje",female,37
+0,1,"Karlberg, Gartie Teresia",female,64
+0,1,"Karlsson, Anders Hakan",male,38
+0,1,"Karlsson, Anita Elisabet",female,46
+0,1,"Karlsson, Artur Lennart",male,73
+0,1,"Karlsson, Karin Majvor",female,56
+0,1,"Karlsson, Karl Erik Elias",male,68
+0,1,"Karlsson, Kerstin Margareta Vilh",female,70
+0,1,"Karlsson, Maria Elisabeth",female,18
+0,1,"Karlsson, Pernilla Kristina Elis",female,19
+0,1,"Karlsson, Stig Vage Allan",male,59
+0,1,"Karu, Ulle",female,34
+0,1,"Karvanen, Seppo Olavi",male,46
+0,1,"Kask, Vaike",female,68
+0,1,"Kasparsons, Janis",male,37
+0,1,"Kasterpalu, Leo",male,46
+0,1,"Kaukula, Kaljo",male,45
+0,0,"Kaur, Katrin",female,30
+0,1,"Kazakova, Tamara",female,40
+1,1,"Kermet, Margus",male,30
+0,1,"Kern, Harald",male,45
+0,1,"Kerslow, Per Hugo",male,40
+0,1,"Kettel, Berit Irene Ingegerd",female,56
+0,1,"Kevvai, Oliver",male,30
+0,0,"Kikas, Kaimar",male,21
+0,1,"Kikas, Merit",female,20
+1,1,"Kikas, Yloq",male,24
+1,1,"Kikuts, Valters",male,23
+0,1,"Kilgast, Avo",male,53
+0,0,"Kilumets, Maria",female,20
+0,0,"Kimmel, Aare",male,29
+0,1,"Kindberg, Ann-Mari Elisabet",female,51
+0,1,"Kindberg, Stig Hakan Einar",male,50
+1,0,"Kippa, Eero Olavi",male,31
+0,1,"Kippar, Ott",male,78
+0,0,"Kiri, Eve",female,36
+0,1,"Kirmann, Raul",male,29
+0,0,"Kivila, Saidya",female,48
+0,0,"Kivipold, Malle",female,44
+0,1,"Klasson, Lennart Mikael",male,23
+1,1,"Klavins, Ints",male,22
+0,1,"Klettenberg, Gunnar",male,10
+0,1,"Klettenberg, Kalle",male,36
+0,1,"Klis, Kalev",male,29
+1,1,"Klug, Eckard",male,54
+0,1,"Knutsson, Hardy Gideon",male,54
+0,0,"Kolesnikova, Adelja",female,40
+0,0,"Kolosevski, Stanislav",male,26
+1,0,"Kondrar, Annely Emilia",female,23
+0,1,"Konsap, Heino",male,50
+0,1,"Koogas, Aavo",male,35
+0,0,"Kopli, Elve",female,20
+0,0,"Koplimagi, Sirje",female,35
+1,0,"Koppel, Aarne",male,37
+1,1,"Korjas, Jurgen",male,16
+0,1,"Kornel, Vello",male,60
+0,1,"Jkoskenkorva, Salme Annikki",female,69
+0,1,"Koskenkorva, Tauno Ilmari",male,74
+0,1,"Kovalev, Vassily Philip",male,49
+1,1,"Kozareva, Leili",female,29
+0,1,"Krantz, Berita Marga Rose-Marie",female,38
+0,1,"Krebs, Katrin",female,20
+0,1,"Kreek, Ferdinand",male,74
+0,1,"Krioutchkov, Valeri",male,24
+1,1,"Krjutskov, Vasili",male,67
+0,1,"Kroon, Astrid Gunbritt Linnea",female,54
+0,0,"Kruusmaa, Kristiina",female,21
+0,0,"Kubar-Koskel, Angelika",female,23
+0,0,"Kuik, Livi",female,36
+0,1,"Kuiv, Tarmo",male,29
+0,1,"Kukk, Ago",male,28
+1,0,"Kukk, Einar",male,32
+0,0,"Kukk, Kalev",male,28
+0,1,"Kukk, Merit",female,31
+1,1,"Kullamaa, Andrus",male,18
+0,1,"Kuller, Andres",male,22
+0,1,"Kumlin, Hjordis Teresia",female,65
+0,1,"Kundla, Kyllike",female,49
+0,1,"Kuppar, Garry",male,17
+0,1,"Kupper, Maria",female,67
+0,1,"Kurdve, Madli",female,51
+0,0,"Kuur, Lia",female,43
+0,0,"Kuuse, Eva",female,41
+0,0,"Kuusk, Ande",female,42
+0,0,"Kuusk, Katrin",female,21
+0,1,"Kuuste, Andres",male,35
+0,1,"Kallskog, Anna Margaretta",female,53
+0,1,"Kand, Toomas",male,57
+0,1,"Kark, Liili",female,74
+0,1,"Kasper, Kristin",female,17
+0,1,"Kopsen, Agneta Ruth Ingegerd",female,18
+0,1,"Korling, Lotten Vera",female,73
+1,1,"Koop, Krista",female,19
+0,0,"Laak, Riina",female,24
+0,1,"Laamanen, Eino Olav",male,61
+1,1,"Laantee Reintamm, Carl Eric",male,26
+0,1,"Laasik, Lemmi",female,23
+0,1,"Labi, Krista",female,41
+0,1,"Labi, Matti",male,46
+0,1,"Lagerqvist, Gudrun Ingegerd",female,55
+0,1,"Laigar, Leander",male,67
+1,1,"Lambertsson, Karl Urban",male,33
+1,1,"Lamke, Lars Olof",male,63
+0,1,"Langemar, Marie-Louise Caroline",female,49
+0,1,"Lans, Ann-Catrin Maria",female,36
+0,1,"Larsen, Ejner Alfred",male,72
+0,1,"Larsson, Elis Clas Goran",male,40
+0,1,"Larsson, Inger Katarina",female,30
+0,1,"Larsson, Maj Elisabet",female,74
+0,1,"Larsson, Margaretha Elisabeth",female,34
+0,1,"Larsson, Marie Susanne Eva Krist",female,27
+0,0,"Lass, Pia",female,36
+0,1,"Lass, Raivo",male,41
+0,1,"Laur, Rein",male,49
+0,1,"Laurand, Andrus",male,40
+0,1,"Laurand, Egon",male,18
+0,1,"Lauringson, Endel",male,53
+1,1,"Lausma, Tambet",male,31
+1,1,"Lee, Aina",female,26
+1,1,"Lee, Aulis",male,28
+0,0,"Leemets, Terje",female,29
+0,0,"Leiger, Lembit",male,43
+0,1,"Leijon, Solveig Carina",female,45
+0,0,"Lennmor, Carl Gregor",male,36
+0,1,"Lett, Kaja",female,27
+0,1,"Leuska, Inna",female,44
+0,1,"Leuska, Kiira",female,47
+0,1,"Levartovski, Paul",male,40
+0,1,"Lidner, Dagny Margaretta",female,60
+1,1,"Lien, Yngve",male,19
+0,1,"Ligi, Priit",male,36
+1,0,"Likamaa, Paula Anne Maarit",female,30
+0,0,"Liv, Kalju",male,47
+0,1,"Liva, Juhan",male,13
+0,0,"Liva, Meeli",female,44
+0,1,"Luvaste, Thu",female,52
+0,1,"Lillepalu, Ulle",female,35
+0,1,"Lillepuu, Renate",female,70
+0,1,"Lilliehook, Eva Marianne",female,41
+0,1,"Lind, Sten Harald",male,48
+0,1,"Lindahl, Gunnel Barbro Margaretta",female,49
+0,1,"Lindahl, Karin Gunnela Matsdotte",female,5
+0,1,"Lindahl, Mats Hugo",male,50
+1,0,"Linde, Silver",male,24
+0,1,"Linder, Gosta Georg",male,73
+0,1,"Lindgren, Karola Maria",female,47
+0,0,"Lindok, Katrin",female,18
+0,1,"Lindqvist, Ebba Agneta Elisabeth",female,43
+0,1,"Lindroos, Raili Helja",female,61
+0,1,"Lindskog, Mats Hakan",male,53
+0,1,"Lindstrom, Kjell Arne",male,48
+1,1,"Lindstrom, Magnus Erik Yrjo",male,23
+0,1,"Lindstrom, Margareta Kristina",female,46
+0,1,"Lindstrom, Sten Olof",male,68
+0,1,"Lindstrom, Tyra Kristina",female,66
+0,1,"Lindvall, Krister Erik",male,24
+0,0,"Lomp, Tonu",male,22
+0,1,"Looijenga, Gerrard",male,66
+0,1,"Luigela, Reet",female,51
+0,1,"Lumeste, Mihkel",male,30
+0,1,"Lundberg, Siv Ingegerd",female,47
+0,1,"Lundholm, Leif Gustav",male,50
+0,1,"Lundin, Anna Margareta",female,56
+0,1,"Lundkvist, Gun Berit",female,54
+0,1,"Lundkvist, Ingrid Margareta Elis",female,48
+0,1,"Lundqvist, Karl Einar",male,70
+0,1,"Lundstrom, Rangvi Karin Elisabet",female,49
+0,1,"Lusikas, Paul",male,30
+0,1,"Langstrom, Annika Christina",female,30
+0,1,"Laane, Urmas",male,31
+0,1,"Lofling, Karl Hugo Arne",male,59
+0,1,"Lofstedt, Juta",female,29
+0,1,"Lofstrom, Elna",female,59
+0,1,"Lofstrom, Isak Herbert",male,59
+0,0,"Louk, Terje",female,27
+1,1,"Madar, Ants",male,46
+0,1,"Magnusson, Ellen Sigrid Elisabet",female,78
+0,1,"Magnusson, Lars Magnus Vilhelm",male,71
+0,1,"Magnusson, Ruth Ingrid",female,69
+0,1,"Magnusson, Siv Margareta",female,57
+1,1,"Maidre, Andrus",male,19
+0,0,"Makarenko, Adam",male,52
+0,0,"Makarova, Olga",female,39
+0,1,"Makk, Epp",female,30
+0,1,"Makk, Raivo",male,45
+0,0,"Malm, Uno",male,44
+0,0,"Malm-Uksti, Anne",female,31
+0,1,"Malmberg, Inger Margaretta",female,55
+0,1,"Malmberg, Karl Johan Gunnar Gunn",male,56
+0,1,"Malmgren, Birgitta Linnea",female,54
+0,1,"Malmstrom, Bengt Georg",male,70
+0,1,"Malmstrom, Margit Signhild Krist",female,67
+0,1,"Mamaev, Alexsandre Oliirievich",male,25
+0,1,"Mamedov, Timur",male,24
+0,1,"Mannberg, Jan-Erik",male,57
+0,1,"Manning, John William",male,63
+0,0,"Maripuu, Mirjam",female,16
+0,1,"Markus, Juri",male,41
+0,1,"Marttinen, Jaakko Antero",male,55
+0,1,"Matsalu, Ivi",female,58
+1,0,"Matt, Valdur",male,29
+0,1,"Mattsson, Annika Elisabeth Marga",female,34
+0,1,"Mattsson, Elsie Viola Elisabet",female,55
+0,1,"Mattsson, Karl Ake",male,70
+0,1,"Maxe, Aino Anita Gunilla",female,44
+0,1,"Melehoff, Maud Ros-Marie",female,41
+0,1,"Mellstrom, Ulla Birgitta",female,47
+0,0,"Meos, Tht",male,25
+0,0,"Metsallik, Anneli",female,22
+0,1,"Metsallik, Maarika",female,18
+0,0,"Metspalo, Aldo",male,23
+0,1,"Mild, Britt Inger",female,40
+0,1,"Miliauskas, Vytatas",male,44
+0,1,"Mintchoukova-Holmstein, Olga Vlad",female,31
+0,0,"Molloka, Ille",female,34
+1,0,"Moosaar, Tanel",male,23
+0,1,"Morel, Lucia Ljutsia",female,67
+1,1,"Mullo, Jaak",male,26
+0,0,"Murumagi, Hedi",female,22
+0,0,"Muur, Riho",male,26
+0,0,"Muur, Tina",female,32
+0,1,"Myrberg, Dan-Anders Adrian",male,64
+0,1,"Myrberg, Monica Anita",female,48
+0,1,"Myrstrom Karlsson, Susanne Marle",female,31
+0,1,"Mansson, Elvir Martin",male,78
+0,1,"Mansson, Sven Erik",male,72
+0,1,"Mardh, Gull-Britt Agneta Maria",female,51
+0,1,"Mahl, Curt Sixten",male,52
+0,1,"Maki-Kala, Erkki Juhani",male,52
+0,1,"Makinen, Jarmo Kalervo",male,37
+0,1,"Mandla, Elmar",male,69
+0,0,"Manniste, Heddi",female,23
+1,0,"Martson, Vasili",male,42
+1,0,"Molder, Tiina",female,22
+0,1,"Moller, Dani",male,20
+0,1,"Moller, Lennart",male,68
+0,1,"Moller, Nils Torsten",male,77
+1,0,"Mottus, Hele",female,23
+0,1,"Naaralainen, Tiina-Kaisa",female,36
+0,0,"Navjortkina, Natalja",female,38
+0,0,"Niglas, Silvia",female,50
+0,1,"Niinelt, Mart",male,41
+0,0,"Nikolajeva, Milvi",female,38
+0,1,"Nikulsews, Janis",male,23
+1,1,"Nilsson, Bengt Arthur",male,34
+0,1,"Nilsson, Britt Margareta",female,39
+0,1,"Nilsson, David Rickard",male,18
+0,1,"Nilsson, Ellen Gunborg Eugenia",female,74
+0,1,"Nilsson, Fritz Oskar Ferdinand",male,70
+0,1,"Nilsson, Hans Lennart",male,30
+0,1,"Nilsson, Karin Marie Viola",female,28
+0,1,"Nilsson, Karl Arne",male,44
+0,1,"Nilsson, Karl Ove",male,44
+0,1,"Nilsson, Mona Irene",female,58
+0,1,"Nilsson, Ove Lennart",male,57
+1,1,"Nilsson, Per Martin Andreas",male,22
+0,0,"Nisu, Anneli",female,25
+0,1,"Noormets, Toivo",male,42
+0,1,"Norberg, Per Axel Georg",male,58
+0,1,"Nord, Mary Vilhelmina",female,71
+0,1,"Nord, Ulla-Britt Lilian",female,64
+0,1,"Nordmann, Ruth",female,18
+0,1,"Nordmyr, Tor Beatel",male,55
+0,1,"Nordqvist, Eva Katarina",female,25
+0,1,"Norin, Margit Anita",female,51
+0,1,"Norlen, Stig Gunnar",male,56
+0,1,"Norlin, Yvonne Britt Marie",female,53
+0,1,"Norman, Annita Elisabet",female,51
+0,1,"Norman, Kaija Margit",female,48
+0,0,"Nurme, Tina",female,39
+0,1,"Nurmis, Erich",male,71
+0,1,"Nybeag, Nita Linnea",female,56
+0,1,"Nylander, Gustaf Rune",male,72
+0,1,"Nalsen, Barbro Margareta",female,57
+0,1,"Oden, Vera Margareta",female,46
+0,1,"Oherde, Marek",male,18
+0,1,"Oigus, Fred",male,30
+0,0,"Qja, Aita",female,41
+0,1,"Ojamagi, Reet",male,50
+1,0,"Ojasaar, Risto",male,23
+0,1,"Jolausson, Bengt Olof",male,65
+0,1,"Olausson, Ebba Marianne",female,63
+0,1,"Olofsson, Anders Michael",male,41
+0,1,"Olofsson, Inga Lisa",female,59
+0,1,"Olsson, Carl-Eric",male,62
+0,1,"Olsson, Dan Evert",male,47
+0,1,"Olsson, Gunborg Marianne",female,39
+0,1,"Olsson, Svenny Marianne",female,58
+0,1,"Ormus, Raimond",male,70
+1,0,"Orumaa, Malle",female,25
+0,1,"Oskarsson, Axel Ingvar",male,60
+0,1,"Ossip, Villu",male,48
+0,1,"Ott, Helve",female,42
+0,1,"Ott, Jaak",male,41
+0,0,"Oviir, Annel",female,30
+0,1,"Paeorg, Helin",male,29
+1,0,"Palgunov, Peeter",male,47
+0,0,"Pall, Marika",female,19
+0,1,"Palm, Dick Ronald",male,43
+0,1,"Palmgren, Clary Lilian",female,61
+1,1,"Palmgren, Ture Emanuel",male,63
+0,1,"Palts, Rain",male,30
+0,1,"Palvadre, Kullo",male,28
+0,0,"Parnabas, Riina",female,33
+0,0,"Partsi, Riiko",male,24
+0,0,"Pasternak, Ljudmilla",female,31
+0,1,"Paulsson, Karl Folke Ivar",male,61
+0,1,"Pehk, Jaan",male,31
+1,1,"Persson Flygare, Ingrid Anita",female,38
+0,1,"Persson, Dan Jonas",male,18
+0,1,"Persson, Gabriel Tharanga",male,10
+0,1,"Persson, Gertie Marianne",female,44
+0,1,"Persson, Gosta Rolf Ake",male,50
+0,1,"Persson, Lars-Axel",male,54
+1,1,"Persson, Per-Arne",male,37
+0,1,"Persson, Samuel Suranga",male,10
+0,1,"Persson, Thomas Roland",male,34
+0,1,"Petersson, Aasa Margareta",female,37
+0,1,"Petrini, Marianne",female,67
+0,1,"Pettersen, Hjorund Setsas",male,6
+0,1,"Pettersen, Ingunn",female,29
+0,0,"Petterson, Veiko",male,24
+0,1,"Pettersson, Berit Elvy Marianne",female,63
+0,1,"Pettersson, Gunborg Birgitta",female,50
+0,1,"Pettersson, Jan-Erik Arvid",male,43
+0,1,"Pettersson, Nils Lennart",male,58
+0,1,"Pettersson, Per Anders Martin",male,32
+0,1,"Pettersson, Stig Lennart Valentin",male,67
+0,0,"Pihlak, Tarvi",male,18
+0,0,"Piht, Avo",male,39
+0,1,"Pihus, Aime",female,55
+0,0,"Pill, Andres",male,41
+0,0,"Piquer, Anita Kristina",female,45
+0,0,"Pitk, Aive",female,28
+0,0,"Pius, Erki",male,27
+0,0,"Plehhanova, Valentina",female,37
+0,1,"Poom, Enno",male,34
+0,1,"Poopuu, Arvo",male,58
+0,1,"Poopuu, Kalvi",male,22
+0,0,"Prei, Valev",male,32
+0,1,"Primakov, Lev",male,37
+0,0,"Prommik, Merje",female,27
+1,0,"Psenitsnoi, Viktor",male,37
+0,1,"Pukspuu, Margus",male,35
+0,0,"Pundi, Susanne",female,33
+1,1,"Pungar, Indrek",male,22
+0,1,"Pungar, Peeter",male,47
+1,1,"Puolivali, Jari",male,26
+0,0,"Purru, Katti",female,25
+0,1,"Puura, Rauno",male,21
+0,1,"Puusepp, Olga",female,59
+0,1,"Pysto, Raimo Olavi",male,54
+0,1,"Palsson, Evert Axel",male,48
+1,1,"Parson, Gennadi",male,38
+0,0,"Poder, Mart",male,45
+0,1,"Pokk, Pille",female,19
+0,0,"Pold, Heli",female,42
+0,1,"Poldsaar, Ulle",female,37
+1,1,"Pollendik, Rait",male,21
+0,1,"Pollu, Enno",male,58
+0,1,"Polluaed, Helve",female,59
+1,0,"Raba, Taav!",male,21
+0,1,"Ragnar, Per Arne Harry",male,59
+0,0,"Rahamagi, Lia",female,52
+0,0,"Rahuoja, Lilian",female,46
+0,0,"Raidma, Ilmi",female,38
+0,1,"Raiend, Kristjan",male,24
+0,1,"Ramberg, Ulla Ann-Mari",female,46
+0,0,"Randma, Helve",female,44
+0,1,"Rapp, Ulla Maria Agneta",female,50
+0,1,"Rasmussen, Maj-Britt",female,62
+0,0,"Raudmann, Kuldar",male,26
+0,1,"Raudsepp, Alvar",male,17
+0,0,"Raudsepp, Ljudmilla",female,47
+0,0,"Rebane, Liivi",female,41
+0,0,"Rebane, Mari",female,19
+0,1,"Reial, Viktor",male,67
+0,0,"Reilent, Kristina",female,22
+0,0,"Reimann, Helen",female,19
+0,1,"Rendrup Sandberg, Ingeborg Renee",female,44
+0,1,"Retel, Margus",male,33
+0,1,"Rut, Peeter",male,45
+0,1,"Rikmann, Kalev",male,45
+0,1,"Risinger, Birgitta Carin Maria",female,63
+0,1,"Risinger, Tor Goran Hakan",male,32
+1,0,"Roden, Ervin",male,43
+0,0,"Rohulaid, Tiina",female,21
+1,0,"Rohumaa, Arvi",male,54
+0,1,"Ronk, Peeter",male,40
+0,1,"Roopalu, Reet",female,31
+1,1,"Roos, Bert Reineson",male,65
+0,1,"Roos, Inga Marianne",female,53
+0,1,"Roslund, Bengt-Erik Vilhelm",male,42
+0,1,"Rosman, Inga Maria",female,63
+1,1,"Rothe, Manfred Georg",male,36
+0,1,"Rouk, Luuli",female,28
+0,0,"Ruben, Vello",male,54
+0,1,"Ruda, Saga Yvonne Elisabeth",female,51
+1,0,"Rull, Marge",female,25
+0,1,"Runeborg, Ellinor Trolle",female,49
+0,1,"Runestedt, Gosta Robert",male,73
+0,1,"Ryhn, Inga Marie",female,54
+0,0,"Rast, Riina-Mall",female,36
+0,0,"Ratsep, Anu",female,35
+0,0,"Ratsep, Lauri",male,21
+0,1,"Ronnback, Eva-Lisa",female,36
+0,1,"Ronnqvist, Britt Margareta",female,50
+0,0,"Saadi, Andrus",male,20
+0,1,"Saar, Kati",female,19
+0,0,"Saar, Kart",female,20
+0,1,"Saare, Lilja Piia",female,53
+0,1,"Saare, Siim",male,55
+0,1,"Saarme, Lia",female,63
+0,0,"Saarniit, Luule",female,45
+0,1,"Sadrak, Peep",male,30
+0,0,"Saidla, Sirje",female,25
+0,0,"Salu, Alexander",male,34
+1,0,"Same, Siiri",female,25
+0,1,"Sandberg, Mona Lisa Marie",female,38
+0,1,"Sandblom, Sten Yngve Bertil",male,58
+0,1,"Sandman, Anna Linnea Kristina",female,61
+0,1,"Sandman, Soren Evald",male,60
+0,0,"Sarap, Marika",female,29
+0,1,"Sard, Mare",female,51
+0,1,"Sari, Ullar",male,32
+0,1,"Schiller, Eva Christina",female,45
+0,1,"Schwietert, Lieselotte",female,69
+0,1,"Selin, Kurt Torgny",male,29
+0,1,"Sellen, Anita Elisabeth",female,53
+0,1,"Sepp, Peeter",male,21
+1,1,"Seppanen, Hannu Tapio",male,31
+0,1,"Sesko, Janis",male,17
+0,1,"Sibrits, Rudolf",male,34
+1,0,"Siegel, Elmar",male,43
+0,1,"Sigmundsson, Erik Sigmund",male,61
+1,1,"Siht, Paul",male,29
+0,1,"Sikk, Heino",male,61
+1,0,"Siljajev, Ivan",male,45
+0,0,"Sillandi, Tiina",female,28
+0,1,"Sillanpaa, Leo Elmer",male,40
+1,0,"Sillaste, Henrik",male,25
+0,0,"Simonovits, Vassili",male,30
+1,0,"Sinimeri, Raivo",male,38
+0,1,"Sirotkin, Guido",male,66
+0,0,"Siska, Tit",male,24
+0,1,"Sjo, Carl Christian",male,18
+0,1,"Sjobeag, Stig Jan Gunnar",male,52
+0,1,"Sjoblom, Ulla Margareta",female,50
+0,1,"Sjogren, Erik Albin",male,72
+0,1,"Sjogren, Jan Billy Vallentin",male,60
+0,1,"Sjogren, Svea Majvor Marianne",female,66
+0,1,"Sjostrom, Egon Arne Sigvard",male,66
+0,1,"Sjostrom, Karin Margareta Elisab",female,64
+0,1,"Sjostrom, Karl Axel Ingvar",male,67
+0,1,"Sjoo, Rolf Erik Olof",male,49
+0,1,"Skagervik, Brita Olivia",female,71
+1,0,"Skorohhodova, Larissa",female,45
+1,1,"Sleiners, Dainis",male,36
+0,1,"Slatt, Jane Lilian",female,45
+0,0,"Sooaluste, Tit",female,53
+0,1,"Sooman, Allan-Juai",male,68
+0,1,"Sooman, Heljo-Olivia",female,69
+0,1,"Soosaar, Hillari",male,22
+0,1,"Sormul, Matti Ames",male,45
+1,1,"Spuhl, Tonu",male,52
+0,1,"Stauzs, Aivars",male,32
+0,1,"Steiner, Hjordis Elisabet",female,64
+0,1,"Stenberg, Karl Hjalmar Bertil",male,42
+0,1,"Stengard, Dagny Johny Gustava",female,82
+0,1,"Stengard-Havossar, Kerstin Marga",female,62
+1,1,"Stern, Jaan",male,53
+0,1,"Stjernqvist, Britta Elisabet",female,61
+0,1,"Stoltz, Evy Disa Aurelia",female,64
+0,1,"Stoltz, Karl Benny",male,46
+0,1,"Stoltz, Karl Sivert",male,71
+0,1,"Streics, Kristaps",male,22
+0,1,"Stahlbage, Karin Maria",female,57
+0,0,"Sumberg, Mati",male,51
+0,1,"Sund, Roger Sven Inge",male,44
+0,1,"Sundberg, Anna Linnea",female,69
+0,1,"Sundberg, Lise-Lotte",female,34
+0,1,"Sundberg, Sirkka Annikki",female,65
+0,1,"Sundell, Britt-Marie Elisabet",female,43
+0,1,"Sundgren, Knut Arvid Valdemar",male,71
+0,1,"Sundius, Hedvig Ingalill",female,62
+0,1,"Sundius, Karl Gustav Leonard",male,63
+0,1,"Sundkvist, Per Erik Evald",male,52
+0,1,"Svantesson, Lars Emanuel",male,21
+0,1,"Svensson, Britta Marianne",female,65
+1,1,"Svensson, Daniel Nils Bertil",male,20
+0,1,"Svensson, Edvard Magnus",male,76
+0,1,"Svensson, Eva Ulrika",female,23
+0,0,"Svensson, Hans Uno",male,40
+0,1,"Svensson, Leif Georg",male,57
+0,1,"Svensson, Magret Isabella Anita",female,45
+0,1,"Svensson, Sven Albert",male,64
+0,0,"Swierczek, Jerzy",male,51
+0,1,"Soderblom, Greta Amanda",female,69
+0,1,"Soderlund, Ola Ingemar",male,57
+1,1,"Sorensen, George",male,50
+1,1,"Sorman, Rolf Bert Hakan",male,35
+0,1,"Soster, Friedrich Mairold",male,67
+0,1,"Talme, Aino",female,69
+0,0,"Talver, Erkki Janek",male,22
+1,1,"Tamachauskas, Arturas",male,29
+0,0,"Tamm, Katrin",female,35
+0,1,"Tammail, Janek",male,20
+0,1,"Tammeleht, Taivo",male,30
+0,0,"Tammes, Andres",male,28
+0,0,"Tammsalu, Anne",female,47
+0,0,"Targama, Agur",male,27
+0,1,"Teden, Ingrid Gunilla Christersd",female,30
+0,0,"Teesaar, Tiina",female,39
+0,1,"Tegelberg, Evert Adolf",male,70
+0,1,"Tegelberg, Rut Anne Marie",female,74
+0,1,"Tenman, Anna-Lena Marie",female,34
+1,1,"Tenman, Ulla Marianne",female,30
+1,1,"Thiger, Pierre Hasse Lorentz",male,34
+0,1,"Thoden, Gustaf Lennart",male,71
+0,1,"Thomsen, Jens Arnold",male,69
+0,1,"Thomsen, Tyyne Tellervo",female,73
+0,1,"Thomsson, Bengt Gustav Axel",male,67
+0,1,"Thomsson, Mairit Hildegun",female,64
+0,0,"Tilleman, Pille",female,23
+0,1,"Tilly Andersson, Gudrun Vivi-Ann",female,56
+0,1,"Timmerman Lund, Anita Jeanette",female,34
+0,1,"Timonen, Mirja Orvokki",female,45
+0,1,"Timpka, Sylvia Mirjam",female,67
+0,1,"Tjepljak, Susann Kristine",female,33
+0,1,"Tolpa, Svetlana",female,27
+0,0,"Tombak, Ulle",female,37
+0,1,"Tomberg, Kati Maria",female,34
+0,0,"Tomingas, Ago",male,38
+1,1,"Toobal, Aimur",male,37
+0,0,"Toom, Valentina",female,51
+0,1,"Toome, Kalju",male,47
+0,1,"Toomus, Tonu",male,38
+1,0,"Treu, Margus",male,30
+0,1,"Trolie, Birger",male,46
+0,1,"Trumm, Tiina",female,43
+0,1,"Trump, Rein",male,66
+0,1,"Tsirel, Anti",male,22
+0,0,"Tudelepp, Epp",female,21
+0,0,"Tulvik, Arvo",male,42
+1,0,"Turdean, Mihai",male,43
+0,1,"Turn, Tarmo",male,28
+1,0,"Tyyr, Peter",male,47
+1,1,"Tonisson, Raivo",male,39
+0,1,"Tonissoo, Uno",female,67
+1,1,"Toniste, Tonu",male,38
+1,0,"Uduste, Urmas",male,24
+0,1,"Ullstrand, Maria Elisabet",female,71
+0,1,"Ulp, Andres",male,39
+0,1,"Urbalu, Arvo",male,39
+0,1,"Jutsten, Carl Gunnar Verner",male,71
+0,1,"Jutsten, Maja Ingegard",female,69
+0,1,"Vabritt Tibbing, Tiina",female,50
+0,1,"Vaher, Ivo",male,42
+0,0,"Vahtras, Kalev",male,43
+0,1,"Vaigla, Priit",male,38
+0,0,"Vald, Eivo",male,21
+0,0,"Valdmets, Meida",female,49
+0,0,"Valdmets, Signe",female,21
+0,1,"Valejevs, Albert",male,9
+0,1,"Valejevs, Farid",female,46
+0,1,"Vanhanen, Britt-Mari",female,64
+0,1,"Vanhanen, Eino",male,66
+0,1,"Varma, Kaur",male,47
+1,0,"Vask, Juri",male,20
+0,1,"Vaske, Ellen",female,64
+1,1,"Vaske, Rein Lembit",male,42
+0,1,"Vassil, Maid",male,43
+0,0,"Veide, Hanka-Hannika",female,24
+0,0,"Veide, Hannely",female,24
+0,1,"Veinbergs, Andrejs",male,40
+0,1,"Vennerberg, Eva Jenny Sofia",female,18
+0,0,"Ventsel, Andrus",male,20
+0,1,"Verhogljad, Pjuotr",male,24
+1,0,"Verro, Andres",male,43
+0,0,"Veske, Mare",female,23
+0,1,"Vetka, Raivo",male,31
+0,1,"Vetterlund, Jan Erik Emanuel",male,51
+1,0,"Vihmar, Andres",male,29
+0,1,"Vijard, Endel",male,72
+0,1,"Villau, Fred",male,27
+0,0,"Vilpert, Anne-Helle",female,48
+0,0,"Vister, Raivo",male,34
+0,1,"Vitenbergs, Olafs",male,34
+0,1,"Von Bahr, Elisabeth Birgitta",female,48
+1,1,"Von Payr, Gullbritt Margaretta",female,48
+1,1,"Voronin, Aleksander",male,37
+1,1,"Voronin, Vassili",male,15
+0,0,"Vuks, Vahur",male,26
+0,1,"Vain, Taimo",female,67
+0,1,"Vaisanen, Jorma Olavi",male,41
+0,1,"Valjaots, Reet",female,37
+0,1,"Vosu, Lea",female,32
+1,0,"Voosa, Timmo",male,24
+1,1,"Wachtmeister, Nils Holger Blecke",male,41
+1,1,"Wachtmeister, Wanda Karin Elisab",female,35
+0,1,"Waldemarsdotter, Ann Britt",female,50
+0,1,"Wallenstein, Ingegerd Christina",female,47
+0,1,"Wanselow, Rut Inez Irene",female,64
+0,1,"Wanselow, Stig Rune Mindor",male,68
+0,1,"Wanstrom, Eivor Margareta",female,57
+0,1,"Wass, Anders Lennart",male,59
+0,1,"Wegblad, Ann-Britt Viola",female,51
+0,1,"Wegblad, Hugo Lennart",male,60
+1,1,"Weidinger, Yasmina Sofia",female,18
+0,1,"Welinder, Monika Susanne",female,40
+0,1,"Wessman, Lars Wilhelm Samuel",male,18
+0,1,"Westberg, Jan-Erik Torbjorn",male,60
+0,1,"Wikner, Siv Gunnel Irene",female,46
+0,1,"Wikstrom, Ingbritt Kristina",female,51
+0,1,"Wimnell, Ethel Maria",female,63
+1,1,"Wolf, Siegfried",male,38
+0,1,"Yrjonen, Soile Marianna",female,49
+0,1,"Zakrisson, Gunvor Eugenia",female,67
+0,1,"Zelmin, Aivar",male,27
+0,1,"Zelmin, Katre",female,0
+0,1,"Zelmin, Krete",female,2
+0,1,"Zetterstrom Jansen, Carola Elisa",female,62
+0,1,"Aberg Persson, Helena Margareta",female,45
+0,1,"Aberg, Hans Ake",male,48
+0,1,"Aberg, Karin Elly Anita",female,45
+0,1,"Aberg, Karl Anders",male,51
+0,1,"Astrom, Nils Ake",male,64
+0,1,"Astrom, Signe Ann-Britt",female,56
+0,1,"Astrom, Sten Leonard",male,73
+0,1,"Oqllgaard, Knud",male,67
+0,1,"Omar, Gunhild Anna-Lisa",female,54
+1,1,"Osterberg, Lars Torsten",male,48
+0,1,"Qstervall, Maud Helena",female,24
+0,1,"Ostlund, Gunnel Marie",female,51
+0,1,"Ostrom, Anna Ingrid Birgitta",female,60
+1,1,"Oun, Elmar Mikael",male,34
+0,1,"Qunapuu, Enn",male,77
+0,1,"Gunapuu, Ly",female,87
+1,1,"Ovberg, Carl",male,42
