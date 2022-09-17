@@ -1,1470 +1,1470 @@
-Survived,Pclass,Name,Sex,Age
-1,0,"Kendall, Henry George",male,
-0,0,"Steede, Mansfield Richard",male,
-1,0,"Jones, Edward John",male,
-0,0,"Williams, Roger",male,
-1,0,"File, Osmond",male,
-0,0,"Moore, Charles Alwyn",male,
-0,0,"Tunstall, Bertram",male,
-1,0,"Ferguson, Ronalds",male,
-1,0,"Bamford, Edward",male,
-0,0,"Peterson, William Victor",male,
-0,0,"Taylor, Walter",male,
-1,0,"Sprague, Thomas William",male,
-1,0,Radley Alexander Christie,male,
-0,0,"Thompson, Gerard Joseph",male,
-1,0,"Saunders, Robert",male,
-0,0,"Preston, John Edward",male,
-1,0,"Galway, James Francis ",male,
-0,0,"Gitcher, James Duncan",male,
-1,0,"Murphy, John",male,
-0,0,Sharplesm William Henry,male,
-0,0,"Williams, William",male,
-1,0,"Bruin, Thomas",male,
-1,0,"Carroll, John",male,
-1,0,"Clarke, J.",male,
-0,0,"Corrigan, Thomas",male,
-0,0,"Crayton, Robert",male,
-1,0,"Dennehy, Edward",male,
-1,0,"Dennis, Thomas",male,
-1,0,"Downey, Thomas Shawn",male,
-1,0,"Evans, Albert L.",male,
-1,0,"Evans, John",male,
-1,0,"Fitzpatrick, John",male,
-0,0,"Flagel, J.",male,
-0,0,"Harford, N.",male,
-1,0,"Hudson, John Henry Couch",male,
-1,0,"Jeffries, Joseph F.",male,
-1,0,"Lang, Benjamin",male,
-0,0,"Leonard, Thomas",male,
-0,0,"Lyons, William Henry",male,
-1,0,"Maguire, John",male,
-1,0,"McCoy, John William",male,
-1,0,"McDougal, Duncan",male,
-1,0,"McEwan, John",male,
-1,0,"Moran, James",male,
-0,0,"O'Sullivan, James",male,
-0,0,"Riley, John",male,
-1,0,"Simms, John",male,
-0,0,"Bent, James",male,
-1,0,"Brown, William",male,
-1,0,"Disley, John",male,
-1,0,"Fawcett, William Wright",male,
-1,0,"Fitzgerald, H.",male,
-1,0,"Gratwick, Thomas William",male,
-1,0,"Jones, Daniel Henry",male,
-0,0,"Learmouth, George Seaton",male,
-0,0,"Leonard, Mark",male,
-1,0,"Price, John Henry",male,
-0,0,"Bell, Joseph Robert",male,
-0,0,"Gallagher, William",male,
-1,0,"Sampson, William",male,
-0,0,"Jones, John Machenzie",male,
-1,0,"Hampton, William Joseph",male,
-1,0,"Brennan, Robert Henry",male,
-1,0,"Liddell, Robert",male,
-1,0,"O' Donovan, George Stephen",male,
-1,0,"McOnie, George Randolph",male,
-0,0,"Gillespie, Robert Walls",male,
-1,0,"McDonald, Charles Keven",male,
-0,0,"McEwan, James",male,
-0,0,"Williamson, Percy Robert",male,
-1,0,"Smith, Alfred R.",male,
-0,0,"White, John Bell",male,
-1,0,"Johnston, John Alexander Beddows",male,
-0,0,"Caley, Frederick John",male,
-1,0,"Swan, John Henry",male,
-1,0,"Grant, John",male,
-1,0,"Duckworth, William Barrett D.",male,
-1,0,"Connor, James",male,
-1,0,"Davidson, George",male,
-1,0,"Connor, John",male,
-1,0,"D'Arcy, Patrick",male,
-1,0,"Duggan, Patrick",male,
-0,0,"Healey, James",male,
-1,0,"Holden, Samuel",male,
-1,0,"Maher, Patrick",male,
-1,0,"McAdam, William",male,
-1,0,"McAleavey, Michael",male,
-1,0,"Megson, John",male,
-1,0,"Nelson, Cornelius",male,
-1,0,"O'Donnell, Daniel",male,
-1,0,"Reardon, Daniel",male,
-0,0,"Ross, William",male,
-1,0,"Sheridan, Robert",male,
-0,0,"Starr, Edmund",male,
-1,0,"Stephens, John",male,
-0,0,"Summers, John",male,
-1,0,"Williams, William",male,
-1,0,"Malone, Peter James",male,
-1,0,"Malone, Bernard",male,
-0,0,"McGuinness, Muchael",male,
-1,0,"McGuinness, Thomas",male,
-1,0,"Whitty, John",male,
-1,0,"Bailey, George",male,
-0,0,"Barber, John",male,
-0,0,"Boyd, Edward",male,
-1,0,"Clarke, William",male,
-0,0,"Crowther, John George",male,
-1,0,"Davies, Peter",male,
-1,0,"Davis, John",male,
-1,0,"Duffy, John",male,
-1,0,"Flood, Thomas",male,
-0,0,"Hepburn, John David",male,
-1,0,"Hutchinson, George",male,
-1,0,"Jackson, Charles E.",male,
-0,0,"Jump, Joseph",male,
-1,0,"Maguire, John Thomas",male,
-0,0,"McCabe, James",male,
-1,0,"McGowan, James",male,
-1,0,"McCready, Thomas",male,
-0,0,"McGuinness, Robert M.",male,
-1,0,"McMahon, Peter",male,
-0,0,"McManus, John Henry",male,
-0,0,"O'Neill, Nucholas",male,
-1,0,"O'Toole, Patrick",male,
-0,0,"Regan, Michael",male,
-0,0,"Reid, H.",male,
-0,0,"Reid, James",male,
-1,0,"Rockford, Michael",male,
-1,0,"Rowland, Joseph Samuel",male,
-1,0,"Ryan, John",male,
-0,0,"Shannon, Edward",male,
-1,0,"Smythe, James",male,
-1,0,"Stephens, John",male,
-0,0,"Tumilty, Bernard James",male,
-0,0,"Walsen, David Heron",male,
-1,0,"Whitty, James",male,
-0,0,"Worthington, Patrick Joseph",male,
-1,0,"Campbell, John Mercer",male,
-0,0,"Lally, James",male,
-1,0,"Rice, Edward",male,
-1,0,"Sommers, Matthew",male,
-0,0,"Fitchett, Edward",male,
-0,0,"Fournier, Henry",male,
-0,0,"Anderson, William James",male,
-1,0,"Brown, Patrick",male,
-1,0,"Campbell, Michael",male,
-1,0,"Clarke, John Joseph",male,
-0,0,"Cody, Muchael",male,
-1,0,"Davis, John",male,
-0,0,"Deery, John",male,
-1,0,"Dolan, Paul",male,
-1,0,"Foster, Ernest",male,
-0,0,"Grant, Edward",male,
-1,0,"Houghton, J. or Thomas",male,
-0,0,"Jump, John Thomas",male,
-0,0,"Kane, Thomas",male,
-1,0,"Keegan, John",male,
-1,0,"King, John",male,
-1,0,"Maguire, Joseph",male,
-1,0,"Matthews, John",male,
-0,0,"McBride, William Frederick",male,
-1,0,"McCabe, Richard",male,
-1,0,"McCabe, Thomas",male,
-0,0,"McEnroe, Edward",male,
-1,0,"McGuinness, John",male,
-1,0,"Mitchell, James",male,
-0,0,"Mulvaney, William",male,
-1,0,"Murphy, William Bristow",male,
-1,0,"Murray, Peter",male,
-0,0,"O'Connell, Daniel",male,
-1,0,"O'Toole, James Patrick",male,
-1,0,"Quinn, John",male,
-1,0,"Quinn, William",male,
-0,0,"Reid, James",male,
-1,0,"Robinson, William",male,
-1,0,"Smith, James",male,
-1,0,"Wilson, John",male,
-1,0,"Donaldson, John",male,
-0,0,"Murden, Reubem Joseph",male,
-1,0,"Morgan, John",male,
-1,0,"Ryan, Thomas",male,
-0,0,"Welsh, Thomas",male,
-1,0,"Cottle, Samuel",male,
-1,0,"Dunn, John",male,
-1,0,"Hayes, Edward",male,
-0,0,"Kirwin, James",male,
-1,0,"Mountain, Thomas",male,
-1,0,"Neale, Henry",male,
-1,0,"Whie, Henry",male,
-1,0,"Wilson, James",male,
-0,0,"McDonald, Alexander Betteley",male,
-1,0,"Hayes, Ernest",male,
-1,0,"Wakeford, Charles",male,
-0,0,"Cox, Samuel Allen",male,
-0,0,"Rankin, Alexander Carmichael",male,
-0,0,"Hamilton, Frank William",male,
-1,0,"Grant, Dr. James Frederic",male,
-1,0,"Gaade, Augustus William",male,
-0,0,"Craik, Alecander Christopher",male,
-0,0,"Wildman, James Alison",male,
-1,0,"Burns, Charles",male,
-0,0,"Hudson, William Daniel",male,
-1,0,"Davies, John",male,
-0,0,"Jones, Henry Andrew",male,
-1,0,"Williams, Arthur Clement",male,
-1,0,"Chadwick, John Arthur",male,
-0,0,"Cheetham, John Mackintosh",male,
-0,0,"Cope, Hecotr Allan",male,
-0,0,"Delaney, Austin",male,
-1,0,"Fayle, Robert Russell",male,
-1,0,"Gee, Percy",male,
-1,0,"Gray, Arthur",male,
-1,0,"Gray, William Whitla",male,
-0,0,"Hadfield, William james",male,
-0,0,"Hopwood, William",male,
-1,0,"Hughes, William Henry",male,
-1,0,"Hughes, William Lawrence",male,
-1,0,"Jacques, Henry",male,
-1,0,"Jones, Clark",male,
-0,0,"Lawrie, James",male,
-0,0,"Lennon, George",male,
-0,0,"Manderson, Walter George",male,
-1,0,"McWilliam, Robert Bowen",male,
-0,0,"Metcalfe, George Joshua",male,
-0,0,"Myers, John James",male,
-0,0,"Newham, Henry",male,
-0,0,"Orford, George Leonard",male,
-1,0,"Parkinson, Charles Richard",male,
-1,0,"Pinner, Charles",male,
-1,0,"Price, Thomas",male,
-1,0,"Rowen, William",male,
-0,0,"Smith, Henry 'Harry'",male,
-1,0,"Smith, Joseph",male,
-1,0,"Smith, Charles Hopley",male,
-1,0,"Mellor, Herbert James",male,
-0,0,"Durkin, John",male,
-0,0,"Gerrard, Thomas",male,
-0,0,"Ainge, Edward",male,
-1,0,"Holt, Robert Armor",male,
-0,0,"Braine, Edward william",male,
-1,0,"Burrows, Thomas",male,
-0,0,"Derbyshire, Anthony Muir",male,
-1,0,"Hughes, Hugh",male,
-1,0,"Jones, Harold",male,
-1,0,"Murtagh, Matthew",male,
-1,0,"Nugent, William James Christopher",male,
-0,0,"Smith, Walter Beaumont",male,
-1,0,"Gill, Nathaniel",male,
-1,0,"Coombs, Charles William",male,
-1,0,"Cope, John",male,
-0,0,"McCoy, R. L.",male,
-1,0,"Prince, William",male,
-1,0,"Morl, William",male,
-1,0,"Powell, Leonard Armos George",male,
-0,0,"Lightfoot, George",male,
-1,0,"Baker, Stanley James",male,
-0,0,"Hamilton, James Alfred",male,
-0,0,"Jones, Percy Reginald",male,
-0,0,"Murtagh, William Joseph",male,
-1,0,"Spencer, Charles Herbert",male,
-1,0,"Clasber, Rudolph C.",male,
-0,0,"Ratcliffe, Jack",male,
-0,0,"Chance, William George",male,
-0,0,"Roberts, James",male,
-1,0,"Hird, William",male,
-0,0,"Cochrane, Andrew Leslie",male,
-0,0,"Highfield, William Duncan Cameron",male,
-1,0,"Duggan, John",male,
-0,0,"Jones, Miriam (Roberts)",female,
-0,0,"Jones, Ellen Eliza (Birch)",female,
-0,0,"Riddell, Alice",female,
-0,0,"Page, Clarrie May",female,
-1,0,"William, Thomas S.",male,
-0,0,"Richard, Sidney Edward",male,
-1,0,"Brown, John",male,
-1,0,"Challis, Montague Edwards",male,
-1,0,"Cure, Albert James (Jackson)",male,
-0,0,"Dawson, Edward",male,
-1,0,"Flinn, George Fitzroy",male,
-0,0,"Herbert, William",male,
-0,0,"Jones, Harold",male,
-1,0,"Jones, Owen",male,
-1,0,"Metcalfe, Thomas",male,
-0,0,"Neilson, George",male,
-1,0,"Owen, William Salisbury",male,
-0,0,"Parkinson, Frank George",male,
-0,0,"Pelton, Benjamin David J.",male,
-1,0,"Pritchard, Oliver",male,
-1,0,"Prowse, James Bebbington",male,
-0,0,"Reich, Joseph Alexander M.",male,
-1,0,"Roberts, William",male,
-0,0,"Rushton, Joseph Albert",male,
-1,0,"Shannon, Francis Joseph",male,
-1,0,"Smith, Albert E.",male,
-1,0,"Smith, Harry K.",male,
-0,0,"Vivian, Bertie Adams",male,
-0,0,"Wilson, Frank",male,
-0,0,"Tunstall, Harold",male,
-0,0,"Terry, John",male,
-0,0,"Wright, Alfred",male,
-0,0,"Singer, Joseph Edward (Shortsinger)",male,
-0,0,"Trainor, Nucholas",male,
-0,0,"Perry, Harold",male,
-0,0,"Willis, George Oswald",male,
-0,0,"Jones, Henry Andrew",male,
-0,0,"Fisher, Samuel Charles",male,
-1,0,"Absolon, Victor",male,
-1,0,"Byrne, John",male,
-0,0,"Cooper, Walter",male,
-0,0,"Crabb, Joseph",male,
-0,0,"Dixon, Harold",male,
-0,0,"Gill, James Philip",male,
-0,0,"Harold, William",male,
-1,0,"Harrison, Frank",male,
-0,0,"Jacob, Alfred Henry",male,
-1,0,"McDonald, Louis Adam",male,
-0,0,"Mitchell, Robert",male,
-0,0,"Muir, Charles William",male,
-0,0,"Walker, Thomas Lyle",male,
-1,0,"Parry, D.",male,
-0,0,"Passmore, Charles Joseph",male,
-1,0,"Williams, Richard",male,
-0,0,"Pearson, Sophia Jane (Varley)",female,
-0,0,"Stratton, Lucilla (Kennerley)",female,
-0,0,"Negus, Matilda (Ibbotson)",female,
-0,0,"Munro, William Anderson",male,
-1,0,"Copplin, George",male,
-0,0,"Mohring, Guy",male,
-0,0,"Lewis, Charles",male,
-1,0,"Robertson, John",male,
-0,0,"Dehnel, Charles Henry",male,
-0,0,"Owen, Robert",male,
-0,0,"Faulkner, Reginald",male,
-1,0,"Thomson, Archibald",male,
-0,0,"Gregory, Frederick",male,
-0,0,"Jones, John Jameson",male,
-0,0,"Thomas, William",male,
-0,0,"Fitzpatrick, Alexander",male,
-0,0,"Myers, Frank",male,
-1,0,"Pritchard, john",male,
-1,0,"Dumbell, Thomas Baker",male,
-1,0,"Haigh, Samuel Ernest",male,
-1,0,"McSherry, James",male,
-1,0,"Morland, Harold Reginald",male,
-0,0,"Williams, Gwilym Caradoc",male,
-0,0,"Lewis, Henry",male,
-1,0,"Williams, Joseph",male,
-1,0,"Grieves, George",male,
-1,0,"Donegan, James",male,
-0,0,"Clare, William",male,
-0,0,"Snowden, John Robert",male,
-1,0,"Dixon, Arthur Henry",male,
-0,0,"McGrath, John",male,
-1,0,"Hayes, Joseph Arthur",male,
-1,0,"Gibson, John Victor",male,
-0,0,"Madden, Francis John",male,
-1,0,"Clague, robert Henry",male,
-1,0,"Fereday, Arthur William",male,
-0,0,"Gale, Thomas John",male,
-0,0,Phenna Frederick',male,
-0,0,"Hunt, Thomas William Dean",male,
-1,0,"Cooke, Thomas",male,
-1,0,"Canepa, William Lazarus",male,
-0,0,"Baker, Thomas Henry",male,
-0,0,"Muphy, Jack",male,
-1,0,"Pitts, William Henry",male,
-0,0,"Crellin, Robert William",male,
-0,0,"Skerritt, Leonard Paul",male,
-1,0,"Green, Frederick George",male,
-0,0,"Gavigan, Bernard",male,
-1,0,"Hobson, Sydney Francis",male,
-1,0,"Hollies, Harriet Ellen (Coombs)",female,
-0,0,"Dinwoodie, Agnes Etherl",female,
-0,0,"Leders, Elizaberth (Turnbull)",female,
-1,0,"Norman, Frank Samuel",male,
-0,0,"Furness, John William",male,
-0,0,"Baxter, George R.",male,
-1,0,"Hope-Childs, Harold Bertram",male,
-1,0,"Pemberton, Alber Joseph T.",male,
-1,0,"Matthew, John Edward",male,
-0,0,"Glover, Thomas Henry",male,
-1,0,"Lee, Sydney",male,
-1,0,"Turner, Joseph",male,
-0,0,"Harrison, Frank",male,
-0,0,"Pierce, Augustus",male,
-1,0,"Ventre, Joseph",male,
-1,0,"Simon, Albert Henry",male,
-0,0,"Pritchard, Ernest Norman",male,
-1,0,"Clandon, Henry C.",male,
-1,0,"Knill, Arthur",male,
-1,0,"Sharkey, Martin",male,
-0,0,"Johnson, Harold",male,
-0,0,"Gardner, William",male,
-1,0,"Wynne, Edward Thomas",male,
-1,0,"McAleavey, Patrick",male,
-0,0,"Bray, William Edward",male,
-1,0,"Haran, Patrick",male,
-1,0,"Lewis, John",male,
-0,0,"Lappin, William Henry",male,
-1,0,"Cunningham, James J.",male,
-1,0,"Williams, David",male,
-0,0,"Johnson, James",male,
-0,0,"Leary, Charles",male,
-0,0,"Swinton, Alexander (John Black)",male,
-1,0,"Rohr, Arnold",male,
-1,0,"Braithwaite, Isaac",male,
-1,0,"Elliott, Alfred Douglass",male,
-1,0,"Shaw, Henry Edward",male,
-1,0,"Douglas, Thomas",male,
-1,0,"Smith, Thomas John",male,
-1,0,"McDonnell, Muchael Joseph",male,
-1,0,"Knight, Robert",male,
-1,0,"Dawson, Alfred",male,
-1,0,"Paterson, John",male,
-1,0,"Bishop, Thomas",male,
-0,0,"Corfe, John Eustace",male,
-0,0,"Madden, Bertha Emma (Brown)",female,
-1,1,"Abbott, Mr. Frank Ernest",male,41
-1,1,"Abercrombie, John Robertson",male,25
-1,1,"Adie, Percy James",male,36
-1,1,"Marion, Mrs. Percy J. (Marion Sharp)",female,33
-0,1,"Anderson, Albert Bruce",male,43
-0,1,"Averdieck, Percy Clifford",male,22
-0,1,"Barlow, Alfred Ernest Albert",male,52
-0,1,"Barlow, Mrs. Alfred E. A. Fanny Elizabetth",female,50
-0,1,"Bennett, Ella Mary",female,49
-0,1,"Bloomfield, Robert William Read",male,52
-0,1,"Bloomfield, Isabella Louisa",female,46
-0,1,"Bloomfiedl, Hilda isabel Read",female,23
-1,1,"Bowes-Lyon, Charles Lindsay Claud",male,28
-0,1,"Brandon, Vernon Gething",male,31
-1,1,"Burrows, Alfred John",male,43
-1,1,"Burt, Clayton Ray",male,38
-1,1,"Cash, Johm Hardwood",male,50
-1,1,"Cash, Mary Kate",female,52
-0,1,"Cay, Catherine Beatrice",female,38
-0,1,"Cayley, John Joeseph",male,43
-1,1,"Clarke, Charles Robert",male,41
-0,1,"Cox-Edwards, Joseph Francis",male,50
-0,1,"Crathern, Waneta",female,35
-0,1,"Cullen, Maude",female,32
-0,1,"Cullen, Isobel Maud",female,6
-0,1,"Cullen, Albert Edward",male,2
-1,1,"Blythe, Jennie P.",female,
-1,1,"Cunningham, Robert Alexander",male,25
-1,1,"Darling, Murton Daniel Addison",male,28
-0,1,"Dickson, Peter",male,33
-1,1,"Duncan, James Fergus",male,41
-0,1,"Dunlevy, Grace",female,41
-1,1,"Fenton, Walter",male,28
-1,1,"Gaunt, Doris Winifred",female,18
-0,1,"Gallagher, Charlotte Harman",female,46
-1,1,"Gallagher, Cedric Aubrey Wools",male,19
-1,1,"Godson, Frederick Philip",male,26
-0,1,"Goldthorpe, Charles",male,43
-1,1,"Gosselin, Louis Aldei",male,44
-0,1,"Graham, Walter Douglas",male,55
-0,1,"Graham, Elizabeth",female,46
-0,1,"Hailey, Elizabeth",female,61
-1,1,"Henderson, George William Simpson",male,40
-1,1,"Hirst, Arthur",male,39
-0,1,"Herxheimer, Walter Salomen",male,36
-0,1,"Halloway, Charlotte Elizabeth",female,57
-0,1,"Howes, Frank William",male,53
-1,1,"Hyamson, Lionel Alexander",male,29
-0,1,"Irving, Laurence Sydney Brodribb",male,42
-0,1,"Irving, Mabel Lucy",female,42
-0,1,"Haggerston, Mabel Hilda",female,27
-0,1,"Johnston, David",male,37
-1,1,"Kent, John Lionel",male,41
-1,1,"Kohl, Grace Margaret Fairbanks",female,19
-1,1,"Lee, Alise Holland",female,23
-0,1,"Lindsay, Murdoch Alexander",male,32
-0,1,"Lyman, Herbert Henry",male,59
-0,1,"Lyman, Florence Holwell",female,36
-0,1,"Maginnis, Alexander Gordon",male,52
-1,1,"Malloch, Charles",male,38
-0,1,"Marks, Gabriel Jacob",male,42
-0,1,"Marks, Marrion",female,34
-0,1,"Miller, Catherine",female,34
-0,1,"Mullins, Albert Edward",male,42
-1,1,"Mullins, Kate Emily",female,38
-0,1,"Mullins, Ellen",female,9
-0,1,"O'Hara, Henry Robert",male,48
-0,1,"O'Hara, Laura May",female,44
-0,1,"O'Hara, Josephine Helen",female,10
-0,1,"Palmer, Wallace Leonard",male,28
-0,1,"Palmer, Ethel Courney",female,26
-1,1,"Paton, Ethel Sabina",female,39
-0,1,"Price, Hugh Wynne",male,56
-0,1,"Rutherford, Frederick James",male,45
-0,1,"Seton-Karr, Henry",male,61
-1,1,"Seybold, Edward",male,64
-0,1,"Seybold, Susannah",female,64
-1,1,"Smart, George Bogue",male,50
-0,1,"Stork, Mary Louisa",female,55
-0,1,"Taylor, John Thomas",male,48
-0,1,"Taylor, Dorothy Maud",female,20
-0,1,"Taylor, Helen Marjorie",female,18
-1,1,"Townshend, Tiria Vere Ferrers",female,17
-0,1,"Tylee, Charles David",male,67
-0,1,"Tylee, Martha",female,63
-1,1,"Wakeford, Alfred Joseph",male,50
-1,1,"Wallett, Joseph",male,33
-0,2,"Adridge, Ernest William",male,30
-1,2,"Archer, Tracey Harley",male,33
-0,2,"Archer, Ruth Mary",female,33
-0,2,"Archer, Alfred Cecil",male,2
-0,2,"Assafrey, Alma Fedora",female,26
-0,2,"Atkin, Maud",female,24
-1,2,"Attwell, George Ernest S.",male,42
-1,2,"Attwell, Hattie Eva ",female,44
-0,2,"Axten, Dorothea",female,35
-0,2,"Lionel, Axten",male,3
-0,2,"Bach, Mr. Reinholdt",male,78
-1,2,"Bach, Miiss. Edith Christina",female,40
-1,2,"Bales, Miss. Edith",female,21
-0,2,"Barbour, Mrs. Thomas William (Sabena Hicks)",female,39
-1,2,"Barbour, Miss. Florence Jessie",female,9
-0,2,"Barbour, Miss. Evelyn Beatrice",female,3
-0,2,"Barrie, Mr. William Simposon",male,29
-0,2,"Bawden, Miss. Elizabeth",female,31
-0,2,"Bawden, Miss. Florence Annie",female,24
-0,2,"Baxter, Miss. Annie May",female,13
-0,2,"Beale, Mr. Edward",male,31
-0,2,"Beauchamp, Mrs. Otto L. (Ruth Foster)",female,19
-0,2,"Beckstead, SA Adjt. Nettie Elizabeth",female,42
-0,2,"Berry, Miss Ethel de la Tour",female,20
-0,2,"Bigland, SA Lt. Joseph Stanley",male,22
-0,2,"Birkett, Mr. Henry James",male,22
-0,2,"Bishop, Mr. Thomas George Tetley",male,17
-1,2,"Black, Mr. John Wilson",male,39
-1,2,"Black, Mrs. John W. (Rosena Leitch)",female,33
-0,2,"Blackhurst, Mrs. Frederick (Ada Ratcliff)",female,45
-0,2,"Bonthrone, Mr. Alexander",male,21
-0,2,"Bonynge, SA Eensign James George Victor",male,35
-0,2,"Boynton-Lee, Mrs. Griffith (Fanny Elisabeth Biggs)",female,40
-1,2,"Brooks, Mr. Frank Percy",male,30
-0,2,"Brown, Miss Alice",female,
-0,2,"Brown, Mr. Overend",male,26
-0,2,"Buhler, Mr. Costa",male,55
-0,2,"Bulpitt, Mr. Reginald George",male,24
-0,2,"Burgess, Mrs. William Miller (Susan Robertson)",female,60
-0,2,"Butler, Miss. Rose",female,
-1,2,"Byrne, Mr. Edward",male,59
-0,2,"Byrne, Mrs. Edward (Eliza Ann Bickford)",female,60
-0,2,"Byrne, Miss. Selina Gertrude",female,20
-0,2,"Caughey, Mr. Albert Edward",male,36
-0,2,"Caughey, Mrs. Albert E. (Helen Hughes)",female,34
-0,2,"Chignell, Mrs. William Henry (Eliza Leys)",female,70
-0,2,"Clarke, Mrs. Willie (Lavinia Simpson)",female,34
-0,2,"Cole, Mrs. Albert  (Annie Armitage)",female,42
-1,2,"Cook, Mrs. George E. (Annie Emma Jane Rampling)",female,43
-1,2,"Court, Miss. Emily Florence",female,33
-0,2,"Creighton, SA Major David Law",male,50
-0,2,"Creighton, Mrs. David L. (Bertha Jane Dixon)",female,42
-1,2,"Crellin, Mr. Robert William",male,35
-0,2,"Dale, Mrs. John (Mary Parker)",female,26
-0,2,"Dale, Miss",female,1.83
-1,2,"Dandy, Mr. James Ferguson",male,47
-0,2,"Dargue, Mrs. Joseph (Annie Isabella Barrass)",female,43
-1,2,"Davidson, Mr. Gordon Charles",male,29
-1,2,"Davies, Mr. Thomas William",male,26
-0,2,"Davies, Mrs. T. William (Eliza Ethel Gough)",female,25
-1,2,"Davison, Mrs. Charles Oliver (Daisy May Barling)",female,32
-1,2,Davison Miss. Dorothy Ada,female,1.5
-0,2,"Death, Mr. Arthur Henry",male,48
-0,2,"De Bow, SA Adj. Everett Stanley",male,34
-0,2,"De Bow, Mrs. Everett S. (Elizabeth Agnes McKim)",male,28
-0,2,"Doss, SA Capt. John Edward",male,28
-0,2,"Doss, Mrs. John E. (Violet Victoria Howson)",female,26
-0,2,"Dunn, Mrs. James Edward (Jane Elizabeth Elliott)",female,48
-0,2,"Eastes, Miss Frances Hannah",female,36
-0,2,"Edwards, SA Adjt. George",male,
-0,2,"Emslie, Mrs. Peter (Jane Christie)",female,56
-1,2,"Erzinger, Mr. Walter",male,25
-0,2,"Evans, Mr. Ernest Josua",male,31
-0,2,"Evans, Mrs. Ernest J. (Emma Willett)",female,26
-0,2,"Evans, Miss C.",female,0.83
-0,2,"Farr, Miss Kathleen Helen",female,8
-0,2,"Farr, Miss Annie Meggitt",female,6
-0,2,"Farr, Miss Dorothy",female,5
-0,2,"Farr, Miss Bessie",female,3
-0,2,"Felstead, SA Bandsman George Philip",male,38
-0,2,"Findlay, SA Major Hugh",male,40
-0,2,"Findlay, Mrs. Hugh (Isabella Ivison)",female,47
-0,2,"Fisher, Mrs. John (Margaret Lightfoot)",female,47
-0,2,"Fisher, Mr. Wilfred",male,23
-0,2,"Foard, Mr. Herbert Edward",male,43
-0,2,"Foord, SA Dandsman Alfred Ernest",male,33
-0,2,"Foord, Mrs. A. Ernest (Alice Ward)",female,32
-0,2,"Foord, Miss Alice Margaret",female,4
-1,2,"Freeman, Mr. Henry",male,49
-1,2,"Freeman, Mrs. Henry (Mary Massoth)",female,45
-0,2,"Goddard, Mr. John arthur",male,46
-0,1,"Grafton, Mrs. Henry John (Susannah Caroline Woodbridge)",female,78
-0,2,"Gray, Mrs. Charles James (Madeline Shirt)",female,34
-0,2,"Gray, Miss Mary Winifred",female,5
-0,2,"Gray, SA Bandsman Edwin Philip",male,25
-0,2,"Green, SA Adjt. Harry John Scantlebury",male,46
-0,2,"Green, Adjt. Mrs. Harry Green (Nellia Adams)",female,45
-1,2,"Green, Mr. Ernest Harry",male,22
-0,2,"Green, Miss. Jessie",female,21
-1,2,"Greenaway, Mr. Herbert Booth",male,23
-1,2,"Greenaway, Mr. Thomas Hartley",male,25
-1,2,"Greenaway, Mrs. Thomas H. (Margaret Ellen Dalzell)",female,29
-0,2,"Griffin, Mrs. William Harold (Grace Withnall)",female,28
-0,2,"Griffin, Miss Winniefred Pauline",female,0.5
-0,2,"Griggs, Mr. James",male,54
-0,2,"Griggs, Mrs. James (Pricilla White)",female,54
-0,2,"Groom, SA Capt. Charles Henry",male,27
-0,2,"Hakker, Mrs. John (Harriet)",female,26
-0,2,"Hakker, Miss. Judith",female,0.58
-0,2,"Halliday, Mr. Christopher",male,51
-0,2,"Hanagan, SA Adjt. Edward James",male,37
-0,2,"Hanagam, Mrs. Edward J. (Edith Emily Collishaw)",female,39
-1,2,"Hanagam, Miss Edith Grace",female,7
-0,2,"Hart, Mr. William",male,29
-0,2,"Hart, Mrs. William (Emma M Roach)",female,23
-0,2,"Hart, Miss Edith",female,4
-0,2,"Hart, Master William",male,1.5
-0,2,"Hayes, SA Staff Capt. Mary Emma",female,41
-0,2,"Heath, Mr. Hugh Lenter",male,28
-0,2,"Heath, Master Jack Russell",male,3
-0,2,"Hepburn, Mrs. Frank Hamilton (Mary Katherine Meridith)",female,37
-0,2,"Hepburn, Barbara Meredith",female,2.5
-0,2,"Hepburn, Master Owen Meredith",male,
-0,2,"Hoggan, Mrs. Robert (Rosinda Blakey)",female,24
-0,2,"Holcombe, Miss Florence Louisa Newton",female,37
-0,2,"Hope, Miss Chrissie Burgess",female,4
-0,2,"Horwood, SA Bandsman William",male,33
-0,2,"Howarth, Mr. William",male,
-0,2,"Howarth, Mrs. William (Nellie Byrne)",female,
-0,2,"Howarth, Master Melvin",male,5
-0,2,"Hudson, Mr. R. W.",male,
-0,2,"Humphreys, SA Bandsman William John",male,35
-1,2,"Hunt, Dr. Rensselear Wilkins",male,56
-0,2,"Hunt, Miss Elanor B. de Vere",female,53
-0,2,"Hunter, SA Brigadier John ",male,51
-0,2,"Hunter, Mrs. John (Jessie Charlotte Ogilvy Tulloch)",female,48
-0,2,"Hunter, Miss Grace",female,13
-0,2,"Hunter, Master John Howard",male,11
-1,2,"Johnson, Mr. James",male,28
-0,2,"Johnston, Mr. George A.",male,22
-0,2,"Jones, SA Ensign Miss Emily",female,
-0,2,"Jones, SA Bandsman Edward Thomas",male,24
-0,2,"Kavalesky, Mr. Ivan",male,
-1,2,"Keith, SA. Lt. Alfred Thomas",male,22
-0,2,"Knudson, SA Capt. Hannah Elizabeth",female,30
-1,2,"Kruse, Mr. Herman",male,48
-1,2,"Kruse, Miss Freda Josephine",female,20
-1,2,"Langley, Mr. John Wise",male,26
-0,2,"Langley, Miss Mary Anne",female,
-0,2,"Law, Mr. Ernest",male,37
-0,2,"Law, Mrs. Ernest (Margaret Haythornthawaite)",female,38
-0,2,"Law, Master Jack",male,8
-1,2,"Lennon, Mr. James Joseph",male,30
-0,2,"Longley, Mr. Leonard Hurlock",male,26
-0,2,"Longley, Mrs. Leonard H. (Gertrude Eva Day)",female,21
-0,2,"Longley, Miss Marion",female,1
-0,2,"Maidment, SA Col. Sydney Charles",male,45
-0,2,"Maidment, Mrs. Sydney C.  (Harriet Packham)",female,46
-0,2,"Malone, SA Bandsman Robert",male,28
-0,2,"Mardell, SA Ensign Oliver Pinnock",male,31
-0,2,"Matier, Mr. Alexander",male,34
-0,2,"McAlphine, Mr. A. L.",male,
-1,2,"McAmmond, SA Staff Capt. David Foster",male,45
-0,2,"McGrath, Capt. Matthew James",male,35
-1,2,"McIntyre, Mr. Kenneth A.",male,25
-0,2,Mr. John McQueen McLean,male,37
-0,2,"Meacher, SA Bandsman George",male,35
-0,2,"Measures, Mr. William Howard",male,19
-0,2,"Moir, Mrs. Charles (Euphemia Sander Prior)",female,33
-0,2,"Morgan, Miss Lilianm Else",female,21
-0,2,"Morgan, Mr. James Oswald",male,64
-0,2,"Morgan, Mr. William",male,20
-1,2,"Morris, SA Major Frank",male,39
-0,2,"Morris, SA Staff Capt. Arthur",male,33
-0,2,"Morris, Mrs. Arthur (Daisy Lillian Coombs)",female,29
-0,2,"Mounsey, Mrs. William (Fanny Sewell)",female,57
-0,2,"Myers, SA Capt. James Patterson",male,29
-0,2,"Neeve, SA Bandsman Ernest Edward",male,27
-0,2,"Newton, Miss. Jane",female,53
-0,2,"Noneley, Miss. Ann",female,34
-0,2,"Nuttall, Mrs. Tom (Christine McColl)",female,29
-0,2,"Nuttall, Master Ralph George",male,0.33
-0,2,"Nuttall, Master Tom",male,1
-1,2,"Oslender, Mr. Joseph",male,27
-0,2,"Pantling, Mrs. Isaac James (Sarah Ann Hurst)",female,30
-1,2,"Patrick, Mr. Julian",male,24
-0,2,"Pattendan, SA Ensign Bertram John",male,36
-0,2,"Patterson, Mr. John",male,32
-0,2,"Petterson, Mr. Robert Stuart",male,38
-0,2,"Perkins, SA Bandsman Richard Henry William",male,40
-0,2,"Perry, Mr. William Henry",male,
-1,2,"Peturson, Mr. Hannes",male,33
-1,2,"Peturson, Mrs. Hannes (Tilly Anna Chisholm)",female,27
-0,2,"Potter, SA Brig. William Scott",male,41
-0,2,"Potter, Master Willard",male,9
-0,2,"Potts, Mrs. Hugh (Margaret Heavey)",female,26
-0,2,"Price, Sa Adjt. Miss Hanna",female,
-0,2,"Priestley, Miss Alice",female,51
-0,2,"Priestley, Miss Martha",female,50
-0,2,"Prior, Mrs. George Williaam (Edith Mary A Auger)",female,33
-1,2,"Pugmire, SA Ensign Ernest Ivison",male,26
-0,2,"Rees, SA Commissioner David Mathias",male,56
-0,2,"Rees, Mrs. David M. (Ruth Hepzibah Babington)",female,51
-0,2,"Rees, SA Capt. Ruth Maybury",female,25
-0,2,"Rees, SA Capt. Hardin Willfred",male,22
-0,2,"Rees, SA Corps Capt. Miss Annie Ina",female,15
-0,2,"Richards, Mr. George Clement",male,72
-0,2,"Richards, Mrs. George C. (Sarah Ann Street)",female,70
-0,2,"Richardson, Mr. William John",male,58
-0,2,"Richardson, Mrs. William J. (Mary Ann Griffin Ryles)",female,54
-0,2,"Riley, Mr. John",male,
-0,2,"Sampson, Mr. Samuel James ",male,33
-1,2,"Schongutt, Miss H. (josephine Pepi)",female,30
-0,2,"Scott, Mr. John M.",male,
-0,2,"Searle, Miss Eva Ruth",female,40
-0,2,"Shattock, Mr. William Noah",male,38
-0,2,"Simcoe, SA Major Mrs. Frederick (Annette Wallis)",female,51
-1,2,"Simmonds, Mr. Reginald Frank",male,27
-1,2,"Simmonds, Mrs. Reginald F. (Mary Mahony)",female,21
-0,2,"Smith, Miss Sarah, Elizabeth",female,15
-0,2,"Smith, Mrs. Lewis (E. A.)",female,
-0,2,"Soanes, Miss Alice Dorothy Amy",female,7
-0,2,"South, Mr. Harold Neville",male,29
-0,2,"South, Mrs. Harold N. (Elsie Marion Roberts)",female,23
-1,2,"Spooner, SA Capt. Rufus Thompson",male,26
-0,2,"Spoor, Mr. Robert",female,24
-0,2,"Spoor, Mrs. Robert (Margaret Calpin)",female,24
-0,2,"Stage, Miss Isabel",female,18
-0,2,"Stainer, Miss Edith Elizabeth",female,31
-0,2,"Stillman, Mr. Arthur Edward",male,25
-0,2,"Stitt, SA Adjt. Fitzwilliam",male,28
-0,2,"Stitt, Mrs. Fitzwilliam (Clara, Cofield)",female,28
-0,2,"Swindlehurst, Miss Sarah Agnes Ann",female,39
-0,2,"Taplin, Mrs. James Walter (Elizabeth Turner)",female,25
-1,2,"Turpin, Mr. Richard",male,
-0,2,"Veitch, Mr. B.",male,
-0,2,"Vincent, Mr. John",male,56
-0,2,"Vincent, Mrs. John (Clara Searson)",female,57
-0,2,"Wakefield, SA Bandsman William Henry",male,25
-0,2,"Walker, SA Brig. John Henry",male,44
-1,2,"Weinrauch, Mr. Bernard",male,37
-0,2,"Whatmore, SA Capt. Giovanni Guido",male,25
-0,2,"Whyte, Mrs. George Naismith (Mary Jane Know)",female,28
-0,2,"White, Miss. Amy Jane",female,0.83
-0,2,"Whitelaw, Mrs. John Henry (Isabella Joplin Henderson)",female,30
-1,2,"Willmott, Miss Eliza",female,28
-1,2,"Wilson, SA Capt. George",male,29
-0,2,"Wolter, Mrs. Charlie (Agnes Isabella Liston)",female,30
-0,2,"Wood, Miss. Mary",female,46
-0,2,"Wood, Mrs. Charles William (Fanny Simmonds)",female,50
-0,2,"Yates, Mr. Harry",male,21
-0,2,"Yates, Mrs. Harry (Mary A Taylor)",female,21
-0,2,"Zebulak, Mr. Josef",male,27
-1,3,Adamiak. Mr. Kaspar,male,33
-0,3,"Adamiece, Mr. Franciszek",male,30
-0,3,"Adamovich, Mr. Jovo",male,
-0,3,"Adamowicz, Mr. Joseph",male,20
-0,3,"Aertjens, Mr. Emil",male,39
-0,3,"Afanassief, Miss Mary Frances",female,
-0,3,"Ainsworth, Mrs. Utley (Edith Smith)",female,47
-0,3,"Ainsworth, Miss Maud",female,12
-0,3,"Ainsworth, Master Jack",male,11
-0,3,"Ainsworth, Master Eric",male,7
-0,3,"Alborg, Mr. Johann",male,27
-0,3,"Alexejew, Mr. Leonty",male,
-0,3,"Alexoff, Mr. Demiter",male,
-0,3,"Allgrove, Mrs. James Rawlings (Florence Alice Daws)",female,31
-0,3,"Allgrove, Miss Vera Ellen",female,6
-0,3,"Allgrove, Miss Evelyn Mira",female,1.75
-0,3,"Anderson, Mrs. Alvin",female,
-0,3,"Anderson, Mr. A.",male,
-0,3,"Anderson, Mr. J.",male,
-1,3,"Anderson, Mr. Johan",male,35
-1,3,"Anderson, Mr. Olaf",male,27
-0,3,"Andrews, Mr. Herbert John",male,29
-0,3,"Antonuk, Mr. Nikolai",male,19
-0,3,"Appleton, Mr. Charles",male,42
-1,3,"Atkinson, Mr. John",male,24
-0,3,"Bebezuk, Mr. B.",male,
-0,3,"Babezuk, Mrs. B.",female,
-0,3,"Babezuk, Miss Mary",female,
-0,3,"Babiski, Mr. Wasili",male,
-0,3,"Baie, Mr. Sima",male,
-1,3,"Bangen, Miss Mary",female,43
-0,3,"Bartschi, Mr. Christain",male,34
-1,3,"Bartschi, Mr. Theophile",male,33
-0,3,"Basta, Mr. Andrew",male,
-0,3,"Bednarz, Mr. Jan",male,23
-0,3,"Befara, Mr. Nazzarino",male,22
-0,3,"Bekoeff, Mr. Tartari",male,24
-0,3,"Bell, Mr. Daniel",male,
-0,3,"Bellucci, Mr. Sante",male,35
-0,3,"Bellucci, Mr. Luciano",male,32
-0,3,"Belser, Mrs. Michael (Katherine)",female,
-1,3,"Benari, Mr. Pete",male,
-0,3,"Berar, Mr. Ilie",male,17
-1,3,"Berar, Mr. Medre",male,
-1,3,"Bercsan, Mr. Sandor",male,26
-0,3,"Bergman, Mrs. Jack (Senja)",female,23
-0,3,"Bergman, Master Reino",male,
-0,3,"Bernabei, Mr. Antonio",male,26
-0,3,"Berry, Mr. Daniel",male,26
-1,3,"Bevan, Mr. William George",male,26
-0,3,"Biondi, Mr. Nazzareno",male,23
-0,3,"Birch, Mrs. Reuben (Ellen Gertrude Tuner)",male,36
-0,3,"Birch, Master Jack Reuben Henry",male,7
-0,3,"Birch, Miss elsie Alice",male,0.42
-1,3,"Bjordal, Mr. Peder Luritz",male,37
-0,3,"Blackham, Mr. Arthur James",male,25
-0,3,"Blackburn, Miss Ethel May",female,23
-0,3,"Blomqvist, Mr. Marcus August Sylvester",male,56
-0,3,"Blomqvist, Mrs. Marcus A. S. (Elisabet Katarina Eriksson)",female,56
-0,3,"Blomqvist, Master Olov Sigfrid",male,11
-0,3,"Blomqvist, Master Erik Walfrid ",male,9
-0,3,"Boardman, Mr. Charles",male,33
-0,3,"Boardman, Mrs. Charles (Catherine Ellen Pugh)",female,28
-0,3,"Bokic, Mr. Mile",male,
-0,3,"Bolanian, Mr. Zacharie",male,
-0,3,"Bolton, Mr. George Henry",male,32
-0,3,"Bolton, Mrs. George Henry (Lillian Maud Smith)",female,31
-0,3,"Bolton, Maser, George Henry",male,3
-0,3,"Bolton, Miss Sadie",female,0.13
-0,3,"Boone, Mr. Jacobus",male,
-0,3,"Borsik, Mr. Fred",male,
-1,3,"Braet, Mr. Victor",male,29
-1,3,"Braga, Mr. Egildo",male,28
-1,3,"Braga, Mrs. Egildo (Carolina Tamorini)",female,22
-0,3,"Braga, Master Rino",male,1.5
-0,3,"Braithwaiter, Mrs. Henry Heath (Martha Doris Ellis)",female,26
-0,3,"Braithwaite, Master William Ellis",male,3
-0,3,"Braithwaite, Master John",male,2
-0,3,"Brischuk, Mr. Diman",male,
-1,3,"Bristow, Mr. Charles Henry",male,46
-0,3,"Bristow, Mrs. Charles H. (Lena Clayton)",female,42
-0,3,"Bristow, Mr. Charles Henry",male,16
-0,3,"Britten, Mr. Joseph",male,25
-0,3,"Bronchin, Mr. Jules",male,
-0,3,"Bronken, Mrs. Samuel (Nelsina Petronella Arnesdotter Starte)",female,53
-0,3,"Bronken, Miss Ella",female,10
-1,3,"Brooks, Mrs. Frank Percy (Henrietta, Westwood) ",female,34
-0,3,"Brooks, Miss Dorothy Caroline Mary",female,8
-0,3,"Brooks, Mr. Hary",male,28
-1,3,"Brown, Mr. Archie",male,
-0,3,"Bryan, Mr. Caroline Agnes",male,21
-1,3,"Brzozowski, Mr. Jan",male,33
-0,3,"Bucciaretti, Mr. Giovanni",male,53
-1,3,"Buchacs, Mr. Leonty",male,31
-0,3,"Buck, Mrs. William (Mary Jane Staley)",male,42
-1,3,"Burrows, Mr. William Thomas",male,40
-0,3,"Burrows, Mrs. William T. (Charlotte Ann Heyes)",female,33
-0,3,"Burrows, Master William John",male,10
-0,3,"Burrows, Miss Elizabeth May",female,7
-0,3,"Butacs, Mr. Demeter",male,43
-0,3,"Carlson, Mr. Andrew",male,
-0,3,"Carter, Mr. Harold Hewitt",male,35
-0,3,"Chmilewsky, Mr. A.",male,
-0,3,"Chomicz, Mr. Moisej",male,18
-0,3,"Chou, Mrs. Charles (Amelia Mott)",female,33
-0,3,"Churcia, Mr. Pava",male,26
-0,3,"Clark, Mrs. Joseph Huddart",female,48
-0,3,"Clarke, Mr. Thomas",male,23
-0,3,"Clarke, Mr. Stephen",male,19
-1,3,"Clausen, Mr. David",male,39
-0,3,"Clements, Mr. Robert H.",male,
-1,3,"Constantin, Mr. Deliman",male,
-0,3,"Cooper, Mr. Percy Daniel",male,20
-0,3,"Trilaceya, Mr. George Costa",male,26
-1,3,"Coste, Mr. Dalahea",male,
-0,3,"Cotterill, Mrs. John (Eliza Oakley)",male,53
-0,3,"Cox, Miss Henrica Maria",male,30
-0,3,"Crawford, Mrs Harold (May, Baines)",male,21
-0,3,"Cresswell, Mr. Frederick Joseph",male,31
-0,3,"Creswell, Mrs. Frederick J. (Fanny Giles)",female,34
-0,3,"Dab, Mrs. Eliza",male,
-1,3,"Delamont, Mr. John",male,50
-1,3,"Delamont, Mrs. Jorn (Seraphine Cooper)",female,51
-1,3,"Delamont, Miss Elizabeth",female,29
-0,3,"Delamont, Mr. Leonard Samuel",male,25
-1,3,"Delamont, Mr. Arthur William",male,22
-0,3,"Davies, Mrs. W. J.",female,60
-0,3,"Dellamorte, Mr. Francesco",male,34
-0,3,"Demassis, Mr. Luigi",male,
-0,3,"Deveson, Mr. Frederick George",male,46
-0,3,"Deveson, Mrs. Frederick G. (Phoebe Jane Giles)",male,41
-1,3,"Diski, Mr. Philip",male,26
-0,3,"Dixon, Mrs. (Polly)",female,
-0,3,"Dowker, Mr. George Reader",male,52
-0,3,"Dowker, Mrs. George R. (Mary Ann Peen)",female,45
-1,3,"Dransfield, Mr. George",male,31
-0,3,"Dreha, Mr. John",male,
-0,3,"Dudka, Mr. Roman",male,36
-0,3,"Duffy, Mrs. James (Mary Ann Speak)",female,33
-0,3,"Dulevich, Mr. Stefan",male,
-0,3,"Duma, Mr. Alexander",male,
-0,3,"Durrant, Mr. James",male,24
-0,3,"Durrant, Mrs. James (Frances King)",female,30
-0,3,"Dutton, Mrs. Edward (Kathleen)",female,
-0,3,"Dzurick, Mr. Iwan",male,45
-0,3,"Edwards, Mr. Christopher",male,44
-1,3,"Ekqvist, Mr. Arvid",male,31
-0,3,"Elliott, Mr. Ernest",male,26
-0,3,"Elliott, Mrs. ernest (Ellen Florence Donald)",female,26
-0,3,"Elliott, Master George Bruce",male,4
-0,3,"Elliott, Master Frederick Ernest",male,1
-0,3,"Engel, Mr. Jules",male,
-0,3,"Engstrom, Mr. John",male,
-1,3,"Erickson, Mr. Erik Johan",male,27
-1,3,"Erikson, Mr. Nels Louis",male,48
-0,3,"Eriksen, Mr. Anton",male,
-0,3,"Evans, Mrs. Henry Russell Milroy (Alfrida Johansdotter)",female,30
-1,3,"Evanson, Mr. Arthur",male,25
-0,3,"Evich, Mr. Dementi",male,
-0,3,"Evison, Mr. Eli",male,27
-1,3,"Evison, Mrs. Eli (Fanny Levi)",female,25
-0,3,"Evison, Master Julius",male,0.66
-0,3,"Fabbri, Mr. Davide",male,26
-0,3,"Fant, Mr. Mick",male,
-0,3,"Farkas, Mr. George",male,72
-0,3,"Faulkner, Mr. James",male,56
-0,3,"Faulkner, Mrs. James (Mary Ellen Meredith)",female,53
-0,3,"Fell, Miss Edith",female,37
-0,3,"Felstead, Mrs. George Philip (Louise Amelia Last)",female,39
-0,3,"Felstead, Mr. George William",male,15
-0,3,"Felstead, Miss Edith Gladys",female,12
-0,3,"Ferguson, Mr. A. C.",male,
-0,3,"Fishwick, Mr. Edmund",male,40
-1,3,"Flack, Mr. Percy George",male,24
-0,3,"Flack, Mrs. Percy G. (Edith Frances Harrald)",female,23
-0,3,"Fliflet, Mrs. Carl A. (Josephine Holm)",male,51
-0,3,"Forstrom, Mr. Johann Wilhelm",male,36
-0,3,"Forstrom, Mrs. J. Wilhelm (Amanda Gustafsson)",female,32
-0,3,"Forstrom, Master Waldo William",male,
-0,3,"Fostrom, Master Tane",male,
-0,3,"Fowler, Mr. John",male,35
-0,3,"Fransen, Mr. Oscar",male,
-0,3,"Fraser, Mr. Frank",male,49
-0,3,"Fregoriczuk, Mr. Wasil",male,
-1,3,"Furniss, Mr. Samuel George",male,35
-1,3,"Fuss, Mr. Vavroshenetz",male,
-0,3,"Gaguloff, Mr. Naluk",male,
-0,3,"Garbuzew, Mr. Ewdokim",male,
-1,3,"Gfard, Mr. Johannes",male,45
-0,3,"Garnett, Mr. William",male,48
-0,3,"Garnett, Mrs. William (Mary Heward)",female,41
-0,3,"Gasieff, Mr. Stephan",male,34
-0,3,"Gassenhuber, Mr. Francis",male,31
-0,3,"Gattrell, Mr. Ernest Maurice",male,39
-1,3,"Gattrell, Mrs. Ernest M. (Adela Rachel Jasper)",female,39
-0,3,"Giles, Mr. William",male,24
-1,3,"Gill, Mr. Martin",male,23
-0,3,"Glover, Mr. Frank",male,
-1,3,"Goddefroy, Mr. Leon",male,40
-0,3,"Goff, Miss Agnes",female,27
-1,3,"Gogoff, Mr. Tasko",male,36
-0,3,"Goralski, Mr. Felix",male,
-0,3,"Goss, Mr. John Manning",male,30
-0,3,"Goss, Mrs. John M. (Beatrice Minnie Bath)",female,31
-0,3,"Goss, Miss Violet May",female,10
-0,3,"Goss, Mr. John Jr.",male,7
-0,3,"Goss, Mr. Joseph",male,4
-0,3,"Grasa, Mr. Antonie",male,
-0,3,"Grdisa, Mr. Miko",male,
-0,3,"Green, Mrs. Walter Sidney (Florrie Roberts)",female,29
-0,3,"Greenfield, Mrs. John (Ruth Johnson)",female,65
-1,3,"Gregovich, Mr. John",male,31
-0,3,"Griffin, Mrs. Alber James (Violetta Jane Boaz)",female,27
-1,3,"Grinevich, Mr. Alexander",male,34
-0,3,"Gupka, Mr. Riupsijan",male,
-0,3,"Guppy, Miss Elanor",male,30
-0,3,"Gustafson, Mr. john",male,
-1,3,"Guszczo, Mr. Adam",male,25
-0,3,"Hakala, Mrs.",female,
-1,3,"Halasch, Mr. Wasilj",male,27
-0,3,"Hall, Mr. Henry",male,
-0,3,"Halmi, Mrs Jacob (Liisa)",female,68
-1,3,"Hamalainen, Mr. Vilho",male,36
-0,3,"Hammer, Miss Emma",female,
-0,3,"Hannunen, Mr. Edwin",male,27
-1,3,"Hannunen, Mrs. Edwin (Anna)",female,25
-1,3,"Harkonen, Mr. Reinhold",male,25
-0,3,"Harrison, Mr. Hugh",male,
-0,3,"Harvey, Miss. Carrie",female,19
-1,3,"Hatischky, Mr. Tanaska",male,42
-0,3,"Haverinen, Miss Kreeta Stiina",female,29
-1,3,"Hedgecos, Mr. George",male,
-0,3,"Heikkila, Mr. Antti Ola",male,32
-0,3,"Heikkila, Mrs. antii (Hilja Maria Eskola)",male,21
-0,3,"Heikkila, Miss Vieno",female,0.83
-1,3,"Heller, Mr. Abram",male,42
-0,3,"Hill, Mrs. Walter (Mary Emma Clegg)",female,24
-0,3,"Hoad, Mrs. Frederick Charles (Kathleen Mavourneen Emily Lane)",female,27
-0,3,"Hoad, Miss Kathleen Emily",female,0.58
-0,3,"Hobbs, Mrs. William Langdon (Mary Ann Evans)",female,63
-0,3,"Hobbs, Miss Louise",female,24
-0,3,"Hokley, Mr. Edward",male,
-0,3,"Holl, Miss Edith Annie",female,14
-0,3,"Holmberg, Mr. Edward",male,
-0,3,"Hopper, Mr. Frank Thomas",male,24
-0,3,"Hopper, Mr. Frank Thomas",male,24
-0,3,"Hopper, Mr. William",male,23
-0,3,"Horowitz, Miss Mollie",female,
-0,3,"Howanicz, Mr. Albert",male,
-0,3,"Howarth, Mrs. Richard Hugh (Beatrice Morgan)",female,31
-0,3,"Howarth, Master Leonard",male,5
-0,3,"Howarth, Miss. Emmie Marjory",female,4
-0,3,"Howell, Mrs. Samuel Baker (Alice Waters)",female,41
-0,3,"Howell, Miss Lilian Alice Maytum",female,10
-0,3,"Hunt, Mrs. Percy Joseph (Beatrice Elizabeth Mary Meddings)",female,36
-1,3,"Ilie, Mr. Boris",male,25
-0,3,"Ilieff, Mr. Pavell",male,
-0,3,"Ingleton, Miss Violet May",female,17
-0,3,"Ispas, Mr. Alexander",male,
-0,3,"Ivane, Mr. M",male,
-0,3,"Jack, Mrs. David (Sarah Swift Coutts)",female,35
-0,3,"Jack, Master David",male,2
-0,3,"Jaksic, Mr. Mile",male,30
-0,3,"Jaksic, Mr. Vaso",male,45
-0,3,"Jay, Mrs. Frederick (Emily Foley)",female,40
-0,3,"Jay, Miss Florence Lilian",female,13
-0,3,"Jay, Master Frederick William arthur",male,10
-0,3,"Jay, Miss Stella Dorothy",female,8
-0,3,"Jay, Miss Emily Annie",female,7
-0,3,"Jay, Master Clifford James",male,4
-0,3,"Jeffrey, Miss Mary Ann",female,17
-0,3,"Jeffries, Mrs. Isaac (Mary Elizabeth Unwin)",female,65
-0,3,"Jeffs, Mrs. William John (Kate Holliday)",female,36
-0,3,"Jeffs, Mr. Ernest Wilfred",male,16
-1,3,"Jelisavac, Mr. Simo",male,35
-0,3,"Jensen, Miss Annie",female,
-0,3,"Johnson, Miss Alida",female,
-1,3,"Johnson, Mr. Andrew",male,44
-0,3,"Johnson, Mr. Edward",male,
-0,3,"Johnson, Mr. James",male,64
-0,3,"Johnson, Mrs. James (Johannah Catherine orgensen",female,61
-0,3,"Johnson, Miss Mary Matilda",female,32
-0,3,"Johnson, Mr. W.",male,
-0,3,"Johnson, Mr. Ulf",male,
-0,3,"Jonkainen, Mr. Frank",male,
-0,3,"Jones, Miss Sarah Ellen",female,25
-1,3,"Joukainen, Mr. Simo",male,27
-0,3,"Jovitz, Mrs. Tsiva (Cjula)",female,48
-0,3,"Jovitz, Mr. Milaca",male,17
-0,3,"Juniper, Mrs. Arthur James (Annie Elizabeth Wigg)",female,23
-0,3,"Juniper, Master Arthur W.",male,4
-0,3,"Jussila, Mr. Kalle",male,32
-0,3,"Kadieff, Mr. Hangeri",male,60
-1,3,"Kallio, Miss Hilma",female,
-1,3,"Kaminski, Mr. Josef",male,
-0,3,"Kangas, Mr. Einar",male,
-0,3,"Kangas, Mr. Kangas",male,
-1,3,"Karanes, Mr. Muchael",male,28
-0,3,"Kasparowicz, Mr. Joseph",male,27
-0,3,"Keeley, Mr. Thomas",male,21
-0,3,"Kearney, Mr. James Henry",male,20
-0,3,"Kerr, Mr. Peter",male,39
-0,3,"Kerr, Mrs. Peter (Mary Currie Russell)",female,39
-0,3,"Kerr, Miss Sarah",female,13
-0,3,"Kerr, Mr. George",male,8
-0,3,"Kerr, Miss Maggie",female,12
-0,3,"Kerr, Master William Russell",male,4
-0,3,"Kerr, Miss Catherine Russell",female,2
-0,3,"Kesaniemi, mr. Matti",male,
-0,3,"Kestila, Mr. Ivar",male,30
-1,3,"Kiczak, Mr. Wojciech",male,45
-0,3,"Kilsby, Mr. Charles Martin",male,67
-0,3,"Kinos, Mr. Eino",male,26
-1,3,"Kirtley, Mrs. Eli (Elizabeth Frank)",female,25
-0,3,"Kirwin, Mrs. James (Amelia Gertrude Sellers)",female,23
-0,3,"Kirwin, Master James",male,0.66
-0,3,"Kitson, Mr. Herbert",male,39
-0,3,"Kitson, Mrs Herber (Ada Mary Long)",female,30
-0,3,"Kitson, Miss Monica",female,4
-0,3,"Kvisto, Mrs. Anshelm (Holma Sofia Rajamaki)",female,29
-0,3,"Kivisto, Master Toivo",male,5
-0,3,"Kivisto, Miss Laura Helen",female,1.5
-0,3,"Klemens, Mr. Josef",male,
-0,3,"Kleva, Mr. Wasilj",male,
-0,3,"Klimchuk, Mr. Istafi",male,
-1,3,"Klukacz, Mr. Adam",male,39
-0,3,"Knisz, Mr. Andrej",male,
-0,3,"Koivisto, Mr. Thomas Fabian",male,29
-0,3,"Koivisto, Mrs. Thomas (Susanna Paulina Juhontytar Lehtimaki)",female,25
-0,3,"Koivisto, Master Arvi",male,
-0,3,"Koivisto, Master Martti",male,
-1,3,"Kolomijetz, Mr. Mitrofan",male,21
-1,3,"Korga, Mr. Jan",male,27
-0,3,"Koskinen, Mrs. (Manda)",female,31
-0,3,"Koskinen, Miss Helmi",female,9
-0,3,"Koskinen, Master James",male,
-0,3,"Koskinen, Miss Milja",female,
-0,3,"Kowalski, Mr. Jan",male,
-1,3,"Koynyto, Mr. Saveli",male,
-0,3,"Kozlowsky, Mr. Stanislaw",male,
-0,3,"Kozoriz, Mr. Kuzma",male,
-0,3,"Kravetz, Mr. Larion",male,
-1,3,"Krawczenko, Mr. Anton R.",male,25
-1,3,"Kruchinsky, Mr. Andrej",male,
-0,3,"Krutin, Mr. Jan",male,
-0,3,"Kryczuniak, Mr. Ivan",male,
-0,3,"Kubeless, Mr. Frantz",male,
-1,3,"Kuchoj, Mr. Mike",male,31
-0,3,"Kupala, Mr. Jacob",male,
-0,3,"Kupreczenko, Mr. John",male,
-1,3,"Kutzi, Mr. Grigor",male,36
-0,3,"Kuukari, Mr. Victor",male,
-0,3,"Kwarchek, Mr. Feodore",male,
-0,3,"Lahti, Mr. Herman",male,
-1,3,"Lejesic, Mr. Jovan",male,
-1,3,"Lammi, Mr. Matti",male,26
-0,3,"Lampinen, Mrs (Liisa)",female,72
-0,3,"Langenicz, Mr.Peter",male,
-0,3,"Larson, Mr. Nels",male,
-0,3,"Larsen, Mrs. Johannes August (Patrina Laura Norberg)",female,46
-0,3,"Larson, Master Anton C.",male,4
-0,3,"Laskey, Mr. Frederick George",male,28
-1,3,"Lawler, Mr. Philip",male,58
-0,3,"Lawler, Mrs. Philip (Ellen Garthwaite)",female,47
-1,3,"Lawler, Mr. Herbert",male,15
-0,3,"Laws, Mr. Robert",male,32
-0,3,"Lebedozicz, Mr. Ivan",male,
-0,3,"Lee, Mrs. Ernest (Ethel Mary Durham)",female,22
-0,3,"Leeks, Master Willie",male,0
-0,3,"Lehto, Mr. Mattie",male,25
-0,3,"Leikas, Mr. Anselm",male,
-1,3,"Lejczuk, Mr. Marcin",male,
-0,3,"Levchik, Mr. Olef",male,
-1,3,"Levetz, Mr. Archiv",male,
-0,3,"Lewandowski, Mr. Becker",male,
-0,3,"Leizner, Mr. Hyre",male,
-0,3,"Lilek, Mr. T.",male,
-1,3,"Lindqvist, Mr. Jonas",male,46
-1,3,"Lindqist, Miss Martha Persdotter",female,39
-0,3,"Livanoff, Mr. Peter",male,
-0,3,"Loncar, Mr. Josip",male,21
-0,3,"Lone, Mr. Hans Aslaksen",male,23
-0,3,"Lone, Mrs. Hans A. (anna Knuttsdatter Flotekval)",female,22
-0,3,"Lone, Master Allic",male,5
-0,3,"Lone, Miss lena",female,3
-0,3,"Lone, Miss Clara",female,2
-0,3,Los. Mr. Harry,male,
-0,3,"Lubniewski, Mr. Adam",male,40
-1,3,"Lubniewski, Mr. Jacob",male,30
-0,3,"Luchovich, Mr. Luka",male,
-1,3,"Lukijanec, Mr. Maty",male,
-1,3,"Lung, Mr. Ilia",male,37
-1,3,"Lupini, Mr. Nazzareno",male,24
-1,3,"Luren, Mr. Magnus C.",male,32
-0,3,"Luren, Mrs. Magnus C. (Sarah O Lofthus)",male,32
-0,3,"Luzensky, Mr. Ignotty",male,
-0,3,"Madsen, Mrs Peter (Signes Ostgaard)",female,47
-0,3,"Magyar, Mr. Toma",male,
-0,3,"Makela, Mr. John",male,
-0,3,"Maki, Mrs Juha (Amanda)",female,32
-0,3,"Maki, Miss Orvokki",female,2
-0,3,"Maki, Mr. matti",male,34
-0,3,"Makinen, Mr. Oscar",male,
-1,3,"Malaschuk, Mrs. (Fama)",female,28
-0,3,"Malobasa, Mr. Dane",male,
-0,3,"Mandryk, Mr. Harry",male,
-0,3,"Mandryk, Mr. Izydor",male,37
-1,3,"Marazewicz, Mr. Terenty",male,37
-0,3,"Marian, Mr. Juon",male,
-0,3,"Marin, Mr. Jovan",male,
-0,3,"Marini, Mr. Guiseppe",male,41
-0,3,"Marinkov, Mr. Gymo",male,
-0,3,"Markkula, Mrs. Frans",female,40
-1,3,"Markkula, Mr. Arvo",male,14
-0,3,"Markkula, Master Eero",male,10
-0,3,"Markkula, Master Aarne",male,7
-0,3,"Markkula, Miss Tonia",female,2
-0,3,"Martin, Mrs. James (Emma Payne)",female,53
-0,3,"Masic, Mr. Steve",male,
-0,3,"Mason, Mrs. Joaseph",female,
-0,3,"Mason, Master Howard",male,
-0,3,"Matiyos, Mr. N",male,
-0,3,"Mattson, Mrs. (Ida)",female,
-0,3,"Mattons, Master Sulo",male,
-0,3,"Maule, Mres (Frances)",female,
-0,3,"Mawby, (Mrs. Joseph Arthur (Elsie Mary Stubbings)",female,31
-0,3,"Mawby, Miss Katherine Mary",female,2
-0,3,"Mawhinney, Mr. George Waring",male,33
-0,3,"May, Mr. Mark",male,41
-0,3,"McGacgen, Mrs. Howard Archibald (Maude Mary Nicholson)",female,41
-0,3,"McGacgen, Miss Gladys Maud ",female,19
-0,3,"McGacgen, Miss Alice Mary Marjorie",female,12
-0,3,McGacgen,,0.11
-0,3,"McVeigh, Mr. James Henry",male,27
-0,3,"Mezin, Mr. Demeter",male,43
-0,3,"Mihekovic, Mr. Tomo",male,
-0,3,"Mikulicza, Mr. George",male,
-0,3,"Minardi, Mr. Luigi",male,23
-0,3,"Mincy, Mr. petru",male,
-0,3,"Mitchell, Mr. Sydney",male,48
-0,3,"Miteff, mr. Gairo",male,
-0,3,"Mitoff, Mr. Alexi",male,
-0,3,"Morrhouse, Mr. Frederick",male,40
-0,3,"Morosuk, Mr. Moise",male,
-0,3,"Morelli, Mr. Paolo",male,29
-0,3,"Morton, Mr. Lowther",male,27
-0,3,"Morton, Mrs. Lowther (Ruth Spruston)",female,26
-0,3,"Morton, Miss Jane",female,
-0,3,"Morton, Miss Kathleen",female,
-1,3,"Mose, Mr. Harry N.",male,
-0,3,"Moskelli, Mr. K.",male,
-0,3,"Motki, Mr. Mike",male,
-0,3,"Mullen, Mr. Robert",male,
-0,3,"Murcsan, Mr. T.",male,
-1,3,"Muzichuk, Mr. Nikita",male,
-0,3,"Naulls, Mr. William George",male,55
-0,3,"Naulls, Mres. William G. (Louisa Bills)",female,50
-0,3,"Nelson, Mr. Gustaf",male,
-0,3,"Nevalainen, Mr. Otto",male,27
-0,3,"Nikula, mr. John",male,
-0,3,"Nikulaie, Mr. Ilie",male,
-1,3,"Nilsson, Mr. Sigfrid",male,27
-1,3,"Ninutear, Mr. Pavell",male,
-0,3,"Nirny, Mr. Ilia",male,
-1,3,"Nissila, Mr. Frank",male,31
-0,3,"Nissila, Miss Sanni",female,
-0,3,"Nivala, Mr. Juho Emil",male,36
-0,3,"Nivala, Miss Lizzie",female,
-0,3,"Nivala, Mr. Roy",male,
-0,3,"Nixon, Mrs. John W. (Ethel Mary Jeffrey)",female,29
-0,3,"Nixon, Miss Emma J.",female,3
-0,3,"Nixon, Master Leslie",male,1
-1,3,"Nobiski, Mr. Piotr",male,39
-1,3,"Novikov, Mr. Speredon",male,36
-1,3,"Numminen, Mr. Mauno",male,66
-0,3,"Oakley, Mr. George",male,
-0,3,"Olecki, Mr. Onufrej",male,
-0,3,"Olsen, Mr. Gustav",male,
-0,3,"Pac, Mr. Vavyence",male,
-0,3,"Paccozzachi, Mr. Guiseppe",male,
-0,3,Mr. Nika Pajin,male,
-0,3,"Parker, Miss Thirza",female,48
-0,3,"Parkinson, Miss Letitia",female,33
-0,3,"Parrish, Mrs. Albert (Florence Ellen baker)",female,32
-0,3,"Parrish, Master Albert Harry",male,7
-0,3,"Parrish, Miss Florence",female,2
-1,3,"Parsk, Miss Maria",female,28
-1,3,"Paskowicz, Mr. Iwan",male,
-0,3,"Paterson, Mr. Alex",male,39
-0,3,"Pawlowsky, Mr. Peter",male,
-0,3,"Perkins, Mrs. Richard H. W. (Louise Maria Moss)",female,36
-0,3,"Permiakov, Mr. Ivan",male,
-0,3,"Peryer, Mrs. William (Jeminma Richardson)",male,49
-0,3,"Peterson, Mr. G.",male,
-0,3,"Petterson, Mr. George",male,27
-0,3,"Petrocich, Mr. simon",male,
-1,3,"Petruk, Mr. Metro",male,39
-0,3,"Phillips, Mrs. Elijah (Rachel Pass)",female,54
-0,3,"Phillips, Miss Etherl",female,13
-0,3,"Phillips, Master Hubert",male,11
-0,3,"Piermattei, Mr. Lorenzo",male,18
-1,3,"Pierpaoli, Mr. Domenico",male,37
-1,3,"Piirainen, Mr. Erik",male,
-1,3,"Polic, Mr. Stephan",male,22
-0,3,"Polic, Mr. Isidor",male,29
-0,3,"Polkluf, Mr. John",male,
-0,3,"Pomichewski, Mr. Ignacy",male,47
-0,3,"Pompei, Mr. Caesar",male,28
-0,3,"Pop, Mr. Veralin",male,42
-1,3,"Pop, Mrs. Veralin (Georgina)",female,34
-0,3,"Porii, Miss Hilma",female,29
-0,3,"Podeleski, Mr. B. I.",male,
-0,3,"Powdeleski, Mrs. B. I.",female,
-1,3,"Praksi, Mr. frank Oscar",male,25
-0,3,"Pratt, Mrs. Albert William (Mary louisa Holder)",female,33
-0,3,"Pratt, Miss Frances Louise",female,2
-0,3,"Prescuitto, Mr. Ubaldo",male,29
-0,3,"Prince, Mr. William Lee",male,34
-0,3,"Prince, Mrs William Lee (Mary Alice Wilson)",female,37
-0,3,"Prince, Master Gilbert",male,5
-0,3,"Pukas, Mr. Iwan",male,
-1,3,"Pykari, Mr. Jacob",male,33
-0,3,"Pykari, Mr. Kalle",male,22
-0,3,"Raasakka, Mr. Antti",male,38
-0,3,"Radburn, Mrs. William Wilson (Mary Nicholls)",female,66
-1,3,"Rantala, Mr. Kalle",male,21
-1,3,"Rask, Mr. Peter O.",male,50
-0,3,"Raven, Mr. lorenzo Ross",male,58
-1,3,"Rebaljchenko, Mr. Feordor",male,34
-0,3,"Reeves, Mrs. Allan (Rose Elizabeth Wright)",female,28
-0,3,"Reeves, Miss Dora",female,5
-0,3,"Reid, Mr. Charles",male,
-0,3,"Rigby, Mrs. John (Sarah Ann Bourne)",female,43
-0,3,"Robnsky, Mr. Adrian",male,
-0,3,"Robson, Mr. George Lisle",male,41
-0,3,"Rogozin, Mr. Wladimir",male,31
-0,3,"Rogozin, Mrs. Wladimir (Anastasia)",female,28
-0,3,"Rogozin, Master Alexey",male,7
-0,3,"Roman, Mr. Petra",male,30
-1,3,"Romaniuk, Mr. Jakob",male,19
-0,3,"Romanyszyn, Mr. Ignatz",male,
-0,3,"Romanyszyn, Mr. Pawlo",male,31
-0,3,"Ross, Mr. Thomas",male,25
-0,3,"Ruddy, Mr. John",male,
-0,3,"Russell, Mr. William",male,68
-0,3,"Russel, Miss Sarah McQueen",female,33
-0,3,"Ruud, Miss Laura Johansen",female,31
-0,3,"Ryan, Mr. Alfred Theodorus Meyer",male,46
-0,3,"Ryan, Mrs. Aldred T. M. (Edith Alie Lewandon)",female,44
-0,3,"Ryczko, Mr. Charyton",male,
-0,3,"Saarinen, Mr. David",male,29
-0,3,"Saarinen, Mrs. David (Holma Helena Irene Steonholm)",female,28
-0,3,"Saarinen, Master Nilo Ernesti",male,2
-0,3,"Sagrafena, mr. Aurelio",male,32
-1,3,"Salo, Mr. John",male,25
-0,3,"Samuelson, Mr. Carl",male,
-1,3,"Samuelson, Mr. Christian",male,22
-0,3,"Sanden, Miss T.",female,
-1,3,"Sapan, Mr. Janos",male,29
-1,3,"Schakalida, Mr. Wasyl",male,26
-0,3,"Scott, Mr. thomas usher",male,27
-0,3,"Scott, Mrs. Thomas U. (Margaret, Peverley)",female,25
-0,3,"Scott, Master Thomas A.",male,2
-0,3,"Schwaz, Mr. Johann",male,
-0,3,"Seschinski, Mr. Joseph",male,
-0,3,"Sejmon, Mr. Dyonizy",male,
-1,3,"Shedlokc, Mr. Steve",male,22
-0,3,"Shropas, Mr. J.",male,
-0,3,"Shurnak, Mr. Martin",male,
-0,3,"Sidorowicz, Mr. Jakim",male,
-0,3,"Sikorski, Mr. lucjan",male,38
-1,3,"Simczesin, Mr. Jan",male,36
-0,3,"Simper, Mr. Alfred",male,36
-0,3,"Simper, Mrs. Alfred (Marian Jordon)",female,42
-0,3,"Sipka, Mr. Nikola",male,29
-0,3,"Sivula, Mr. Matti",male,27
-1,3,"Skocin, Mr. John",male,
-0,3,"Slyepovic, Mr. Steve",male,
-1,3,"Smart, Mr. Arthur Thomas",male,29
-0,3,"Smedberg, Mr. Rafael",male,33
-0,3,"Smedberg, Master Charles",male,10
-0,3,"Smedley, Miss Rose",female,52
-0,3,"Smith, Mrs. Robert (Isabella Ramsay)",female,54
-0,3,"Smith, Mr. Frederick J.",male,
-0,3,"Smith, Miss Maud J.",female,28
-0,3,"Sokar, Mr. S.",male,
-0,3,"Spooner, Mr. Ralph",male,64
-0,3,"Spooner, Mrs. Ralph (Margaret Hill)",female,65
-0,3,"Spooner, Mrs. Ralph Jr. (Mary Smith)",female,
-0,3,"Spurgeon, Mrs. James George (Catherine Annie Britton)",female,29
-0,3,"Spurgeon, Miss kathleen Beatrice",female,6
-0,3,"Staley, Mr. Daniel",male,34
-0,3,"Statkus, Mr. Antonius",male,
-0,3,"Starowoitow, Alfanasi",male,
-0,3,"Steele, Mrs. Ralph James (Elizabeth Flood)",female,34
-0,3,Steelem Miss Nora Mary,female,6
-0,3,"Steele, Master James",male,0
-0,3,"Steele, Miss Lily Ada",female,40
-0,3,"Stevenson, Mr. Charles Alexander",male,47
-0,3,"Stevenson, Mrs. Charles A. (Fanny Hardy)",female,41
-0,3,"Stevenson, Mrs. Robert (Margaret Riddell)",female,33
-0,3,"Stone, Mrs. George (Emma Impey)",female,37
-1,3,"Strcha, Mr. Grigory",male,
-0,3,"Sundberg, Mr. Manda",male,40
-0,3,"Suni, Mr. Matti",male,
-0,3,"Sunich, mr. Petar",male,
-0,3,"Suvelean, Mr. George",male,
-0,3,"Svniesuk, Mr. A.",male,
-0,3,"Swan, Mr. Charles",male,63
-1,3,"Swanson, Mr. Amandus",male,44
-1,3,"Swanson, Mr. Martin",male,33
-0,3,"Swider, Mr. Stanislaw",male,
-0,3,"Sydonik, Mr. Petro",male,
-0,3,"Szabo, Mr. Johhn",male,41
-0,3,"Szambargo, Mr. W.",male,
-0,3,"Szilagy, Mr. Nikolae",male,
-0,3,"Taavettila, Mr. Antti",male,31
-1,3,"Taavettila, Mrs. Antti (Holma Katy Lehto)",female,32
-0,3,"Taavettila, Master Allan Mathias",male,7
-1,3,"Tallbacka, Mr. Aleksander",male,35
-0,3,"Takes, Mr. matthew",male,71
-1,3,"Tankis, Mr. Demeter",male,35
-0,3,"Tarry, Mrs. albert (Annie Mobbs)",female,29
-0,3,"Tarry, Miss Hilda May",female,9
-0,3,"Tarry, Master Albert Raymond",male,8
-0,3,"Taverner, Mr. James Robert",male,34
-0,3,"Taverner, Mrs. James R. Clara Harriet Graves)",female,31
-0,3,"Taverner, Miss Evelyn Clara",female,5
-0,3,"Taverner, Master Henry",male,2
-0,3,"Taylor, Mr. James Thomas",male,
-0,3,"Taylor, Miss Florence",female,12
-0,3,"Thirkettle, Mr. dudley",male,
-1,3,"Tholix, Nestor",male,28
-0,3,"Tholix, Mrs. Nestor (Sphia Jern)",female,23
-0,3,"Thompson, Mrs. F",female,
-0,3,"Tiitus, Mr. Jacob",male,
-0,3,"Tipuricze, Mr. Joan",male,
-0,3,"Todorovich, Mr. Malden",male,
-0,3,"Tolander, Mrs. William Martin (Emma Louise)",female,43
-0,3,"Tome, Mr. Luigi",male,25
-0,3,"Torikoff, Mr. Grigori",male,
-0,3,"Treherne, Mr. Allan Edwin",male,43
-1,3,"Trieff, Miss Kusten",female,33
-0,3,"Tuffley, Miss Laura",female,26
-0,3,"Turcic, Mr. imbro",male,
-0,3,"Turnbull, Mrs. John (Caroline Ellen Norman)",female,45
-0,3,"Reginald, Master Albert",male,11
-0,3,"Turner, Mr. Joseph Henry",male,24
-0,3,"Tworkowski, Mr. Dominik",male,47
-0,3,"Udin, Mr. Aaron",male,
-0,3,"Ugolini, Mr. John",male,35
-0,3,"Vagni, mr. Andelo",male,44
-0,3,"Vagni, Mrs. Andelo (Anna Rossi)",female,43
-0,3,"Vagni, Miss Adele",female,10
-0,3,"Cagni, Miss Ameriga",female,3
-0,3,"Vagni, Master Luidi",male,
-0,3,"Vaidanen, Mr. David",male,
-0,3,"Valhoff, Mr. Krancho",male,
-0,3,"Valhoff, Mrs. Krancho (Mico)",female,
-1,3,"Valimaski, Mr. Tuomas",male,43
-1,3,"Van Castre, Mr. Victor",male,32
-1,3,"Van de Moere, Mr. Victor",male,37
-0,3,"Vanner, Mr. Thomas Ewart",male,23
-0,3,"Varney, Mrs. Edward (Louisa Moran)",female,61
-0,3,"Varney, Miss Violet Gladys",female,17
-0,3,"Varniers, Mr. Camille Joseph Marie",male,34
-0,3,"Veniers, Mrs. Camille J. M. (Edmee Marie Munaut)",female,41
-0,3,"Verniers, Master John Marie",male,9
-0,3,"Verniers, Master George Louis Joseph",male,8
-0,3,"verniers, Master Edouard Camille Joseph Marie",male,7
-0,3,"Verniers, Master Rene Joseph Marie",male,5
-0,3,"Verniers, Miss marie Marguerite",female,4
-0,3,"Verniers, Master Francois Xavier Joseph Marie",male,0.83
-1,3,"Viita, Mr. Kalle",male,30
-0,3,"Vinqvist, Mr. C. J.",male,
-1,3,"Walker, Mr. james",male,37
-0,3,"Walker, Mrs. James",male,
-1,3,"Walkkey, Mrs. (Hilda)",female,27
-0,3,"Warne, Mrs. George (Jane Holloway)",female,69
-0,3,"Warwick, Mr. Charles Ralph",male,23
-0,3,"Wasko, Mr. Pawlo",male,
-0,3,"Watson, Mrs. Charles (Eliza Edith Kemp)",female,43
-0,3,"Weir, Miss Violet Maud",female,23
-0,3,"White, Miss Alma May",female,21
-0,3,"White, mrs. David (Selina Lear)",female,50
-0,3,"White, Mrs. George (Mary Ann Mitchell)",female,53
-0,3,"White, Miss Jessie",female,13
-0,3,"Widlaski, Mr. Harry",male,
-0,3,"Wiktorsky, Mr. Stanislawy",male,
-0,3,"Wilcocks, Mr. Henry",male,42
-0,3,"Wikes, Mr. Chales",male,22
-0,3,"Witiaz, Mr. Fonio",male,
-0,3,"Wojtowicz, Mr. Mike",male,
-1,3,"Wolczuk, Mr. Jakym",male,
-0,3,"Woodard, Mr. walter",male,47
-0,3,"Woodard, Mrs. Walter (Eliza Butcher)",female,51
-0,3,"Woodard, Miss May Florrie",female,17
-0,3,"Woodwards, Mrs. Henry Thomas (Sarah White)",female,59
-0,3,"Woodwards, Miss Sarah",female,27
-0,3,"Worobiow, Mr. Timofei",male,36
-0,3,"Worobiow, Mrs. Timofei (Maria)",female,35
-0,3,"Worobio, Master Nicolai",male,
-0,3,"Worrall, Mr. Herbert Horace",male,20
-0,3,"Zaleva, Mr. Marczin",male,
-1,3,"Zolotrorew, Mr. Wasili",male,20
-0,3,"Zsuffa, Mr. A.",male,
-1,3,"Zuk, Mr. Georgi",male,32
-0,3,"Zuk, Mrs. Georgi (Maria)",female,32
-0,3,"Zuk, Master Wladislaw",male,6
-0,3,"Zuk, Miss Josefa",female,5
-1,3,"Zuk, Mr. Kirilio",male,34
-0,3,"Zrotam, Mr. Toader",male,
+Survived;Pclass;Name;Sex;Age
+1;0;Kendall. Henry George;male;
+0;0;Steede. Mansfield Richard;male;
+1;0;Jones. Edward John;male;
+0;0;Williams. Roger;male;
+1;0;File. Osmond;male;
+0;0;Moore. Charles Alwyn;male;
+0;0;Tunstall. Bertram;male;
+1;0;Ferguson. Ronalds;male;
+1;0;Bamford. Edward;male;
+0;0;Peterson. William Victor;male;
+0;0;Taylor. Walter;male;
+1;0;Sprague. Thomas William;male;
+1;0;Radley Alexander Christie;male;
+0;0;Thompson. Gerard Joseph;male;
+1;0;Saunders. Robert;male;
+0;0;Preston. John Edward;male;
+1;0;Galway. James Francis ;male;
+0;0;Gitcher. James Duncan;male;
+1;0;Murphy. John;male;
+0;0;Sharplesm William Henry;male;
+0;0;Williams. William;male;
+1;0;Bruin. Thomas;male;
+1;0;Carroll. John;male;
+1;0;Clarke. J.;male;
+0;0;Corrigan. Thomas;male;
+0;0;Crayton. Robert;male;
+1;0;Dennehy. Edward;male;
+1;0;Dennis. Thomas;male;
+1;0;Downey. Thomas Shawn;male;
+1;0;Evans. Albert L.;male;
+1;0;Evans. John;male;
+1;0;Fitzpatrick. John;male;
+0;0;Flagel. J.;male;
+0;0;Harford. N.;male;
+1;0;Hudson. John Henry Couch;male;
+1;0;Jeffries. Joseph F.;male;
+1;0;Lang. Benjamin;male;
+0;0;Leonard. Thomas;male;
+0;0;Lyons. William Henry;male;
+1;0;Maguire. John;male;
+1;0;McCoy. John William;male;
+1;0;McDougal. Duncan;male;
+1;0;McEwan. John;male;
+1;0;Moran. James;male;
+0;0;O'Sullivan. James;male;
+0;0;Riley. John;male;
+1;0;Simms. John;male;
+0;0;Bent. James;male;
+1;0;Brown. William;male;
+1;0;Disley. John;male;
+1;0;Fawcett. William Wright;male;
+1;0;Fitzgerald. H.;male;
+1;0;Gratwick. Thomas William;male;
+1;0;Jones. Daniel Henry;male;
+0;0;Learmouth. George Seaton;male;
+0;0;Leonard. Mark;male;
+1;0;Price. John Henry;male;
+0;0;Bell. Joseph Robert;male;
+0;0;Gallagher. William;male;
+1;0;Sampson. William;male;
+0;0;Jones. John Machenzie;male;
+1;0;Hampton. William Joseph;male;
+1;0;Brennan. Robert Henry;male;
+1;0;Liddell. Robert;male;
+1;0;O' Donovan. George Stephen;male;
+1;0;McOnie. George Randolph;male;
+0;0;Gillespie. Robert Walls;male;
+1;0;McDonald. Charles Keven;male;
+0;0;McEwan. James;male;
+0;0;Williamson. Percy Robert;male;
+1;0;Smith. Alfred R.;male;
+0;0;White. John Bell;male;
+1;0;Johnston. John Alexander Beddows;male;
+0;0;Caley. Frederick John;male;
+1;0;Swan. John Henry;male;
+1;0;Grant. John;male;
+1;0;Duckworth. William Barrett D.;male;
+1;0;Connor. James;male;
+1;0;Davidson. George;male;
+1;0;Connor. John;male;
+1;0;D'Arcy. Patrick;male;
+1;0;Duggan. Patrick;male;
+0;0;Healey. James;male;
+1;0;Holden. Samuel;male;
+1;0;Maher. Patrick;male;
+1;0;McAdam. William;male;
+1;0;McAleavey. Michael;male;
+1;0;Megson. John;male;
+1;0;Nelson. Cornelius;male;
+1;0;O'Donnell. Daniel;male;
+1;0;Reardon. Daniel;male;
+0;0;Ross. William;male;
+1;0;Sheridan. Robert;male;
+0;0;Starr. Edmund;male;
+1;0;Stephens. John;male;
+0;0;Summers. John;male;
+1;0;Williams. William;male;
+1;0;Malone. Peter James;male;
+1;0;Malone. Bernard;male;
+0;0;McGuinness. Muchael;male;
+1;0;McGuinness. Thomas;male;
+1;0;Whitty. John;male;
+1;0;Bailey. George;male;
+0;0;Barber. John;male;
+0;0;Boyd. Edward;male;
+1;0;Clarke. William;male;
+0;0;Crowther. John George;male;
+1;0;Davies. Peter;male;
+1;0;Davis. John;male;
+1;0;Duffy. John;male;
+1;0;Flood. Thomas;male;
+0;0;Hepburn. John David;male;
+1;0;Hutchinson. George;male;
+1;0;Jackson. Charles E.;male;
+0;0;Jump. Joseph;male;
+1;0;Maguire. John Thomas;male;
+0;0;McCabe. James;male;
+1;0;McGowan. James;male;
+1;0;McCready. Thomas;male;
+0;0;McGuinness. Robert M.;male;
+1;0;McMahon. Peter;male;
+0;0;McManus. John Henry;male;
+0;0;O'Neill. Nucholas;male;
+1;0;O'Toole. Patrick;male;
+0;0;Regan. Michael;male;
+0;0;Reid. H.;male;
+0;0;Reid. James;male;
+1;0;Rockford. Michael;male;
+1;0;Rowland. Joseph Samuel;male;
+1;0;Ryan. John;male;
+0;0;Shannon. Edward;male;
+1;0;Smythe. James;male;
+1;0;Stephens. John;male;
+0;0;Tumilty. Bernard James;male;
+0;0;Walsen. David Heron;male;
+1;0;Whitty. James;male;
+0;0;Worthington. Patrick Joseph;male;
+1;0;Campbell. John Mercer;male;
+0;0;Lally. James;male;
+1;0;Rice. Edward;male;
+1;0;Sommers. Matthew;male;
+0;0;Fitchett. Edward;male;
+0;0;Fournier. Henry;male;
+0;0;Anderson. William James;male;
+1;0;Brown. Patrick;male;
+1;0;Campbell. Michael;male;
+1;0;Clarke. John Joseph;male;
+0;0;Cody. Muchael;male;
+1;0;Davis. John;male;
+0;0;Deery. John;male;
+1;0;Dolan. Paul;male;
+1;0;Foster. Ernest;male;
+0;0;Grant. Edward;male;
+1;0;Houghton. J. or Thomas;male;
+0;0;Jump. John Thomas;male;
+0;0;Kane. Thomas;male;
+1;0;Keegan. John;male;
+1;0;King. John;male;
+1;0;Maguire. Joseph;male;
+1;0;Matthews. John;male;
+0;0;McBride. William Frederick;male;
+1;0;McCabe. Richard;male;
+1;0;McCabe. Thomas;male;
+0;0;McEnroe. Edward;male;
+1;0;McGuinness. John;male;
+1;0;Mitchell. James;male;
+0;0;Mulvaney. William;male;
+1;0;Murphy. William Bristow;male;
+1;0;Murray. Peter;male;
+0;0;O'Connell. Daniel;male;
+1;0;O'Toole. James Patrick;male;
+1;0;Quinn. John;male;
+1;0;Quinn. William;male;
+0;0;Reid. James;male;
+1;0;Robinson. William;male;
+1;0;Smith. James;male;
+1;0;Wilson. John;male;
+1;0;Donaldson. John;male;
+0;0;Murden. Reubem Joseph;male;
+1;0;Morgan. John;male;
+1;0;Ryan. Thomas;male;
+0;0;Welsh. Thomas;male;
+1;0;Cottle. Samuel;male;
+1;0;Dunn. John;male;
+1;0;Hayes. Edward;male;
+0;0;Kirwin. James;male;
+1;0;Mountain. Thomas;male;
+1;0;Neale. Henry;male;
+1;0;Whie. Henry;male;
+1;0;Wilson. James;male;
+0;0;McDonald. Alexander Betteley;male;
+1;0;Hayes. Ernest;male;
+1;0;Wakeford. Charles;male;
+0;0;Cox. Samuel Allen;male;
+0;0;Rankin. Alexander Carmichael;male;
+0;0;Hamilton. Frank William;male;
+1;0;Grant. Dr. James Frederic;male;
+1;0;Gaade. Augustus William;male;
+0;0;Craik. Alecander Christopher;male;
+0;0;Wildman. James Alison;male;
+1;0;Burns. Charles;male;
+0;0;Hudson. William Daniel;male;
+1;0;Davies. John;male;
+0;0;Jones. Henry Andrew;male;
+1;0;Williams. Arthur Clement;male;
+1;0;Chadwick. John Arthur;male;
+0;0;Cheetham. John Mackintosh;male;
+0;0;Cope. Hecotr Allan;male;
+0;0;Delaney. Austin;male;
+1;0;Fayle. Robert Russell;male;
+1;0;Gee. Percy;male;
+1;0;Gray. Arthur;male;
+1;0;Gray. William Whitla;male;
+0;0;Hadfield. William james;male;
+0;0;Hopwood. William;male;
+1;0;Hughes. William Henry;male;
+1;0;Hughes. William Lawrence;male;
+1;0;Jacques. Henry;male;
+1;0;Jones. Clark;male;
+0;0;Lawrie. James;male;
+0;0;Lennon. George;male;
+0;0;Manderson. Walter George;male;
+1;0;McWilliam. Robert Bowen;male;
+0;0;Metcalfe. George Joshua;male;
+0;0;Myers. John James;male;
+0;0;Newham. Henry;male;
+0;0;Orford. George Leonard;male;
+1;0;Parkinson. Charles Richard;male;
+1;0;Pinner. Charles;male;
+1;0;Price. Thomas;male;
+1;0;Rowen. William;male;
+0;0;Smith. Henry 'Harry';male;
+1;0;Smith. Joseph;male;
+1;0;Smith. Charles Hopley;male;
+1;0;Mellor. Herbert James;male;
+0;0;Durkin. John;male;
+0;0;Gerrard. Thomas;male;
+0;0;Ainge. Edward;male;
+1;0;Holt. Robert Armor;male;
+0;0;Braine. Edward william;male;
+1;0;Burrows. Thomas;male;
+0;0;Derbyshire. Anthony Muir;male;
+1;0;Hughes. Hugh;male;
+1;0;Jones. Harold;male;
+1;0;Murtagh. Matthew;male;
+1;0;Nugent. William James Christopher;male;
+0;0;Smith. Walter Beaumont;male;
+1;0;Gill. Nathaniel;male;
+1;0;Coombs. Charles William;male;
+1;0;Cope. John;male;
+0;0;McCoy. R. L.;male;
+1;0;Prince. William;male;
+1;0;Morl. William;male;
+1;0;Powell. Leonard Armos George;male;
+0;0;Lightfoot. George;male;
+1;0;Baker. Stanley James;male;
+0;0;Hamilton. James Alfred;male;
+0;0;Jones. Percy Reginald;male;
+0;0;Murtagh. William Joseph;male;
+1;0;Spencer. Charles Herbert;male;
+1;0;Clasber. Rudolph C.;male;
+0;0;Ratcliffe. Jack;male;
+0;0;Chance. William George;male;
+0;0;Roberts. James;male;
+1;0;Hird. William;male;
+0;0;Cochrane. Andrew Leslie;male;
+0;0;Highfield. William Duncan Cameron;male;
+1;0;Duggan. John;male;
+0;0;Jones. Miriam (Roberts);female;
+0;0;Jones. Ellen Eliza (Birch);female;
+0;0;Riddell. Alice;female;
+0;0;Page. Clarrie May;female;
+1;0;William. Thomas S.;male;
+0;0;Richard. Sidney Edward;male;
+1;0;Brown. John;male;
+1;0;Challis. Montague Edwards;male;
+1;0;Cure. Albert James (Jackson);male;
+0;0;Dawson. Edward;male;
+1;0;Flinn. George Fitzroy;male;
+0;0;Herbert. William;male;
+0;0;Jones. Harold;male;
+1;0;Jones. Owen;male;
+1;0;Metcalfe. Thomas;male;
+0;0;Neilson. George;male;
+1;0;Owen. William Salisbury;male;
+0;0;Parkinson. Frank George;male;
+0;0;Pelton. Benjamin David J.;male;
+1;0;Pritchard. Oliver;male;
+1;0;Prowse. James Bebbington;male;
+0;0;Reich. Joseph Alexander M.;male;
+1;0;Roberts. William;male;
+0;0;Rushton. Joseph Albert;male;
+1;0;Shannon. Francis Joseph;male;
+1;0;Smith. Albert E.;male;
+1;0;Smith. Harry K.;male;
+0;0;Vivian. Bertie Adams;male;
+0;0;Wilson. Frank;male;
+0;0;Tunstall. Harold;male;
+0;0;Terry. John;male;
+0;0;Wright. Alfred;male;
+0;0;Singer. Joseph Edward (Shortsinger);male;
+0;0;Trainor. Nucholas;male;
+0;0;Perry. Harold;male;
+0;0;Willis. George Oswald;male;
+0;0;Jones. Henry Andrew;male;
+0;0;Fisher. Samuel Charles;male;
+1;0;Absolon. Victor;male;
+1;0;Byrne. John;male;
+0;0;Cooper. Walter;male;
+0;0;Crabb. Joseph;male;
+0;0;Dixon. Harold;male;
+0;0;Gill. James Philip;male;
+0;0;Harold. William;male;
+1;0;Harrison. Frank;male;
+0;0;Jacob. Alfred Henry;male;
+1;0;McDonald. Louis Adam;male;
+0;0;Mitchell. Robert;male;
+0;0;Muir. Charles William;male;
+0;0;Walker. Thomas Lyle;male;
+1;0;Parry. D.;male;
+0;0;Passmore. Charles Joseph;male;
+1;0;Williams. Richard;male;
+0;0;Pearson. Sophia Jane (Varley);female;
+0;0;Stratton. Lucilla (Kennerley);female;
+0;0;Negus. Matilda (Ibbotson);female;
+0;0;Munro. William Anderson;male;
+1;0;Copplin. George;male;
+0;0;Mohring. Guy;male;
+0;0;Lewis. Charles;male;
+1;0;Robertson. John;male;
+0;0;Dehnel. Charles Henry;male;
+0;0;Owen. Robert;male;
+0;0;Faulkner. Reginald;male;
+1;0;Thomson. Archibald;male;
+0;0;Gregory. Frederick;male;
+0;0;Jones. John Jameson;male;
+0;0;Thomas. William;male;
+0;0;Fitzpatrick. Alexander;male;
+0;0;Myers. Frank;male;
+1;0;Pritchard. john;male;
+1;0;Dumbell. Thomas Baker;male;
+1;0;Haigh. Samuel Ernest;male;
+1;0;McSherry. James;male;
+1;0;Morland. Harold Reginald;male;
+0;0;Williams. Gwilym Caradoc;male;
+0;0;Lewis. Henry;male;
+1;0;Williams. Joseph;male;
+1;0;Grieves. George;male;
+1;0;Donegan. James;male;
+0;0;Clare. William;male;
+0;0;Snowden. John Robert;male;
+1;0;Dixon. Arthur Henry;male;
+0;0;McGrath. John;male;
+1;0;Hayes. Joseph Arthur;male;
+1;0;Gibson. John Victor;male;
+0;0;Madden. Francis John;male;
+1;0;Clague. robert Henry;male;
+1;0;Fereday. Arthur William;male;
+0;0;Gale. Thomas John;male;
+0;0;Phenna Frederick';male;
+0;0;Hunt. Thomas William Dean;male;
+1;0;Cooke. Thomas;male;
+1;0;Canepa. William Lazarus;male;
+0;0;Baker. Thomas Henry;male;
+0;0;Muphy. Jack;male;
+1;0;Pitts. William Henry;male;
+0;0;Crellin. Robert William;male;
+0;0;Skerritt. Leonard Paul;male;
+1;0;Green. Frederick George;male;
+0;0;Gavigan. Bernard;male;
+1;0;Hobson. Sydney Francis;male;
+1;0;Hollies. Harriet Ellen (Coombs);female;
+0;0;Dinwoodie. Agnes Etherl;female;
+0;0;Leders. Elizaberth (Turnbull);female;
+1;0;Norman. Frank Samuel;male;
+0;0;Furness. John William;male;
+0;0;Baxter. George R.;male;
+1;0;Hope-Childs. Harold Bertram;male;
+1;0;Pemberton. Alber Joseph T.;male;
+1;0;Matthew. John Edward;male;
+0;0;Glover. Thomas Henry;male;
+1;0;Lee. Sydney;male;
+1;0;Turner. Joseph;male;
+0;0;Harrison. Frank;male;
+0;0;Pierce. Augustus;male;
+1;0;Ventre. Joseph;male;
+1;0;Simon. Albert Henry;male;
+0;0;Pritchard. Ernest Norman;male;
+1;0;Clandon. Henry C.;male;
+1;0;Knill. Arthur;male;
+1;0;Sharkey. Martin;male;
+0;0;Johnson. Harold;male;
+0;0;Gardner. William;male;
+1;0;Wynne. Edward Thomas;male;
+1;0;McAleavey. Patrick;male;
+0;0;Bray. William Edward;male;
+1;0;Haran. Patrick;male;
+1;0;Lewis. John;male;
+0;0;Lappin. William Henry;male;
+1;0;Cunningham. James J.;male;
+1;0;Williams. David;male;
+0;0;Johnson. James;male;
+0;0;Leary. Charles;male;
+0;0;Swinton. Alexander (John Black);male;
+1;0;Rohr. Arnold;male;
+1;0;Braithwaite. Isaac;male;
+1;0;Elliott. Alfred Douglass;male;
+1;0;Shaw. Henry Edward;male;
+1;0;Douglas. Thomas;male;
+1;0;Smith. Thomas John;male;
+1;0;McDonnell. Muchael Joseph;male;
+1;0;Knight. Robert;male;
+1;0;Dawson. Alfred;male;
+1;0;Paterson. John;male;
+1;0;Bishop. Thomas;male;
+0;0;Corfe. John Eustace;male;
+0;0;Madden. Bertha Emma (Brown);female;
+1;1;Abbott. Mr. Frank Ernest;male;41
+1;1;Abercrombie. John Robertson;male;25
+1;1;Adie. Percy James;male;36
+1;1;Marion. Mrs. Percy J. (Marion Sharp);female;33
+0;1;Anderson. Albert Bruce;male;43
+0;1;Averdieck. Percy Clifford;male;22
+0;1;Barlow. Alfred Ernest Albert;male;52
+0;1;Barlow. Mrs. Alfred E. A. Fanny Elizabetth;female;50
+0;1;Bennett. Ella Mary;female;49
+0;1;Bloomfield. Robert William Read;male;52
+0;1;Bloomfield. Isabella Louisa;female;46
+0;1;Bloomfiedl. Hilda isabel Read;female;23
+1;1;Bowes-Lyon. Charles Lindsay Claud;male;28
+0;1;Brandon. Vernon Gething;male;31
+1;1;Burrows. Alfred John;male;43
+1;1;Burt. Clayton Ray;male;38
+1;1;Cash. Johm Hardwood;male;50
+1;1;Cash. Mary Kate;female;52
+0;1;Cay. Catherine Beatrice;female;38
+0;1;Cayley. John Joeseph;male;43
+1;1;Clarke. Charles Robert;male;41
+0;1;Cox-Edwards. Joseph Francis;male;50
+0;1;Crathern. Waneta;female;35
+0;1;Cullen. Maude;female;32
+0;1;Cullen. Isobel Maud;female;6
+0;1;Cullen. Albert Edward;male;2
+1;1;Blythe. Jennie P.;female;
+1;1;Cunningham. Robert Alexander;male;25
+1;1;Darling. Murton Daniel Addison;male;28
+0;1;Dickson. Peter;male;33
+1;1;Duncan. James Fergus;male;41
+0;1;Dunlevy. Grace;female;41
+1;1;Fenton. Walter;male;28
+1;1;Gaunt. Doris Winifred;female;18
+0;1;Gallagher. Charlotte Harman;female;46
+1;1;Gallagher. Cedric Aubrey Wools;male;19
+1;1;Godson. Frederick Philip;male;26
+0;1;Goldthorpe. Charles;male;43
+1;1;Gosselin. Louis Aldei;male;44
+0;1;Graham. Walter Douglas;male;55
+0;1;Graham. Elizabeth;female;46
+0;1;Hailey. Elizabeth;female;61
+1;1;Henderson. George William Simpson;male;40
+1;1;Hirst. Arthur;male;39
+0;1;Herxheimer. Walter Salomen;male;36
+0;1;Halloway. Charlotte Elizabeth;female;57
+0;1;Howes. Frank William;male;53
+1;1;Hyamson. Lionel Alexander;male;29
+0;1;Irving. Laurence Sydney Brodribb;male;42
+0;1;Irving. Mabel Lucy;female;42
+0;1;Haggerston. Mabel Hilda;female;27
+0;1;Johnston. David;male;37
+1;1;Kent. John Lionel;male;41
+1;1;Kohl. Grace Margaret Fairbanks;female;19
+1;1;Lee. Alise Holland;female;23
+0;1;Lindsay. Murdoch Alexander;male;32
+0;1;Lyman. Herbert Henry;male;59
+0;1;Lyman. Florence Holwell;female;36
+0;1;Maginnis. Alexander Gordon;male;52
+1;1;Malloch. Charles;male;38
+0;1;Marks. Gabriel Jacob;male;42
+0;1;Marks. Marrion;female;34
+0;1;Miller. Catherine;female;34
+0;1;Mullins. Albert Edward;male;42
+1;1;Mullins. Kate Emily;female;38
+0;1;Mullins. Ellen;female;9
+0;1;O'Hara. Henry Robert;male;48
+0;1;O'Hara. Laura May;female;44
+0;1;O'Hara. Josephine Helen;female;10
+0;1;Palmer. Wallace Leonard;male;28
+0;1;Palmer. Ethel Courney;female;26
+1;1;Paton. Ethel Sabina;female;39
+0;1;Price. Hugh Wynne;male;56
+0;1;Rutherford. Frederick James;male;45
+0;1;Seton-Karr. Henry;male;61
+1;1;Seybold. Edward;male;64
+0;1;Seybold. Susannah;female;64
+1;1;Smart. George Bogue;male;50
+0;1;Stork. Mary Louisa;female;55
+0;1;Taylor. John Thomas;male;48
+0;1;Taylor. Dorothy Maud;female;20
+0;1;Taylor. Helen Marjorie;female;18
+1;1;Townshend. Tiria Vere Ferrers;female;17
+0;1;Tylee. Charles David;male;67
+0;1;Tylee. Martha;female;63
+1;1;Wakeford. Alfred Joseph;male;50
+1;1;Wallett. Joseph;male;33
+0;2;Adridge. Ernest William;male;30
+1;2;Archer. Tracey Harley;male;33
+0;2;Archer. Ruth Mary;female;33
+0;2;Archer. Alfred Cecil;male;2
+0;2;Assafrey. Alma Fedora;female;26
+0;2;Atkin. Maud;female;24
+1;2;Attwell. George Ernest S.;male;42
+1;2;Attwell. Hattie Eva ;female;44
+0;2;Axten. Dorothea;female;35
+0;2;Lionel. Axten;male;3
+0;2;Bach. Mr. Reinholdt;male;78
+1;2;Bach. Miiss. Edith Christina;female;40
+1;2;Bales. Miss. Edith;female;21
+0;2;Barbour. Mrs. Thomas William (Sabena Hicks);female;39
+1;2;Barbour. Miss. Florence Jessie;female;9
+0;2;Barbour. Miss. Evelyn Beatrice;female;3
+0;2;Barrie. Mr. William Simposon;male;29
+0;2;Bawden. Miss. Elizabeth;female;31
+0;2;Bawden. Miss. Florence Annie;female;24
+0;2;Baxter. Miss. Annie May;female;13
+0;2;Beale. Mr. Edward;male;31
+0;2;Beauchamp. Mrs. Otto L. (Ruth Foster);female;19
+0;2;Beckstead. SA Adjt. Nettie Elizabeth;female;42
+0;2;Berry. Miss Ethel de la Tour;female;20
+0;2;Bigland. SA Lt. Joseph Stanley;male;22
+0;2;Birkett. Mr. Henry James;male;22
+0;2;Bishop. Mr. Thomas George Tetley;male;17
+1;2;Black. Mr. John Wilson;male;39
+1;2;Black. Mrs. John W. (Rosena Leitch);female;33
+0;2;Blackhurst. Mrs. Frederick (Ada Ratcliff);female;45
+0;2;Bonthrone. Mr. Alexander;male;21
+0;2;Bonynge. SA Eensign James George Victor;male;35
+0;2;Boynton-Lee. Mrs. Griffith (Fanny Elisabeth Biggs);female;40
+1;2;Brooks. Mr. Frank Percy;male;30
+0;2;Brown. Miss Alice;female;
+0;2;Brown. Mr. Overend;male;26
+0;2;Buhler. Mr. Costa;male;55
+0;2;Bulpitt. Mr. Reginald George;male;24
+0;2;Burgess. Mrs. William Miller (Susan Robertson);female;60
+0;2;Butler. Miss. Rose;female;
+1;2;Byrne. Mr. Edward;male;59
+0;2;Byrne. Mrs. Edward (Eliza Ann Bickford);female;60
+0;2;Byrne. Miss. Selina Gertrude;female;20
+0;2;Caughey. Mr. Albert Edward;male;36
+0;2;Caughey. Mrs. Albert E. (Helen Hughes);female;34
+0;2;Chignell. Mrs. William Henry (Eliza Leys);female;70
+0;2;Clarke. Mrs. Willie (Lavinia Simpson);female;34
+0;2;Cole. Mrs. Albert  (Annie Armitage);female;42
+1;2;Cook. Mrs. George E. (Annie Emma Jane Rampling);female;43
+1;2;Court. Miss. Emily Florence;female;33
+0;2;Creighton. SA Major David Law;male;50
+0;2;Creighton. Mrs. David L. (Bertha Jane Dixon);female;42
+1;2;Crellin. Mr. Robert William;male;35
+0;2;Dale. Mrs. John (Mary Parker);female;26
+0;2;Dale. Miss;female;1.83
+1;2;Dandy. Mr. James Ferguson;male;47
+0;2;Dargue. Mrs. Joseph (Annie Isabella Barrass);female;43
+1;2;Davidson. Mr. Gordon Charles;male;29
+1;2;Davies. Mr. Thomas William;male;26
+0;2;Davies. Mrs. T. William (Eliza Ethel Gough);female;25
+1;2;Davison. Mrs. Charles Oliver (Daisy May Barling);female;32
+1;2;Davison Miss. Dorothy Ada;female;1.5
+0;2;Death. Mr. Arthur Henry;male;48
+0;2;De Bow. SA Adj. Everett Stanley;male;34
+0;2;De Bow. Mrs. Everett S. (Elizabeth Agnes McKim);male;28
+0;2;Doss. SA Capt. John Edward;male;28
+0;2;Doss. Mrs. John E. (Violet Victoria Howson);female;26
+0;2;Dunn. Mrs. James Edward (Jane Elizabeth Elliott);female;48
+0;2;Eastes. Miss Frances Hannah;female;36
+0;2;Edwards. SA Adjt. George;male;
+0;2;Emslie. Mrs. Peter (Jane Christie);female;56
+1;2;Erzinger. Mr. Walter;male;25
+0;2;Evans. Mr. Ernest Josua;male;31
+0;2;Evans. Mrs. Ernest J. (Emma Willett);female;26
+0;2;Evans. Miss C.;female;0.83
+0;2;Farr. Miss Kathleen Helen;female;8
+0;2;Farr. Miss Annie Meggitt;female;6
+0;2;Farr. Miss Dorothy;female;5
+0;2;Farr. Miss Bessie;female;3
+0;2;Felstead. SA Bandsman George Philip;male;38
+0;2;Findlay. SA Major Hugh;male;40
+0;2;Findlay. Mrs. Hugh (Isabella Ivison);female;47
+0;2;Fisher. Mrs. John (Margaret Lightfoot);female;47
+0;2;Fisher. Mr. Wilfred;male;23
+0;2;Foard. Mr. Herbert Edward;male;43
+0;2;Foord. SA Dandsman Alfred Ernest;male;33
+0;2;Foord. Mrs. A. Ernest (Alice Ward);female;32
+0;2;Foord. Miss Alice Margaret;female;4
+1;2;Freeman. Mr. Henry;male;49
+1;2;Freeman. Mrs. Henry (Mary Massoth);female;45
+0;2;Goddard. Mr. John arthur;male;46
+0;1;Grafton. Mrs. Henry John (Susannah Caroline Woodbridge);female;78
+0;2;Gray. Mrs. Charles James (Madeline Shirt);female;34
+0;2;Gray. Miss Mary Winifred;female;5
+0;2;Gray. SA Bandsman Edwin Philip;male;25
+0;2;Green. SA Adjt. Harry John Scantlebury;male;46
+0;2;Green. Adjt. Mrs. Harry Green (Nellia Adams);female;45
+1;2;Green. Mr. Ernest Harry;male;22
+0;2;Green. Miss. Jessie;female;21
+1;2;Greenaway. Mr. Herbert Booth;male;23
+1;2;Greenaway. Mr. Thomas Hartley;male;25
+1;2;Greenaway. Mrs. Thomas H. (Margaret Ellen Dalzell);female;29
+0;2;Griffin. Mrs. William Harold (Grace Withnall);female;28
+0;2;Griffin. Miss Winniefred Pauline;female;0.5
+0;2;Griggs. Mr. James;male;54
+0;2;Griggs. Mrs. James (Pricilla White);female;54
+0;2;Groom. SA Capt. Charles Henry;male;27
+0;2;Hakker. Mrs. John (Harriet);female;26
+0;2;Hakker. Miss. Judith;female;0.58
+0;2;Halliday. Mr. Christopher;male;51
+0;2;Hanagan. SA Adjt. Edward James;male;37
+0;2;Hanagam. Mrs. Edward J. (Edith Emily Collishaw);female;39
+1;2;Hanagam. Miss Edith Grace;female;7
+0;2;Hart. Mr. William;male;29
+0;2;Hart. Mrs. William (Emma M Roach);female;23
+0;2;Hart. Miss Edith;female;4
+0;2;Hart. Master William;male;1.5
+0;2;Hayes. SA Staff Capt. Mary Emma;female;41
+0;2;Heath. Mr. Hugh Lenter;male;28
+0;2;Heath. Master Jack Russell;male;3
+0;2;Hepburn. Mrs. Frank Hamilton (Mary Katherine Meridith);female;37
+0;2;Hepburn. Barbara Meredith;female;2.5
+0;2;Hepburn. Master Owen Meredith;male;
+0;2;Hoggan. Mrs. Robert (Rosinda Blakey);female;24
+0;2;Holcombe. Miss Florence Louisa Newton;female;37
+0;2;Hope. Miss Chrissie Burgess;female;4
+0;2;Horwood. SA Bandsman William;male;33
+0;2;Howarth. Mr. William;male;
+0;2;Howarth. Mrs. William (Nellie Byrne);female;
+0;2;Howarth. Master Melvin;male;5
+0;2;Hudson. Mr. R. W.;male;
+0;2;Humphreys. SA Bandsman William John;male;35
+1;2;Hunt. Dr. Rensselear Wilkins;male;56
+0;2;Hunt. Miss Elanor B. de Vere;female;53
+0;2;Hunter. SA Brigadier John ;male;51
+0;2;Hunter. Mrs. John (Jessie Charlotte Ogilvy Tulloch);female;48
+0;2;Hunter. Miss Grace;female;13
+0;2;Hunter. Master John Howard;male;11
+1;2;Johnson. Mr. James;male;28
+0;2;Johnston. Mr. George A.;male;22
+0;2;Jones. SA Ensign Miss Emily;female;
+0;2;Jones. SA Bandsman Edward Thomas;male;24
+0;2;Kavalesky. Mr. Ivan;male;
+1;2;Keith. SA. Lt. Alfred Thomas;male;22
+0;2;Knudson. SA Capt. Hannah Elizabeth;female;30
+1;2;Kruse. Mr. Herman;male;48
+1;2;Kruse. Miss Freda Josephine;female;20
+1;2;Langley. Mr. John Wise;male;26
+0;2;Langley. Miss Mary Anne;female;
+0;2;Law. Mr. Ernest;male;37
+0;2;Law. Mrs. Ernest (Margaret Haythornthawaite);female;38
+0;2;Law. Master Jack;male;8
+1;2;Lennon. Mr. James Joseph;male;30
+0;2;Longley. Mr. Leonard Hurlock;male;26
+0;2;Longley. Mrs. Leonard H. (Gertrude Eva Day);female;21
+0;2;Longley. Miss Marion;female;1
+0;2;Maidment. SA Col. Sydney Charles;male;45
+0;2;Maidment. Mrs. Sydney C.  (Harriet Packham);female;46
+0;2;Malone. SA Bandsman Robert;male;28
+0;2;Mardell. SA Ensign Oliver Pinnock;male;31
+0;2;Matier. Mr. Alexander;male;34
+0;2;McAlphine. Mr. A. L.;male;
+1;2;McAmmond. SA Staff Capt. David Foster;male;45
+0;2;McGrath. Capt. Matthew James;male;35
+1;2;McIntyre. Mr. Kenneth A.;male;25
+0;2;Mr. John McQueen McLean;male;37
+0;2;Meacher. SA Bandsman George;male;35
+0;2;Measures. Mr. William Howard;male;19
+0;2;Moir. Mrs. Charles (Euphemia Sander Prior);female;33
+0;2;Morgan. Miss Lilianm Else;female;21
+0;2;Morgan. Mr. James Oswald;male;64
+0;2;Morgan. Mr. William;male;20
+1;2;Morris. SA Major Frank;male;39
+0;2;Morris. SA Staff Capt. Arthur;male;33
+0;2;Morris. Mrs. Arthur (Daisy Lillian Coombs);female;29
+0;2;Mounsey. Mrs. William (Fanny Sewell);female;57
+0;2;Myers. SA Capt. James Patterson;male;29
+0;2;Neeve. SA Bandsman Ernest Edward;male;27
+0;2;Newton. Miss. Jane;female;53
+0;2;Noneley. Miss. Ann;female;34
+0;2;Nuttall. Mrs. Tom (Christine McColl);female;29
+0;2;Nuttall. Master Ralph George;male;0.33
+0;2;Nuttall. Master Tom;male;1
+1;2;Oslender. Mr. Joseph;male;27
+0;2;Pantling. Mrs. Isaac James (Sarah Ann Hurst);female;30
+1;2;Patrick. Mr. Julian;male;24
+0;2;Pattendan. SA Ensign Bertram John;male;36
+0;2;Patterson. Mr. John;male;32
+0;2;Petterson. Mr. Robert Stuart;male;38
+0;2;Perkins. SA Bandsman Richard Henry William;male;40
+0;2;Perry. Mr. William Henry;male;
+1;2;Peturson. Mr. Hannes;male;33
+1;2;Peturson. Mrs. Hannes (Tilly Anna Chisholm);female;27
+0;2;Potter. SA Brig. William Scott;male;41
+0;2;Potter. Master Willard;male;9
+0;2;Potts. Mrs. Hugh (Margaret Heavey);female;26
+0;2;Price. Sa Adjt. Miss Hanna;female;
+0;2;Priestley. Miss Alice;female;51
+0;2;Priestley. Miss Martha;female;50
+0;2;Prior. Mrs. George Williaam (Edith Mary A Auger);female;33
+1;2;Pugmire. SA Ensign Ernest Ivison;male;26
+0;2;Rees. SA Commissioner David Mathias;male;56
+0;2;Rees. Mrs. David M. (Ruth Hepzibah Babington);female;51
+0;2;Rees. SA Capt. Ruth Maybury;female;25
+0;2;Rees. SA Capt. Hardin Willfred;male;22
+0;2;Rees. SA Corps Capt. Miss Annie Ina;female;15
+0;2;Richards. Mr. George Clement;male;72
+0;2;Richards. Mrs. George C. (Sarah Ann Street);female;70
+0;2;Richardson. Mr. William John;male;58
+0;2;Richardson. Mrs. William J. (Mary Ann Griffin Ryles);female;54
+0;2;Riley. Mr. John;male;
+0;2;Sampson. Mr. Samuel James ;male;33
+1;2;Schongutt. Miss H. (josephine Pepi);female;30
+0;2;Scott. Mr. John M.;male;
+0;2;Searle. Miss Eva Ruth;female;40
+0;2;Shattock. Mr. William Noah;male;38
+0;2;Simcoe. SA Major Mrs. Frederick (Annette Wallis);female;51
+1;2;Simmonds. Mr. Reginald Frank;male;27
+1;2;Simmonds. Mrs. Reginald F. (Mary Mahony);female;21
+0;2;Smith. Miss Sarah. Elizabeth;female;15
+0;2;Smith. Mrs. Lewis (E. A.);female;
+0;2;Soanes. Miss Alice Dorothy Amy;female;7
+0;2;South. Mr. Harold Neville;male;29
+0;2;South. Mrs. Harold N. (Elsie Marion Roberts);female;23
+1;2;Spooner. SA Capt. Rufus Thompson;male;26
+0;2;Spoor. Mr. Robert;female;24
+0;2;Spoor. Mrs. Robert (Margaret Calpin);female;24
+0;2;Stage. Miss Isabel;female;18
+0;2;Stainer. Miss Edith Elizabeth;female;31
+0;2;Stillman. Mr. Arthur Edward;male;25
+0;2;Stitt. SA Adjt. Fitzwilliam;male;28
+0;2;Stitt. Mrs. Fitzwilliam (Clara. Cofield);female;28
+0;2;Swindlehurst. Miss Sarah Agnes Ann;female;39
+0;2;Taplin. Mrs. James Walter (Elizabeth Turner);female;25
+1;2;Turpin. Mr. Richard;male;
+0;2;Veitch. Mr. B.;male;
+0;2;Vincent. Mr. John;male;56
+0;2;Vincent. Mrs. John (Clara Searson);female;57
+0;2;Wakefield. SA Bandsman William Henry;male;25
+0;2;Walker. SA Brig. John Henry;male;44
+1;2;Weinrauch. Mr. Bernard;male;37
+0;2;Whatmore. SA Capt. Giovanni Guido;male;25
+0;2;Whyte. Mrs. George Naismith (Mary Jane Know);female;28
+0;2;White. Miss. Amy Jane;female;0.83
+0;2;Whitelaw. Mrs. John Henry (Isabella Joplin Henderson);female;30
+1;2;Willmott. Miss Eliza;female;28
+1;2;Wilson. SA Capt. George;male;29
+0;2;Wolter. Mrs. Charlie (Agnes Isabella Liston);female;30
+0;2;Wood. Miss. Mary;female;46
+0;2;Wood. Mrs. Charles William (Fanny Simmonds);female;50
+0;2;Yates. Mr. Harry;male;21
+0;2;Yates. Mrs. Harry (Mary A Taylor);female;21
+0;2;Zebulak. Mr. Josef;male;27
+1;3;Adamiak. Mr. Kaspar;male;33
+0;3;Adamiece. Mr. Franciszek;male;30
+0;3;Adamovich. Mr. Jovo;male;
+0;3;Adamowicz. Mr. Joseph;male;20
+0;3;Aertjens. Mr. Emil;male;39
+0;3;Afanassief. Miss Mary Frances;female;
+0;3;Ainsworth. Mrs. Utley (Edith Smith);female;47
+0;3;Ainsworth. Miss Maud;female;12
+0;3;Ainsworth. Master Jack;male;11
+0;3;Ainsworth. Master Eric;male;7
+0;3;Alborg. Mr. Johann;male;27
+0;3;Alexejew. Mr. Leonty;male;
+0;3;Alexoff. Mr. Demiter;male;
+0;3;Allgrove. Mrs. James Rawlings (Florence Alice Daws);female;31
+0;3;Allgrove. Miss Vera Ellen;female;6
+0;3;Allgrove. Miss Evelyn Mira;female;1.75
+0;3;Anderson. Mrs. Alvin;female;
+0;3;Anderson. Mr. A.;male;
+0;3;Anderson. Mr. J.;male;
+1;3;Anderson. Mr. Johan;male;35
+1;3;Anderson. Mr. Olaf;male;27
+0;3;Andrews. Mr. Herbert John;male;29
+0;3;Antonuk. Mr. Nikolai;male;19
+0;3;Appleton. Mr. Charles;male;42
+1;3;Atkinson. Mr. John;male;24
+0;3;Bebezuk. Mr. B.;male;
+0;3;Babezuk. Mrs. B.;female;
+0;3;Babezuk. Miss Mary;female;
+0;3;Babiski. Mr. Wasili;male;
+0;3;Baie. Mr. Sima;male;
+1;3;Bangen. Miss Mary;female;43
+0;3;Bartschi. Mr. Christain;male;34
+1;3;Bartschi. Mr. Theophile;male;33
+0;3;Basta. Mr. Andrew;male;
+0;3;Bednarz. Mr. Jan;male;23
+0;3;Befara. Mr. Nazzarino;male;22
+0;3;Bekoeff. Mr. Tartari;male;24
+0;3;Bell. Mr. Daniel;male;
+0;3;Bellucci. Mr. Sante;male;35
+0;3;Bellucci. Mr. Luciano;male;32
+0;3;Belser. Mrs. Michael (Katherine);female;
+1;3;Benari. Mr. Pete;male;
+0;3;Berar. Mr. Ilie;male;17
+1;3;Berar. Mr. Medre;male;
+1;3;Bercsan. Mr. Sandor;male;26
+0;3;Bergman. Mrs. Jack (Senja);female;23
+0;3;Bergman. Master Reino;male;
+0;3;Bernabei. Mr. Antonio;male;26
+0;3;Berry. Mr. Daniel;male;26
+1;3;Bevan. Mr. William George;male;26
+0;3;Biondi. Mr. Nazzareno;male;23
+0;3;Birch. Mrs. Reuben (Ellen Gertrude Tuner);male;36
+0;3;Birch. Master Jack Reuben Henry;male;7
+0;3;Birch. Miss elsie Alice;male;0.42
+1;3;Bjordal. Mr. Peder Luritz;male;37
+0;3;Blackham. Mr. Arthur James;male;25
+0;3;Blackburn. Miss Ethel May;female;23
+0;3;Blomqvist. Mr. Marcus August Sylvester;male;56
+0;3;Blomqvist. Mrs. Marcus A. S. (Elisabet Katarina Eriksson);female;56
+0;3;Blomqvist. Master Olov Sigfrid;male;11
+0;3;Blomqvist. Master Erik Walfrid ;male;9
+0;3;Boardman. Mr. Charles;male;33
+0;3;Boardman. Mrs. Charles (Catherine Ellen Pugh);female;28
+0;3;Bokic. Mr. Mile;male;
+0;3;Bolanian. Mr. Zacharie;male;
+0;3;Bolton. Mr. George Henry;male;32
+0;3;Bolton. Mrs. George Henry (Lillian Maud Smith);female;31
+0;3;Bolton. Maser. George Henry;male;3
+0;3;Bolton. Miss Sadie;female;0.13
+0;3;Boone. Mr. Jacobus;male;
+0;3;Borsik. Mr. Fred;male;
+1;3;Braet. Mr. Victor;male;29
+1;3;Braga. Mr. Egildo;male;28
+1;3;Braga. Mrs. Egildo (Carolina Tamorini);female;22
+0;3;Braga. Master Rino;male;1.5
+0;3;Braithwaiter. Mrs. Henry Heath (Martha Doris Ellis);female;26
+0;3;Braithwaite. Master William Ellis;male;3
+0;3;Braithwaite. Master John;male;2
+0;3;Brischuk. Mr. Diman;male;
+1;3;Bristow. Mr. Charles Henry;male;46
+0;3;Bristow. Mrs. Charles H. (Lena Clayton);female;42
+0;3;Bristow. Mr. Charles Henry;male;16
+0;3;Britten. Mr. Joseph;male;25
+0;3;Bronchin. Mr. Jules;male;
+0;3;Bronken. Mrs. Samuel (Nelsina Petronella Arnesdotter Starte);female;53
+0;3;Bronken. Miss Ella;female;10
+1;3;Brooks. Mrs. Frank Percy (Henrietta. Westwood) ;female;34
+0;3;Brooks. Miss Dorothy Caroline Mary;female;8
+0;3;Brooks. Mr. Hary;male;28
+1;3;Brown. Mr. Archie;male;
+0;3;Bryan. Mr. Caroline Agnes;male;21
+1;3;Brzozowski. Mr. Jan;male;33
+0;3;Bucciaretti. Mr. Giovanni;male;53
+1;3;Buchacs. Mr. Leonty;male;31
+0;3;Buck. Mrs. William (Mary Jane Staley);male;42
+1;3;Burrows. Mr. William Thomas;male;40
+0;3;Burrows. Mrs. William T. (Charlotte Ann Heyes);female;33
+0;3;Burrows. Master William John;male;10
+0;3;Burrows. Miss Elizabeth May;female;7
+0;3;Butacs. Mr. Demeter;male;43
+0;3;Carlson. Mr. Andrew;male;
+0;3;Carter. Mr. Harold Hewitt;male;35
+0;3;Chmilewsky. Mr. A.;male;
+0;3;Chomicz. Mr. Moisej;male;18
+0;3;Chou. Mrs. Charles (Amelia Mott);female;33
+0;3;Churcia. Mr. Pava;male;26
+0;3;Clark. Mrs. Joseph Huddart;female;48
+0;3;Clarke. Mr. Thomas;male;23
+0;3;Clarke. Mr. Stephen;male;19
+1;3;Clausen. Mr. David;male;39
+0;3;Clements. Mr. Robert H.;male;
+1;3;Constantin. Mr. Deliman;male;
+0;3;Cooper. Mr. Percy Daniel;male;20
+0;3;Trilaceya. Mr. George Costa;male;26
+1;3;Coste. Mr. Dalahea;male;
+0;3;Cotterill. Mrs. John (Eliza Oakley);male;53
+0;3;Cox. Miss Henrica Maria;male;30
+0;3;Crawford. Mrs Harold (May. Baines);male;21
+0;3;Cresswell. Mr. Frederick Joseph;male;31
+0;3;Creswell. Mrs. Frederick J. (Fanny Giles);female;34
+0;3;Dab. Mrs. Eliza;male;
+1;3;Delamont. Mr. John;male;50
+1;3;Delamont. Mrs. Jorn (Seraphine Cooper);female;51
+1;3;Delamont. Miss Elizabeth;female;29
+0;3;Delamont. Mr. Leonard Samuel;male;25
+1;3;Delamont. Mr. Arthur William;male;22
+0;3;Davies. Mrs. W. J.;female;60
+0;3;Dellamorte. Mr. Francesco;male;34
+0;3;Demassis. Mr. Luigi;male;
+0;3;Deveson. Mr. Frederick George;male;46
+0;3;Deveson. Mrs. Frederick G. (Phoebe Jane Giles);male;41
+1;3;Diski. Mr. Philip;male;26
+0;3;Dixon. Mrs. (Polly);female;
+0;3;Dowker. Mr. George Reader;male;52
+0;3;Dowker. Mrs. George R. (Mary Ann Peen);female;45
+1;3;Dransfield. Mr. George;male;31
+0;3;Dreha. Mr. John;male;
+0;3;Dudka. Mr. Roman;male;36
+0;3;Duffy. Mrs. James (Mary Ann Speak);female;33
+0;3;Dulevich. Mr. Stefan;male;
+0;3;Duma. Mr. Alexander;male;
+0;3;Durrant. Mr. James;male;24
+0;3;Durrant. Mrs. James (Frances King);female;30
+0;3;Dutton. Mrs. Edward (Kathleen);female;
+0;3;Dzurick. Mr. Iwan;male;45
+0;3;Edwards. Mr. Christopher;male;44
+1;3;Ekqvist. Mr. Arvid;male;31
+0;3;Elliott. Mr. Ernest;male;26
+0;3;Elliott. Mrs. ernest (Ellen Florence Donald);female;26
+0;3;Elliott. Master George Bruce;male;4
+0;3;Elliott. Master Frederick Ernest;male;1
+0;3;Engel. Mr. Jules;male;
+0;3;Engstrom. Mr. John;male;
+1;3;Erickson. Mr. Erik Johan;male;27
+1;3;Erikson. Mr. Nels Louis;male;48
+0;3;Eriksen. Mr. Anton;male;
+0;3;Evans. Mrs. Henry Russell Milroy (Alfrida Johansdotter);female;30
+1;3;Evanson. Mr. Arthur;male;25
+0;3;Evich. Mr. Dementi;male;
+0;3;Evison. Mr. Eli;male;27
+1;3;Evison. Mrs. Eli (Fanny Levi);female;25
+0;3;Evison. Master Julius;male;0.66
+0;3;Fabbri. Mr. Davide;male;26
+0;3;Fant. Mr. Mick;male;
+0;3;Farkas. Mr. George;male;72
+0;3;Faulkner. Mr. James;male;56
+0;3;Faulkner. Mrs. James (Mary Ellen Meredith);female;53
+0;3;Fell. Miss Edith;female;37
+0;3;Felstead. Mrs. George Philip (Louise Amelia Last);female;39
+0;3;Felstead. Mr. George William;male;15
+0;3;Felstead. Miss Edith Gladys;female;12
+0;3;Ferguson. Mr. A. C.;male;
+0;3;Fishwick. Mr. Edmund;male;40
+1;3;Flack. Mr. Percy George;male;24
+0;3;Flack. Mrs. Percy G. (Edith Frances Harrald);female;23
+0;3;Fliflet. Mrs. Carl A. (Josephine Holm);male;51
+0;3;Forstrom. Mr. Johann Wilhelm;male;36
+0;3;Forstrom. Mrs. J. Wilhelm (Amanda Gustafsson);female;32
+0;3;Forstrom. Master Waldo William;male;
+0;3;Fostrom. Master Tane;male;
+0;3;Fowler. Mr. John;male;35
+0;3;Fransen. Mr. Oscar;male;
+0;3;Fraser. Mr. Frank;male;49
+0;3;Fregoriczuk. Mr. Wasil;male;
+1;3;Furniss. Mr. Samuel George;male;35
+1;3;Fuss. Mr. Vavroshenetz;male;
+0;3;Gaguloff. Mr. Naluk;male;
+0;3;Garbuzew. Mr. Ewdokim;male;
+1;3;Gfard. Mr. Johannes;male;45
+0;3;Garnett. Mr. William;male;48
+0;3;Garnett. Mrs. William (Mary Heward);female;41
+0;3;Gasieff. Mr. Stephan;male;34
+0;3;Gassenhuber. Mr. Francis;male;31
+0;3;Gattrell. Mr. Ernest Maurice;male;39
+1;3;Gattrell. Mrs. Ernest M. (Adela Rachel Jasper);female;39
+0;3;Giles. Mr. William;male;24
+1;3;Gill. Mr. Martin;male;23
+0;3;Glover. Mr. Frank;male;
+1;3;Goddefroy. Mr. Leon;male;40
+0;3;Goff. Miss Agnes;female;27
+1;3;Gogoff. Mr. Tasko;male;36
+0;3;Goralski. Mr. Felix;male;
+0;3;Goss. Mr. John Manning;male;30
+0;3;Goss. Mrs. John M. (Beatrice Minnie Bath);female;31
+0;3;Goss. Miss Violet May;female;10
+0;3;Goss. Mr. John Jr.;male;7
+0;3;Goss. Mr. Joseph;male;4
+0;3;Grasa. Mr. Antonie;male;
+0;3;Grdisa. Mr. Miko;male;
+0;3;Green. Mrs. Walter Sidney (Florrie Roberts);female;29
+0;3;Greenfield. Mrs. John (Ruth Johnson);female;65
+1;3;Gregovich. Mr. John;male;31
+0;3;Griffin. Mrs. Alber James (Violetta Jane Boaz);female;27
+1;3;Grinevich. Mr. Alexander;male;34
+0;3;Gupka. Mr. Riupsijan;male;
+0;3;Guppy. Miss Elanor;male;30
+0;3;Gustafson. Mr. john;male;
+1;3;Guszczo. Mr. Adam;male;25
+0;3;Hakala. Mrs.;female;
+1;3;Halasch. Mr. Wasilj;male;27
+0;3;Hall. Mr. Henry;male;
+0;3;Halmi. Mrs Jacob (Liisa);female;68
+1;3;Hamalainen. Mr. Vilho;male;36
+0;3;Hammer. Miss Emma;female;
+0;3;Hannunen. Mr. Edwin;male;27
+1;3;Hannunen. Mrs. Edwin (Anna);female;25
+1;3;Harkonen. Mr. Reinhold;male;25
+0;3;Harrison. Mr. Hugh;male;
+0;3;Harvey. Miss. Carrie;female;19
+1;3;Hatischky. Mr. Tanaska;male;42
+0;3;Haverinen. Miss Kreeta Stiina;female;29
+1;3;Hedgecos. Mr. George;male;
+0;3;Heikkila. Mr. Antti Ola;male;32
+0;3;Heikkila. Mrs. antii (Hilja Maria Eskola);male;21
+0;3;Heikkila. Miss Vieno;female;0.83
+1;3;Heller. Mr. Abram;male;42
+0;3;Hill. Mrs. Walter (Mary Emma Clegg);female;24
+0;3;Hoad. Mrs. Frederick Charles (Kathleen Mavourneen Emily Lane);female;27
+0;3;Hoad. Miss Kathleen Emily;female;0.58
+0;3;Hobbs. Mrs. William Langdon (Mary Ann Evans);female;63
+0;3;Hobbs. Miss Louise;female;24
+0;3;Hokley. Mr. Edward;male;
+0;3;Holl. Miss Edith Annie;female;14
+0;3;Holmberg. Mr. Edward;male;
+0;3;Hopper. Mr. Frank Thomas;male;24
+0;3;Hopper. Mr. Frank Thomas;male;24
+0;3;Hopper. Mr. William;male;23
+0;3;Horowitz. Miss Mollie;female;
+0;3;Howanicz. Mr. Albert;male;
+0;3;Howarth. Mrs. Richard Hugh (Beatrice Morgan);female;31
+0;3;Howarth. Master Leonard;male;5
+0;3;Howarth. Miss. Emmie Marjory;female;4
+0;3;Howell. Mrs. Samuel Baker (Alice Waters);female;41
+0;3;Howell. Miss Lilian Alice Maytum;female;10
+0;3;Hunt. Mrs. Percy Joseph (Beatrice Elizabeth Mary Meddings);female;36
+1;3;Ilie. Mr. Boris;male;25
+0;3;Ilieff. Mr. Pavell;male;
+0;3;Ingleton. Miss Violet May;female;17
+0;3;Ispas. Mr. Alexander;male;
+0;3;Ivane. Mr. M;male;
+0;3;Jack. Mrs. David (Sarah Swift Coutts);female;35
+0;3;Jack. Master David;male;2
+0;3;Jaksic. Mr. Mile;male;30
+0;3;Jaksic. Mr. Vaso;male;45
+0;3;Jay. Mrs. Frederick (Emily Foley);female;40
+0;3;Jay. Miss Florence Lilian;female;13
+0;3;Jay. Master Frederick William arthur;male;10
+0;3;Jay. Miss Stella Dorothy;female;8
+0;3;Jay. Miss Emily Annie;female;7
+0;3;Jay. Master Clifford James;male;4
+0;3;Jeffrey. Miss Mary Ann;female;17
+0;3;Jeffries. Mrs. Isaac (Mary Elizabeth Unwin);female;65
+0;3;Jeffs. Mrs. William John (Kate Holliday);female;36
+0;3;Jeffs. Mr. Ernest Wilfred;male;16
+1;3;Jelisavac. Mr. Simo;male;35
+0;3;Jensen. Miss Annie;female;
+0;3;Johnson. Miss Alida;female;
+1;3;Johnson. Mr. Andrew;male;44
+0;3;Johnson. Mr. Edward;male;
+0;3;Johnson. Mr. James;male;64
+0;3;Johnson. Mrs. James (Johannah Catherine orgensen;female;61
+0;3;Johnson. Miss Mary Matilda;female;32
+0;3;Johnson. Mr. W.;male;
+0;3;Johnson. Mr. Ulf;male;
+0;3;Jonkainen. Mr. Frank;male;
+0;3;Jones. Miss Sarah Ellen;female;25
+1;3;Joukainen. Mr. Simo;male;27
+0;3;Jovitz. Mrs. Tsiva (Cjula);female;48
+0;3;Jovitz. Mr. Milaca;male;17
+0;3;Juniper. Mrs. Arthur James (Annie Elizabeth Wigg);female;23
+0;3;Juniper. Master Arthur W.;male;4
+0;3;Jussila. Mr. Kalle;male;32
+0;3;Kadieff. Mr. Hangeri;male;60
+1;3;Kallio. Miss Hilma;female;
+1;3;Kaminski. Mr. Josef;male;
+0;3;Kangas. Mr. Einar;male;
+0;3;Kangas. Mr. Kangas;male;
+1;3;Karanes. Mr. Muchael;male;28
+0;3;Kasparowicz. Mr. Joseph;male;27
+0;3;Keeley. Mr. Thomas;male;21
+0;3;Kearney. Mr. James Henry;male;20
+0;3;Kerr. Mr. Peter;male;39
+0;3;Kerr. Mrs. Peter (Mary Currie Russell);female;39
+0;3;Kerr. Miss Sarah;female;13
+0;3;Kerr. Mr. George;male;8
+0;3;Kerr. Miss Maggie;female;12
+0;3;Kerr. Master William Russell;male;4
+0;3;Kerr. Miss Catherine Russell;female;2
+0;3;Kesaniemi. mr. Matti;male;
+0;3;Kestila. Mr. Ivar;male;30
+1;3;Kiczak. Mr. Wojciech;male;45
+0;3;Kilsby. Mr. Charles Martin;male;67
+0;3;Kinos. Mr. Eino;male;26
+1;3;Kirtley. Mrs. Eli (Elizabeth Frank);female;25
+0;3;Kirwin. Mrs. James (Amelia Gertrude Sellers);female;23
+0;3;Kirwin. Master James;male;0.66
+0;3;Kitson. Mr. Herbert;male;39
+0;3;Kitson. Mrs Herber (Ada Mary Long);female;30
+0;3;Kitson. Miss Monica;female;4
+0;3;Kvisto. Mrs. Anshelm (Holma Sofia Rajamaki);female;29
+0;3;Kivisto. Master Toivo;male;5
+0;3;Kivisto. Miss Laura Helen;female;1.5
+0;3;Klemens. Mr. Josef;male;
+0;3;Kleva. Mr. Wasilj;male;
+0;3;Klimchuk. Mr. Istafi;male;
+1;3;Klukacz. Mr. Adam;male;39
+0;3;Knisz. Mr. Andrej;male;
+0;3;Koivisto. Mr. Thomas Fabian;male;29
+0;3;Koivisto. Mrs. Thomas (Susanna Paulina Juhontytar Lehtimaki);female;25
+0;3;Koivisto. Master Arvi;male;
+0;3;Koivisto. Master Martti;male;
+1;3;Kolomijetz. Mr. Mitrofan;male;21
+1;3;Korga. Mr. Jan;male;27
+0;3;Koskinen. Mrs. (Manda);female;31
+0;3;Koskinen. Miss Helmi;female;9
+0;3;Koskinen. Master James;male;
+0;3;Koskinen. Miss Milja;female;
+0;3;Kowalski. Mr. Jan;male;
+1;3;Koynyto. Mr. Saveli;male;
+0;3;Kozlowsky. Mr. Stanislaw;male;
+0;3;Kozoriz. Mr. Kuzma;male;
+0;3;Kravetz. Mr. Larion;male;
+1;3;Krawczenko. Mr. Anton R.;male;25
+1;3;Kruchinsky. Mr. Andrej;male;
+0;3;Krutin. Mr. Jan;male;
+0;3;Kryczuniak. Mr. Ivan;male;
+0;3;Kubeless. Mr. Frantz;male;
+1;3;Kuchoj. Mr. Mike;male;31
+0;3;Kupala. Mr. Jacob;male;
+0;3;Kupreczenko. Mr. John;male;
+1;3;Kutzi. Mr. Grigor;male;36
+0;3;Kuukari. Mr. Victor;male;
+0;3;Kwarchek. Mr. Feodore;male;
+0;3;Lahti. Mr. Herman;male;
+1;3;Lejesic. Mr. Jovan;male;
+1;3;Lammi. Mr. Matti;male;26
+0;3;Lampinen. Mrs (Liisa);female;72
+0;3;Langenicz. Mr.Peter;male;
+0;3;Larson. Mr. Nels;male;
+0;3;Larsen. Mrs. Johannes August (Patrina Laura Norberg);female;46
+0;3;Larson. Master Anton C.;male;4
+0;3;Laskey. Mr. Frederick George;male;28
+1;3;Lawler. Mr. Philip;male;58
+0;3;Lawler. Mrs. Philip (Ellen Garthwaite);female;47
+1;3;Lawler. Mr. Herbert;male;15
+0;3;Laws. Mr. Robert;male;32
+0;3;Lebedozicz. Mr. Ivan;male;
+0;3;Lee. Mrs. Ernest (Ethel Mary Durham);female;22
+0;3;Leeks. Master Willie;male;0
+0;3;Lehto. Mr. Mattie;male;25
+0;3;Leikas. Mr. Anselm;male;
+1;3;Lejczuk. Mr. Marcin;male;
+0;3;Levchik. Mr. Olef;male;
+1;3;Levetz. Mr. Archiv;male;
+0;3;Lewandowski. Mr. Becker;male;
+0;3;Leizner. Mr. Hyre;male;
+0;3;Lilek. Mr. T.;male;
+1;3;Lindqvist. Mr. Jonas;male;46
+1;3;Lindqist. Miss Martha Persdotter;female;39
+0;3;Livanoff. Mr. Peter;male;
+0;3;Loncar. Mr. Josip;male;21
+0;3;Lone. Mr. Hans Aslaksen;male;23
+0;3;Lone. Mrs. Hans A. (anna Knuttsdatter Flotekval);female;22
+0;3;Lone. Master Allic;male;5
+0;3;Lone. Miss lena;female;3
+0;3;Lone. Miss Clara;female;2
+0;3;Los. Mr. Harry;male;
+0;3;Lubniewski. Mr. Adam;male;40
+1;3;Lubniewski. Mr. Jacob;male;30
+0;3;Luchovich. Mr. Luka;male;
+1;3;Lukijanec. Mr. Maty;male;
+1;3;Lung. Mr. Ilia;male;37
+1;3;Lupini. Mr. Nazzareno;male;24
+1;3;Luren. Mr. Magnus C.;male;32
+0;3;Luren. Mrs. Magnus C. (Sarah O Lofthus);male;32
+0;3;Luzensky. Mr. Ignotty;male;
+0;3;Madsen. Mrs Peter (Signes Ostgaard);female;47
+0;3;Magyar. Mr. Toma;male;
+0;3;Makela. Mr. John;male;
+0;3;Maki. Mrs Juha (Amanda);female;32
+0;3;Maki. Miss Orvokki;female;2
+0;3;Maki. Mr. matti;male;34
+0;3;Makinen. Mr. Oscar;male;
+1;3;Malaschuk. Mrs. (Fama);female;28
+0;3;Malobasa. Mr. Dane;male;
+0;3;Mandryk. Mr. Harry;male;
+0;3;Mandryk. Mr. Izydor;male;37
+1;3;Marazewicz. Mr. Terenty;male;37
+0;3;Marian. Mr. Juon;male;
+0;3;Marin. Mr. Jovan;male;
+0;3;Marini. Mr. Guiseppe;male;41
+0;3;Marinkov. Mr. Gymo;male;
+0;3;Markkula. Mrs. Frans;female;40
+1;3;Markkula. Mr. Arvo;male;14
+0;3;Markkula. Master Eero;male;10
+0;3;Markkula. Master Aarne;male;7
+0;3;Markkula. Miss Tonia;female;2
+0;3;Martin. Mrs. James (Emma Payne);female;53
+0;3;Masic. Mr. Steve;male;
+0;3;Mason. Mrs. Joaseph;female;
+0;3;Mason. Master Howard;male;
+0;3;Matiyos. Mr. N;male;
+0;3;Mattson. Mrs. (Ida);female;
+0;3;Mattons. Master Sulo;male;
+0;3;Maule. Mres (Frances);female;
+0;3;Mawby. (Mrs. Joseph Arthur (Elsie Mary Stubbings);female;31
+0;3;Mawby. Miss Katherine Mary;female;2
+0;3;Mawhinney. Mr. George Waring;male;33
+0;3;May. Mr. Mark;male;41
+0;3;McGacgen. Mrs. Howard Archibald (Maude Mary Nicholson);female;41
+0;3;McGacgen. Miss Gladys Maud ;female;19
+0;3;McGacgen. Miss Alice Mary Marjorie;female;12
+0;3;McGacgen;;0.11
+0;3;McVeigh. Mr. James Henry;male;27
+0;3;Mezin. Mr. Demeter;male;43
+0;3;Mihekovic. Mr. Tomo;male;
+0;3;Mikulicza. Mr. George;male;
+0;3;Minardi. Mr. Luigi;male;23
+0;3;Mincy. Mr. petru;male;
+0;3;Mitchell. Mr. Sydney;male;48
+0;3;Miteff. mr. Gairo;male;
+0;3;Mitoff. Mr. Alexi;male;
+0;3;Morrhouse. Mr. Frederick;male;40
+0;3;Morosuk. Mr. Moise;male;
+0;3;Morelli. Mr. Paolo;male;29
+0;3;Morton. Mr. Lowther;male;27
+0;3;Morton. Mrs. Lowther (Ruth Spruston);female;26
+0;3;Morton. Miss Jane;female;
+0;3;Morton. Miss Kathleen;female;
+1;3;Mose. Mr. Harry N.;male;
+0;3;Moskelli. Mr. K.;male;
+0;3;Motki. Mr. Mike;male;
+0;3;Mullen. Mr. Robert;male;
+0;3;Murcsan. Mr. T.;male;
+1;3;Muzichuk. Mr. Nikita;male;
+0;3;Naulls. Mr. William George;male;55
+0;3;Naulls. Mres. William G. (Louisa Bills);female;50
+0;3;Nelson. Mr. Gustaf;male;
+0;3;Nevalainen. Mr. Otto;male;27
+0;3;Nikula. mr. John;male;
+0;3;Nikulaie. Mr. Ilie;male;
+1;3;Nilsson. Mr. Sigfrid;male;27
+1;3;Ninutear. Mr. Pavell;male;
+0;3;Nirny. Mr. Ilia;male;
+1;3;Nissila. Mr. Frank;male;31
+0;3;Nissila. Miss Sanni;female;
+0;3;Nivala. Mr. Juho Emil;male;36
+0;3;Nivala. Miss Lizzie;female;
+0;3;Nivala. Mr. Roy;male;
+0;3;Nixon. Mrs. John W. (Ethel Mary Jeffrey);female;29
+0;3;Nixon. Miss Emma J.;female;3
+0;3;Nixon. Master Leslie;male;1
+1;3;Nobiski. Mr. Piotr;male;39
+1;3;Novikov. Mr. Speredon;male;36
+1;3;Numminen. Mr. Mauno;male;66
+0;3;Oakley. Mr. George;male;
+0;3;Olecki. Mr. Onufrej;male;
+0;3;Olsen. Mr. Gustav;male;
+0;3;Pac. Mr. Vavyence;male;
+0;3;Paccozzachi. Mr. Guiseppe;male;
+0;3;Mr. Nika Pajin;male;
+0;3;Parker. Miss Thirza;female;48
+0;3;Parkinson. Miss Letitia;female;33
+0;3;Parrish. Mrs. Albert (Florence Ellen baker);female;32
+0;3;Parrish. Master Albert Harry;male;7
+0;3;Parrish. Miss Florence;female;2
+1;3;Parsk. Miss Maria;female;28
+1;3;Paskowicz. Mr. Iwan;male;
+0;3;Paterson. Mr. Alex;male;39
+0;3;Pawlowsky. Mr. Peter;male;
+0;3;Perkins. Mrs. Richard H. W. (Louise Maria Moss);female;36
+0;3;Permiakov. Mr. Ivan;male;
+0;3;Peryer. Mrs. William (Jeminma Richardson);male;49
+0;3;Peterson. Mr. G.;male;
+0;3;Petterson. Mr. George;male;27
+0;3;Petrocich. Mr. simon;male;
+1;3;Petruk. Mr. Metro;male;39
+0;3;Phillips. Mrs. Elijah (Rachel Pass);female;54
+0;3;Phillips. Miss Etherl;female;13
+0;3;Phillips. Master Hubert;male;11
+0;3;Piermattei. Mr. Lorenzo;male;18
+1;3;Pierpaoli. Mr. Domenico;male;37
+1;3;Piirainen. Mr. Erik;male;
+1;3;Polic. Mr. Stephan;male;22
+0;3;Polic. Mr. Isidor;male;29
+0;3;Polkluf. Mr. John;male;
+0;3;Pomichewski. Mr. Ignacy;male;47
+0;3;Pompei. Mr. Caesar;male;28
+0;3;Pop. Mr. Veralin;male;42
+1;3;Pop. Mrs. Veralin (Georgina);female;34
+0;3;Porii. Miss Hilma;female;29
+0;3;Podeleski. Mr. B. I.;male;
+0;3;Powdeleski. Mrs. B. I.;female;
+1;3;Praksi. Mr. frank Oscar;male;25
+0;3;Pratt. Mrs. Albert William (Mary louisa Holder);female;33
+0;3;Pratt. Miss Frances Louise;female;2
+0;3;Prescuitto. Mr. Ubaldo;male;29
+0;3;Prince. Mr. William Lee;male;34
+0;3;Prince. Mrs William Lee (Mary Alice Wilson);female;37
+0;3;Prince. Master Gilbert;male;5
+0;3;Pukas. Mr. Iwan;male;
+1;3;Pykari. Mr. Jacob;male;33
+0;3;Pykari. Mr. Kalle;male;22
+0;3;Raasakka. Mr. Antti;male;38
+0;3;Radburn. Mrs. William Wilson (Mary Nicholls);female;66
+1;3;Rantala. Mr. Kalle;male;21
+1;3;Rask. Mr. Peter O.;male;50
+0;3;Raven. Mr. lorenzo Ross;male;58
+1;3;Rebaljchenko. Mr. Feordor;male;34
+0;3;Reeves. Mrs. Allan (Rose Elizabeth Wright);female;28
+0;3;Reeves. Miss Dora;female;5
+0;3;Reid. Mr. Charles;male;
+0;3;Rigby. Mrs. John (Sarah Ann Bourne);female;43
+0;3;Robnsky. Mr. Adrian;male;
+0;3;Robson. Mr. George Lisle;male;41
+0;3;Rogozin. Mr. Wladimir;male;31
+0;3;Rogozin. Mrs. Wladimir (Anastasia);female;28
+0;3;Rogozin. Master Alexey;male;7
+0;3;Roman. Mr. Petra;male;30
+1;3;Romaniuk. Mr. Jakob;male;19
+0;3;Romanyszyn. Mr. Ignatz;male;
+0;3;Romanyszyn. Mr. Pawlo;male;31
+0;3;Ross. Mr. Thomas;male;25
+0;3;Ruddy. Mr. John;male;
+0;3;Russell. Mr. William;male;68
+0;3;Russel. Miss Sarah McQueen;female;33
+0;3;Ruud. Miss Laura Johansen;female;31
+0;3;Ryan. Mr. Alfred Theodorus Meyer;male;46
+0;3;Ryan. Mrs. Aldred T. M. (Edith Alie Lewandon);female;44
+0;3;Ryczko. Mr. Charyton;male;
+0;3;Saarinen. Mr. David;male;29
+0;3;Saarinen. Mrs. David (Holma Helena Irene Steonholm);female;28
+0;3;Saarinen. Master Nilo Ernesti;male;2
+0;3;Sagrafena. mr. Aurelio;male;32
+1;3;Salo. Mr. John;male;25
+0;3;Samuelson. Mr. Carl;male;
+1;3;Samuelson. Mr. Christian;male;22
+0;3;Sanden. Miss T.;female;
+1;3;Sapan. Mr. Janos;male;29
+1;3;Schakalida. Mr. Wasyl;male;26
+0;3;Scott. Mr. thomas usher;male;27
+0;3;Scott. Mrs. Thomas U. (Margaret. Peverley);female;25
+0;3;Scott. Master Thomas A.;male;2
+0;3;Schwaz. Mr. Johann;male;
+0;3;Seschinski. Mr. Joseph;male;
+0;3;Sejmon. Mr. Dyonizy;male;
+1;3;Shedlokc. Mr. Steve;male;22
+0;3;Shropas. Mr. J.;male;
+0;3;Shurnak. Mr. Martin;male;
+0;3;Sidorowicz. Mr. Jakim;male;
+0;3;Sikorski. Mr. lucjan;male;38
+1;3;Simczesin. Mr. Jan;male;36
+0;3;Simper. Mr. Alfred;male;36
+0;3;Simper. Mrs. Alfred (Marian Jordon);female;42
+0;3;Sipka. Mr. Nikola;male;29
+0;3;Sivula. Mr. Matti;male;27
+1;3;Skocin. Mr. John;male;
+0;3;Slyepovic. Mr. Steve;male;
+1;3;Smart. Mr. Arthur Thomas;male;29
+0;3;Smedberg. Mr. Rafael;male;33
+0;3;Smedberg. Master Charles;male;10
+0;3;Smedley. Miss Rose;female;52
+0;3;Smith. Mrs. Robert (Isabella Ramsay);female;54
+0;3;Smith. Mr. Frederick J.;male;
+0;3;Smith. Miss Maud J.;female;28
+0;3;Sokar. Mr. S.;male;
+0;3;Spooner. Mr. Ralph;male;64
+0;3;Spooner. Mrs. Ralph (Margaret Hill);female;65
+0;3;Spooner. Mrs. Ralph Jr. (Mary Smith);female;
+0;3;Spurgeon. Mrs. James George (Catherine Annie Britton);female;29
+0;3;Spurgeon. Miss kathleen Beatrice;female;6
+0;3;Staley. Mr. Daniel;male;34
+0;3;Statkus. Mr. Antonius;male;
+0;3;Starowoitow. Alfanasi;male;
+0;3;Steele. Mrs. Ralph James (Elizabeth Flood);female;34
+0;3;Steelem Miss Nora Mary;female;6
+0;3;Steele. Master James;male;0
+0;3;Steele. Miss Lily Ada;female;40
+0;3;Stevenson. Mr. Charles Alexander;male;47
+0;3;Stevenson. Mrs. Charles A. (Fanny Hardy);female;41
+0;3;Stevenson. Mrs. Robert (Margaret Riddell);female;33
+0;3;Stone. Mrs. George (Emma Impey);female;37
+1;3;Strcha. Mr. Grigory;male;
+0;3;Sundberg. Mr. Manda;male;40
+0;3;Suni. Mr. Matti;male;
+0;3;Sunich. mr. Petar;male;
+0;3;Suvelean. Mr. George;male;
+0;3;Svniesuk. Mr. A.;male;
+0;3;Swan. Mr. Charles;male;63
+1;3;Swanson. Mr. Amandus;male;44
+1;3;Swanson. Mr. Martin;male;33
+0;3;Swider. Mr. Stanislaw;male;
+0;3;Sydonik. Mr. Petro;male;
+0;3;Szabo. Mr. Johhn;male;41
+0;3;Szambargo. Mr. W.;male;
+0;3;Szilagy. Mr. Nikolae;male;
+0;3;Taavettila. Mr. Antti;male;31
+1;3;Taavettila. Mrs. Antti (Holma Katy Lehto);female;32
+0;3;Taavettila. Master Allan Mathias;male;7
+1;3;Tallbacka. Mr. Aleksander;male;35
+0;3;Takes. Mr. matthew;male;71
+1;3;Tankis. Mr. Demeter;male;35
+0;3;Tarry. Mrs. albert (Annie Mobbs);female;29
+0;3;Tarry. Miss Hilda May;female;9
+0;3;Tarry. Master Albert Raymond;male;8
+0;3;Taverner. Mr. James Robert;male;34
+0;3;Taverner. Mrs. James R. Clara Harriet Graves);female;31
+0;3;Taverner. Miss Evelyn Clara;female;5
+0;3;Taverner. Master Henry;male;2
+0;3;Taylor. Mr. James Thomas;male;
+0;3;Taylor. Miss Florence;female;12
+0;3;Thirkettle. Mr. dudley;male;
+1;3;Tholix. Nestor;male;28
+0;3;Tholix. Mrs. Nestor (Sphia Jern);female;23
+0;3;Thompson. Mrs. F;female;
+0;3;Tiitus. Mr. Jacob;male;
+0;3;Tipuricze. Mr. Joan;male;
+0;3;Todorovich. Mr. Malden;male;
+0;3;Tolander. Mrs. William Martin (Emma Louise);female;43
+0;3;Tome. Mr. Luigi;male;25
+0;3;Torikoff. Mr. Grigori;male;
+0;3;Treherne. Mr. Allan Edwin;male;43
+1;3;Trieff. Miss Kusten;female;33
+0;3;Tuffley. Miss Laura;female;26
+0;3;Turcic. Mr. imbro;male;
+0;3;Turnbull. Mrs. John (Caroline Ellen Norman);female;45
+0;3;Reginald. Master Albert;male;11
+0;3;Turner. Mr. Joseph Henry;male;24
+0;3;Tworkowski. Mr. Dominik;male;47
+0;3;Udin. Mr. Aaron;male;
+0;3;Ugolini. Mr. John;male;35
+0;3;Vagni. mr. Andelo;male;44
+0;3;Vagni. Mrs. Andelo (Anna Rossi);female;43
+0;3;Vagni. Miss Adele;female;10
+0;3;Cagni. Miss Ameriga;female;3
+0;3;Vagni. Master Luidi;male;
+0;3;Vaidanen. Mr. David;male;
+0;3;Valhoff. Mr. Krancho;male;
+0;3;Valhoff. Mrs. Krancho (Mico);female;
+1;3;Valimaski. Mr. Tuomas;male;43
+1;3;Van Castre. Mr. Victor;male;32
+1;3;Van de Moere. Mr. Victor;male;37
+0;3;Vanner. Mr. Thomas Ewart;male;23
+0;3;Varney. Mrs. Edward (Louisa Moran);female;61
+0;3;Varney. Miss Violet Gladys;female;17
+0;3;Varniers. Mr. Camille Joseph Marie;male;34
+0;3;Veniers. Mrs. Camille J. M. (Edmee Marie Munaut);female;41
+0;3;Verniers. Master John Marie;male;9
+0;3;Verniers. Master George Louis Joseph;male;8
+0;3;verniers. Master Edouard Camille Joseph Marie;male;7
+0;3;Verniers. Master Rene Joseph Marie;male;5
+0;3;Verniers. Miss marie Marguerite;female;4
+0;3;Verniers. Master Francois Xavier Joseph Marie;male;0.83
+1;3;Viita. Mr. Kalle;male;30
+0;3;Vinqvist. Mr. C. J.;male;
+1;3;Walker. Mr. james;male;37
+0;3;Walker. Mrs. James;male;
+1;3;Walkkey. Mrs. (Hilda);female;27
+0;3;Warne. Mrs. George (Jane Holloway);female;69
+0;3;Warwick. Mr. Charles Ralph;male;23
+0;3;Wasko. Mr. Pawlo;male;
+0;3;Watson. Mrs. Charles (Eliza Edith Kemp);female;43
+0;3;Weir. Miss Violet Maud;female;23
+0;3;White. Miss Alma May;female;21
+0;3;White. mrs. David (Selina Lear);female;50
+0;3;White. Mrs. George (Mary Ann Mitchell);female;53
+0;3;White. Miss Jessie;female;13
+0;3;Widlaski. Mr. Harry;male;
+0;3;Wiktorsky. Mr. Stanislawy;male;
+0;3;Wilcocks. Mr. Henry;male;42
+0;3;Wikes. Mr. Chales;male;22
+0;3;Witiaz. Mr. Fonio;male;
+0;3;Wojtowicz. Mr. Mike;male;
+1;3;Wolczuk. Mr. Jakym;male;
+0;3;Woodard. Mr. walter;male;47
+0;3;Woodard. Mrs. Walter (Eliza Butcher);female;51
+0;3;Woodard. Miss May Florrie;female;17
+0;3;Woodwards. Mrs. Henry Thomas (Sarah White);female;59
+0;3;Woodwards. Miss Sarah;female;27
+0;3;Worobiow. Mr. Timofei;male;36
+0;3;Worobiow. Mrs. Timofei (Maria);female;35
+0;3;Worobio. Master Nicolai;male;
+0;3;Worrall. Mr. Herbert Horace;male;20
+0;3;Zaleva. Mr. Marczin;male;
+1;3;Zolotrorew. Mr. Wasili;male;20
+0;3;Zsuffa. Mr. A.;male;
+1;3;Zuk. Mr. Georgi;male;32
+0;3;Zuk. Mrs. Georgi (Maria);female;32
+0;3;Zuk. Master Wladislaw;male;6
+0;3;Zuk. Miss Josefa;female;5
+1;3;Zuk. Mr. Kirilio;male;34
+0;3;Zrotam. Mr. Toader;male;
