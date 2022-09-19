@@ -1,6 +1,6 @@
 # Project4-ML-ETL
 
-# California Wildfires Study
+# Predicting Survivability of Passengers across Multiple Independent Maritime Crises
 ![Wildfire Image](https://c.tenor.com/IjTPynungU8AAAAC/titanic-breaks.gif)
 - - -
 <img width="1130" alt="Screen Shot 2022-07-25 at 8 05 03 PM" src="https://user-images.githubusercontent.com/100361900/180897420-898db16b-b078-4226-84d9-4ca53348b98c.png">
