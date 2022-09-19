@@ -19,3 +19,5 @@
 ## Data Links
 Titanic Prediction & EDA: 
 [https://www.kaggle.com/code/shardulmehetar/titanic-prediction-eda](https://www.kaggle.com/code/shardulmehetar/titanic-prediction-eda)
+[https://www.liverpoolmuseums.org.uk/merseyside-maritime-museum/maritime-museum-floor-plan/lifelines-gallery/empress-of-ireland](https://www.liverpoolmuseums.org.uk/merseyside-maritime-museum/maritime-museum-floor-plan/lifelines-gallery/empress-of-ireland)
+[https://www.kaggle.com/datasets/christianlillelund/passenger-list-for-the-estonia-ferry-disaster](https://www.kaggle.com/datasets/christianlillelund/passenger-list-for-the-estonia-ferry-disaster)
