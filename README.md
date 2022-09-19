@@ -3,7 +3,7 @@
 # Predicting Survivability of Passengers across Multiple Independent Maritime Crises
 ![Titanic Image](https://c.tenor.com/IjTPynungU8AAAAC/titanic-breaks.gif)
 - - -
-<alt="Screen Shot 2022-07-25 at 8 05 03 PM" src="https://github.com/huddack20/Project4-ML-ETL/blob/main/Pictures/ETL.png">
+![image](https://github.com/huddack20/Project4-ML-ETL/blob/main/Pictures/ETL.png)
 <img width="1124" alt="Screen Shot 2022-07-25 at 8 04 35 PM" src="https://user-images.githubusercontent.com/100361900/180897432-c8a21582-bad2-4cd6-a936-340ed8c9dc47.png">
 
 ![image](https://github.com/huddack20/Project4-ML-ETL/blob/main/Pictures/ML_MODELS.png)
