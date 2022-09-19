@@ -1,5 +1,3 @@
-# Project4-ML-ETL
-
 # Predicting Survivability of Passengers across Multiple Independent Maritime Crises
 ![Titanic Image](https://c.tenor.com/IjTPynungU8AAAAC/titanic-breaks.gif)
 - - -
