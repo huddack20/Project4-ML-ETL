@@ -26,3 +26,6 @@ RMS Empress of Ireland Passenger List:
 
 MS Estonia Passenger List:
 [https://www.kaggle.com/datasets/christianlillelund/passenger-list-for-the-estonia-ferry-disaster](https://www.kaggle.com/datasets/christianlillelund/passenger-list-for-the-estonia-ferry-disaster)
+
+Maritime disasters and Death probabilities:
+[https://www.kaggle.com/datasets/eisgandar/maritime-disasters-of-the-20th-century?select=Death+probabilities+males+and+females+by+age.csv](https://www.kaggle.com/datasets/eisgandar/maritime-disasters-of-the-20th-century?select=Death+probabilities+males+and+females+by+age.csv)
