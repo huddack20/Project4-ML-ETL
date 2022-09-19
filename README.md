@@ -14,6 +14,7 @@
 * Principal Component Analysis
 * Supervised ML - Logistic Regression, Random Forest, Supprot Vector Machine
 * Unsupervised ML - K-means, T-SNE
+* Deep Learning - Neural Network
 * GitHub 
 - - -
 ## Data Links
