@@ -2,7 +2,9 @@
 ![Titanic Image](https://c.tenor.com/IjTPynungU8AAAAC/titanic-breaks.gif)
 - - -
 ![image](https://github.com/huddack20/Project4-ML-ETL/blob/main/Pictures/ML_MODELS.png)
-
+# Project Overview
+The purpose of this project is to examine the Titanic dataset that is well known on Kaggle and to train Machine Learning models on the data to predict whether or not the passengers would survive the disaster. We also examined two other maritime disasters, the Empress of Ireland and the Estonia, and looked at whether models trained on their passenger lists or a combination of all three would result in a more accurate model. Finally, we took some of the previously created models and tested them on a dataset of hypothetical passengers of disasters from the years 1900-2010, adding in the year of the disaster as a feature variable, to see if the combined data set could be used to predict survival rates in general.
+- - -
 # Applications
 
 * TensorFlow
